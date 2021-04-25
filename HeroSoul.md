@@ -2,16 +2,16 @@
 title: "Item - Hero Soul"
 permalink: /HeroSoul/
 excerpt: "Hero Soul in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Hero Soul.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Beschreibung     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Beschreibung     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Adelaide](/images/h/h_Adelaide.jpg) | [Adelaide](/ItemsDE/her_359/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Adelaide für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |
   | 2 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/ItemsDE/her_388/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Astral für die Gruppe beschwören. Sein Rang kann mit Seelensplittern aufgewertet werden. |
   | 3 | ![Cassanbel](/images/h/h_Cassanbel.jpg) | [Cassanbel](/ItemsDE/her_396/){: .btn .btn--era5} | Hero Soul | Mit 30 Seelensplittern lässt sich Cassanbel für die Gruppe beschwören. Ihr Rang kann mit Seelensplittern aufgewertet werden. |

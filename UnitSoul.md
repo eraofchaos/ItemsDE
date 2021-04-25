@@ -2,16 +2,16 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Unit Soul.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Beschreibung     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Beschreibung     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Assassine](/images/u/ti_cishazhe.jpg) | [Assassine](/ItemsDE/unt_271/){: .btn .btn--era5} | Unit Soul | Mit 80 Seelen-Tokens lässt sich ein Assassine beschwören. Sein Rang kann mit Tokens aufgewertet werden. |
   | 2 | ![Basilisk](/images/u/ti_xiyi.jpg) | [Basilisk](/ItemsDE/unt_256/){: .btn .btn--era4} | Unit Soul | Mit 80 Seelen-Tokens lässt sich ein Basilisk beschwören. Sein Rang kann mit Tokens aufgewertet werden. |
   | 3 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/ItemsDE/unt_223/){: .btn .btn--era5} | Unit Soul | Mit 80 Seelen-Tokens lässt sich ein Behemoth beschwören, eine Einheit mit Macht SSR. |

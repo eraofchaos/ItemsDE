@@ -2,16 +2,16 @@
 title: "Item - Artifacts"
 permalink: /Artifacts/
 excerpt: "Artifacts in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Artifacts.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Beschreibung     |
-  |:---|---|:--------------------|:------------------|
+  | Nr | Icon |         Name        |   Beschreibung     |
+  |:---|------|:--------------------|:------------------|
   | 1 | ![Amulett der Totengräber](/images/t/artifact_40321.png) | [Amulett der Totengräber](/ItemsDE/art_129/){: .btn .btn--era4} | Ein Glücksbringer, mit dem ein Lich sich schützte. Eine der Komponenten für den Umhang des untoten Königs. |
   | 2 |  | [Anhänger der Aufhebung](/ItemsDE/art_136/){: .btn .btn--era4} | Ein Ornament, geformt wie ein Blitz und mit dessen Kraft ausgestattet. Ein Codex des Erzmagiers. |
   | 3 | ![Anhänger der Heiligkeit](/images/t/artifact_40416.png) | [Anhänger der Heiligkeit](/ItemsDE/art_155/){: .btn .btn--era5} | Eine Halskette eines Engels. Eine der Komponenten für den Engelsbund. |

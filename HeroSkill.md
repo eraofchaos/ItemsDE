@@ -1,17 +1,17 @@
 ---
-title: "Item - Hero SKill"
+title: "Item - Hero Skill"
 permalink: /HeroSkill/
-excerpt: "Hero SKill in Era of Chaos"
-last_modified_at: 2021-04-23
+excerpt: "Hero Skill in Era of Chaos"
+last_modified_at: 2021-04-25
 locale: de
-ref: "Hero SKill.md"
+ref: "Hero Skill.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Beschreibung     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Beschreibung     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 |  | [Abgelenkt](/ItemsDE/her_488/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Abgelenkt“ |
   | 2 |  | [Abkühlungsfluch](/ItemsDE/her_494/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Abkühlungsfluch“ |
   | 3 | ![Amnesie](/images/t/ps_shiyidafa.png) | [Amnesie](/ItemsDE/her_420/){: .btn .btn--era4} | Skill | Token eingesetzt für das Verfassen des Zauberbuchs „Amnesie“ |

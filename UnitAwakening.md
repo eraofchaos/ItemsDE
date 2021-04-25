@@ -2,16 +2,16 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Unit Awakening.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Beschreibung     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Beschreibung     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Chaoshydra-Seelenstein](/images/u/tia_duotoulong.jpg) | [Chaoshydra-Seelenstein](/ItemsDE/unt_341/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe der Chaoshydra. |
   | 2 | ![Seelenstein der Elfenmagierin](/images/u/tia_mofaxianling.jpg) | [Seelenstein der Elfenmagierin](/ItemsDE/unt_343/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Elfenmagierin. |
   | 3 | ![Seelenstein der Harpyienhexe](/images/u/tia_yingshenren.jpg) | [Seelenstein der Harpyienhexe](/ItemsDE/unt_329/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe der Harpyienhexe. |

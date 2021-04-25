@@ -2,16 +2,16 @@
 title: "Item - Materials"
 permalink: /
 excerpt: "Materials in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Materials.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Beschreibung     |
-  |:---|---|:--------------------|:------------------|
+  | Nr | Icon |         Name        |   Beschreibung     |
+  |:---|------|:--------------------|:------------------|
   | 1 | ![Buch der Essenzen](/images/t/i_cailiao_hexin2.png) | [Buch der Essenzen](/ItemsDE/mat_39/){: .btn .btn--era4} | Seltenes Material zur Aufwertung von Ausrüstung von Lila auf Lila +1. |
   | 2 | ![Buch der Essenzen +1](/images/t/i_cailiao_hexin2.png) | [Buch der Essenzen +1](/ItemsDE/mat_46/){: .btn .btn--era4} | Seltenes Material zur Aufwertung von Ausrüstung von Lila +1 auf Lila +2. |
   | 3 | ![Buch der Essenzen +2](/images/t/i_cailiao_hexin2.png) | [Buch der Essenzen +2](/ItemsDE/mat_53/){: .btn .btn--era4} | Seltenes Material zur Aufwertung von Ausrüstung von Lila +2 auf Lila +3. |

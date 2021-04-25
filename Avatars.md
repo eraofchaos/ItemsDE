@@ -2,16 +2,16 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: de
 ref: "Avatars.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsDE/){: .btn .btn--primary}[Artifacts](/ItemsDE/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsDE/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsDE/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsDE/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsDE/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsDE/Gift/){: .btn .btn--success}[Event related](/ItemsDE/Events/){: .btn .btn--warning}[Avatars](/ItemsDE/Avatars/){: .btn .btn--danger}[Consumables](/ItemsDE/Consumables/){: .btn .btn--info}[Unknown](/ItemsDE/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Name        |   Type  |   Beschreibung     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Name        |   Type  |   Beschreibung     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Adelaide-Avatar](/images/h/h_Adelaide1.jpg) | [Adelaide-Avatar](/ItemsDE/con_581/){: .btn .btn--era5} | Hero Avatar | Gewährt den Adelaide-Avatar. |
   | 2 | ![Aschegeboren-Avatar](/images/h/h_Luna3.jpg) | [Aschegeboren-Avatar](/ItemsDE/con_576/){: .btn .btn--era5} | Hero Avatar | Gewährt Lunas „Geboren aus der Asche“-Skin und -Avatar. |
   | 3 | ![Aschetyrann-Avatar](/images/h/h_Rashka3.jpg) | [Aschetyrann-Avatar](/ItemsDE/con_568/){: .btn .btn--era5} | Hero Avatar | Gewährt Rashkas Aschetyrann-Skin und -Avatar. |

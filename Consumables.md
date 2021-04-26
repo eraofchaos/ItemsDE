@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Consumables.md"
 toc: false
@@ -13,7 +13,7 @@ classes: wide
   | Nr | Icon |         Name        |   Type  |   Beschreibung     |
   |:---|------|:--------------------|:-------:|:------------------|
   | 1 |  | [Aktivitätswert](/ItemsDE/con_901/){: .btn .btn--era4} | VIP related | Das Abschließen von Tagesmissionen erhöht die Aktivitätsstufe. |
-  | 2 |  | [Alchemietrank](/ItemsDE/con_932/){: .btn .btn--era5} | Other | Ein Alchemietrank, den man erhält, indem man Materialien in der Alchemiewerkstatt veredelt. |
+  | 2 | ![Alchemietrank](/images/t/i_40020.png) | [Alchemietrank](/ItemsDE/con_932/){: .btn .btn--era5} | Other | Ein Alchemietrank, den man erhält, indem man Materialien in der Alchemiewerkstatt veredelt. |
   | 3 | ![Alte Karte](/images/t/i_810101.png) | [Alte Karte](/ItemsDE/con_1155/){: .btn .btn--era4} | GUILD_MAP_TREASURE | Eine alte Karte, auf der offenbar ein Schatz eingezeichnet ist. Zum Entdecken von Schätzen auf der Gildenkarte. |
   | 4 | ![Amazone: Kassandra](/images/h/h_kashandela1.jpg) | [Amazone: Kassandra](/ItemsDE/con_1082/){: .btn .btn--era5} | Special Skin | Gewährt die Skin „Amazone: Kassandra“. |
   | 5 | ![Anmeldemünzen](/images/t/i_40016.png) | [Anmeldemünzen](/ItemsDE/con_928/){: .btn .btn--era4} | Other | Du kannst seltene Münzen gegen diverse Gegenstände im Anmeldungsladen einlösen. |
@@ -37,9 +37,9 @@ classes: wide
   | 23 |  | [Blutrünstiger-Geist-Token](/ItemsDE/con_982/){: .btn .btn--era5} | Exclusive piece | Ein Blutrünstiger-Geist-Token einer uralten Kampagne, mit der das exklusive Potenzial des Behemoths erweckt wird: „Blutrünstiger Geist“. |
   | 24 | ![Böser Formstein](/images/t/i_8005.png) | [Böser Formstein](/ItemsDE/con_1127/){: .btn .btn--era5} | Holy Emblems Cast Stone | Ein böser Formstein, den man zum Formen von bösen Heiligen Emblemen benötigt. |
   | 25 | ![Chaotischer Formstein](/images/t/i_8004.png) | [Chaotischer Formstein](/ItemsDE/con_1126/){: .btn .btn--era5} | Holy Emblems Cast Stone | Ein chaotischer Formstein, den man zum Formen von chaotischen Heiligen Emblemen benötigt. |
-  | 26 |  | [Cross-Server-Gildenmünze](/ItemsDE/con_929/){: .btn .btn--era4} | Other | Erhält man durch Gildenkrieg (Cross-Server). |
+  | 26 | ![Cross-Server-Gildenmünze](/images/t/i_40017.png) | [Cross-Server-Gildenmünze](/ItemsDE/con_929/){: .btn .btn--era4} | Other | Erhält man durch Gildenkrieg (Cross-Server). |
   | 27 | ![Dame der Gesellschaft: Catherine](/images/h/h_Catherine8.jpg) | [Dame der Gesellschaft: Catherine](/ItemsDE/con_1031/){: .btn .btn--era5} | Special Skin | Damit erhältst du Catherines „Dame der Gesellschaft“-Skin. |
-  | 28 |  | [Dankbarkeit-Bonuspaket](/ItemsDE/con_2114/){: .btn .btn--era4} | Exclusive Token related | Gewährt ein Universal-Waffe-Token zur Auswahl. |
+  | 28 | ![Dankbarkeit-Bonuspaket](/images/t/i_906044.png) | [Dankbarkeit-Bonuspaket](/ItemsDE/con_2114/){: .btn .btn--era4} | Exclusive Token related | Gewährt ein Universal-Waffe-Token zur Auswahl. |
   | 29 | ![Der Kämpe von Sephinroth](/images/h/h_Sephinroth2.jpg) | [Der Kämpe von Sephinroth](/ItemsDE/con_1077/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Der Kämpe von Sephinroth“. |
   | 30 | ![Der Kämpfe von Adelaide](/images/h/h_Adelaide8.jpg) | [Der Kämpfe von Adelaide](/ItemsDE/con_1026/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Der Kämpfe von Adelaide“. |
   | 31 | ![Der Tod von Deyja](/images/h/h_LordHaart4.jpg) | [Der Tod von Deyja](/ItemsDE/con_1050/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Der Tod von Deyja: Lord Haart“. |
@@ -66,7 +66,7 @@ classes: wide
   | 52 | ![Einheiten-ERF](/images/t/i_106.png) | [Einheiten-ERF](/ItemsDE/con_902/){: .btn .btn--era9} | VIP related | Stufenaufstiege von Einheiten kosten Einheitenerfahrung. |
   | 53 | ![Eiskristall: Adelaide](/images/h/h_Adelaide3.jpg) | [Eiskristall: Adelaide](/ItemsDE/con_1023/){: .btn .btn--era5} | Special Skin | Damit erhältst du Adelaides Eiskristall-Skin. |
   | 54 | ![Energie](/images/t/i_104.png) | [Energie](/ItemsDE/con_900/){: .btn .btn--era4} | VIP related | Im Story-Modus und im Untergrund-Modus wird Energie verbraucht. |
-  | 55 |  | [Energiekern](/ItemsDE/con_931/){: .btn .btn--era5} | Battle Formation | Hiermit aktiviert man Formationsknoten. |
+  | 55 | ![Energiekern](/images/t/i_40019.png) | [Energiekern](/ItemsDE/con_931/){: .btn .btn--era5} | Battle Formation | Hiermit aktiviert man Formationsknoten. |
   | 56 |  | [Energiekern-Token](/ItemsDE/con_999/){: .btn .btn--era4} | Exclusive piece | Ein Energiekern-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Steinelementars erweckt wird – Energiekern. |
   | 57 | ![Engel-Skin „Wächter des Lichts“](/images/u/ti_datianshipifu2.jpg) | [Engel-Skin „Wächter des Lichts“](/ItemsDE/con_1973/){: .btn .btn--era5} | Unit Skin | Nach dem Öffnen erhältst du die Engel-Skin „Wächter des Lichts“. |
   | 58 | ![Erathia: Mullich](/images/h/h_Mullich2.jpg) | [Erathia: Mullich](/ItemsDE/con_1027/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Erathia: Mullich“. |
@@ -106,7 +106,7 @@ classes: wide
   | 92 | ![Geliebte Ciele](/images/h/h_Ciele3.jpg) | [Geliebte Ciele](/ItemsDE/con_1061/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Geliebte Ciele“. |
   | 93 | ![Gelu: Frühlingsfest-Feierlichkeiten](/images/h/h_Gelu7.jpg) | [Gelu: Frühlingsfest-Feierlichkeiten](/ItemsDE/con_1039/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Gelu: Frühlingsfest-Feierlichkeiten“. |
   | 94 | ![Gesandter aus Bracada](/images/h/h_Solmyr4.jpg) | [Gesandter aus Bracada](/ItemsDE/con_1066/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Gesandter aus Bracada: Solmyr“. |
-  | 95 |  | [Gildenkapital](/ItemsDE/con_930/){: .btn .btn--era4} | Other | Erhält man für Spenden. Kann im Gildenkrieg (Cross-Server) für Stadtgebote eingesetzt werden. |
+  | 95 | ![Gildenkapital](/images/t/i_40018.png) | [Gildenkapital](/ItemsDE/con_930/){: .btn .btn--era4} | Other | Erhält man für Spenden. Kann im Gildenkrieg (Cross-Server) für Stadtgebote eingesetzt werden. |
   | 96 | ![Gildenmünze](/images/t/i_98.png) | [Gildenmünze](/ItemsDE/con_896/){: .btn .btn--era4} | VIP related | Kann im Gildenladen gegen Gegenstände eingetauscht werden. |
   | 97 | ![Glücksgöttin – Pixie](/images/u/ti_mofaxianlingpifu2.jpg) | [Glücksgöttin – Pixie](/ItemsDE/con_2001/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Glücksgöttin – Pixie“. |
   | 98 | ![Glücksmünze](/images/t/i_40002.png) | [Glücksmünze](/ItemsDE/con_909/){: .btn .btn--era5} | VIP related | Gedenkmünze |
@@ -128,7 +128,7 @@ classes: wide
   | 114 | ![Göttliches Wasser](/images/t/i_40054.png) | [Göttliches Wasser](/ItemsDE/con_959/){: .btn .btn--era5} | Other | Eine in der „Heilige Statue“-Prüfung produzierte Ressource. Kann verwendet werden, um Gegenstände im Laden zu kaufen. |
   | 115 | ![Göttliches Zertifikat](/images/t/i_40053.png) | [Göttliches Zertifikat](/ItemsDE/con_958/){: .btn .btn--era5} | Other | Ein göttliches Zertifikat, die Saison-Rangbelohnung der Ruhmesarena. |
   | 116 | ![Hauptmann: Catherine](/images/h/h_Catherine6.jpg) | [Hauptmann: Catherine](/ItemsDE/con_1029/){: .btn .btn--era5} | Special Skin | Damit erhältst du Catherines Hauptmann-Skin. |
-  | 117 |  | [Heiliger Kristall](/ItemsDE/con_927/){: .btn .btn--era5} | Other | Ein auf übernatürliche Weise komprimierter Kristall, für den man im Cross-Server-Laden seltene Vorräte erhält. Erhält man in Schlacht der Götter (Cross-Server). |
+  | 117 | ![Heiliger Kristall](/images/t/i_godStone.png) | [Heiliger Kristall](/ItemsDE/con_927/){: .btn .btn--era5} | Other | Ein auf übernatürliche Weise komprimierter Kristall, für den man im Cross-Server-Laden seltene Vorräte erhält. Erhält man in Schlacht der Götter (Cross-Server). |
   | 118 | ![Heldenkönig-Avatarrahmen (2 Tage)](/images/a/avatarFrame_49.png) | [Heldenkönig-Avatarrahmen (2 Tage)](/ItemsDE/con_1010/){: .btn .btn--era5} | Experience Card | Gewährt 2 Tage lang Zugriff auf den Heldenkönig-Avatarrahmen. |
   | 119 | ![Herrscher über das Schicksal (14 Tage)](/images/a/avatarFrame_63.png) | [Herrscher über das Schicksal (14 Tage)](/ItemsDE/con_1021/){: .btn .btn--era5} | Experience Card | Erhältlich beim Erreichen des Meistertitels in der Cross-Server-„Schlacht der Götter“. |
   | 120 | ![Heruntergekommener Prinz: Roland](/images/h/h_Roland3.jpg) | [Heruntergekommener Prinz: Roland](/ItemsDE/con_1033/){: .btn .btn--era5} | Special Skin | Damit erhältst du Rolands „Heruntergekommener Prinz“-Skin. |
@@ -199,7 +199,7 @@ classes: wide
   | 185 | ![Riesiger ERF-Trank](/images/t/i_503.png) | [Riesiger ERF-Trank](/ItemsDE/con_703/){: .btn .btn--era4} | EXP | Eine Flasche mit hochgradig reinem ERF-Trank. Verleiht 7.500 Einheiten-ERF. |
   | 186 |  | [Ritterpike-Token](/ItemsDE/con_916/){: .btn .btn--era4} | Exclusive piece | Ein exklusives Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial der Ansturm-Einheit erweckt wird: „Ritterpike“. |
   | 187 | ![Ruhmesmünze](/images/t/i_40010.png) | [Ruhmesmünze](/ItemsDE/con_922/){: .btn .btn--era4} | Other | Gewirkt vom glorreichen Licht des Königreichs. Kann man nur erhalten, wenn man in Königreicheroberung-Schlachten kämpft. |
-  | 188 |  | [Ruhmeszertifikat](/ItemsDE/con_933/){: .btn .btn--era5} | Other | Ein Ruhmeszertifikat, das man als Aktivitätsbelohnung und Tagesbelohnung in der Ruhmesarena erhält. |
+  | 188 | ![Ruhmeszertifikat](/images/t/i_40021.png) | [Ruhmeszertifikat](/ItemsDE/con_933/){: .btn .btn--era5} | Other | Ein Ruhmeszertifikat, das man als Aktivitätsbelohnung und Tagesbelohnung in der Ruhmesarena erhält. |
   | 189 | ![Sack voll Diamanten](/images/t/i_509.png) | [Sack voll Diamanten](/ItemsDE/con_710/){: .btn .btn--era4} | EXP | Ein Paket mit 128 Diamanten! |
   | 190 | ![Sack voll Gold](/images/t/i_512.png) | [Sack voll Gold](/ItemsDE/con_714/){: .btn .btn--era4} | EXP | Ein Paket mit 60.000 Gold. |
   | 191 | ![Schattenstahl](/images/t/i_114.png) | [Schattenstahl](/ItemsDE/con_881/){: .btn .btn--era4} | Other | Ein Vorrat an Schattenstahl (Ressource der Stufe 2). Zum Verbessern der Kaserne. |
@@ -259,11 +259,11 @@ classes: wide
   | 245 | ![Tool_31036](/images/t/i_red_2.png) | [Tool_31036](/ItemsDE/con_857/){: .btn .btn--era5} | Guild member gift |  |
   | 246 | ![Tool_31037](/images/t/i_red_2.png) | [Tool_31037](/ItemsDE/con_858/){: .btn .btn--era5} | Guild member gift |  |
   | 247 |  | [Tool_40013](/ItemsDE/con_925/){: .btn .btn--era4} | Other |  |
-  | 248 |  | [Tool_40024](/ItemsDE/con_936/){: .btn .btn--era5} | Other |  |
-  | 249 |  | [Tool_40025](/ItemsDE/con_937/){: .btn .btn--era5} | Other |  |
-  | 250 |  | [Tool_40026](/ItemsDE/con_938/){: .btn .btn--era5} | Other |  |
-  | 251 |  | [Tool_40027](/ItemsDE/con_939/){: .btn .btn--era5} | Other |  |
-  | 252 |  | [Tool_40028](/ItemsDE/con_940/){: .btn .btn--era5} | Other |  |
+  | 248 | ![Tool_40024](/images/t/i_40024.png) | [Tool_40024](/ItemsDE/con_936/){: .btn .btn--era5} | Other |  |
+  | 249 | ![Tool_40025](/images/t/i_40025.png) | [Tool_40025](/ItemsDE/con_937/){: .btn .btn--era5} | Other |  |
+  | 250 | ![Tool_40026](/images/t/i_40026.png) | [Tool_40026](/ItemsDE/con_938/){: .btn .btn--era5} | Other |  |
+  | 251 | ![Tool_40027](/images/t/i_40027.png) | [Tool_40027](/ItemsDE/con_939/){: .btn .btn--era5} | Other |  |
+  | 252 | ![Tool_40028](/images/t/i_40028.png) | [Tool_40028](/ItemsDE/con_940/){: .btn .btn--era5} | Other |  |
   | 253 |  | [Tool_499035](/ItemsDE/con_1002/){: .btn .btn--era4} | Exclusive piece |  |
   | 254 | ![Tool_6030403](/images/h/h_Gem5.jpg) | [Tool_6030403](/ItemsDE/con_1047/){: .btn .btn--era5} | Special Skin |  |
   | 255 | ![Tool_6070503](/images/h/h_Ciele5.jpg) | [Tool_6070503](/ItemsDE/con_1062/){: .btn .btn--era5} | Special Skin |  |

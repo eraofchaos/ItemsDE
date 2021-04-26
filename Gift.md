@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: de
 ref: "Gift.md"
 toc: false
@@ -45,7 +45,7 @@ classes: wide
   | 31 | ![Arbeiter-Vorratspaket E](/images/t/i_907294.png) | [Arbeiter-Vorratspaket E](/ItemsDE/con_1678/){: .btn .btn--era5} | Gift | Exklusives „Tag der Arbeit“-Paket. Du erhältst nicht nur die entsprechende Menge an Diamanten und VIP-ERF, sondern kannst auch jede Menge Goldschlüssel und Ereignisgegenstände bekommen! |
   | 32 | ![Armageddonklinge-Angebot](/images/t/i_907125.png) | [Armageddonklinge-Angebot](/ItemsDE/con_1905/){: .btn .btn--era5} | Gift | Gewährt 1 Weltuntergangs-Komponententruhe und 3.880 Diamanten. |
   | 33 | ![Armageddonklinge-Sonderangebot](/images/t/i_907125.png) | [Armageddonklinge-Sonderangebot](/ItemsDE/con_1837/){: .btn .btn--era5} | Gift | Gewährt 1 Weltuntergangs-Komponententruhe und 6.480 Diamanten. |
-  | 34 |  | [Armeevorrat](/ItemsDE/con_1083/){: .btn .btn--era5} | Gift | Eine Belohnung von Xeron für das Ereignis „Rolands Gefangennahme“. Gewährt dir zufällige wertvolle Ressourcen. |
+  | 34 | ![Armeevorrat](/images/t/i_907132.png) | [Armeevorrat](/ItemsDE/con_1083/){: .btn .btn--era5} | Gift | Eine Belohnung von Xeron für das Ereignis „Rolands Gefangennahme“. Gewährt dir zufällige wertvolle Ressourcen. |
   | 35 | ![Artefakt-Sonderangebot-Paket](/images/t/i_907048.png) | [Artefakt-Sonderangebot-Paket](/ItemsDE/con_1434/){: .btn .btn--era5} | Gift | Gewährt Falkenauge-Komponententruhe ×1, Titan-Komponententruhe ×1 und Formkristall ×1. |
   | 36 | ![Artefaktessenz](/images/t/i_99.png) | [Artefaktessenz](/ItemsDE/con_761/){: .btn .btn--era4} | Gift | Gewährt 1 Artefaktessenz, die man gegen verschiedene seltene Gegenstände eintauschen kann. |
   | 37 | ![Artefaktessenz-​Geschenkbox](/images/t/i_99.png) | [Artefaktessenz-​Geschenkbox](/ItemsDE/con_764/){: .btn .btn--era4} | Gift | Gewährt 1 Artefaktessenz. |
@@ -81,8 +81,8 @@ classes: wide
   | 67 | ![Bewegungspaket](/images/t/i_907338.png) | [Bewegungspaket](/ItemsDE/con_1722/){: .btn .btn--era4} | Gift | Gewährt 60 Diamanten und 100 Bewegung. |
   | 68 | ![Blaue Materialtruhe](/images/t/i_304002.png) | [Blaue Materialtruhe](/ItemsDE/con_1256/){: .btn .btn--era3} | Gift | Gewährt einen zufälligen Ausrüstungsaufwertungsgegenstand (Blau). |
   | 69 | ![Bronzetruhe](/images/t/i_50001.png) | [Bronzetruhe](/ItemsDE/con_968/){: .btn .btn--era2} | Gift | Eine vom Bogenschießen-Meister erhaltene Goldtruhe. Gewährt zufällig ein Einheiten-Token oder 1.000 Einheiten-ERF. |
-  | 70 |  | [Bucht-Fraktion-Auswahltruhe](/ItemsDE/con_1948/){: .btn .btn--era4} | Gift | Gewährt 1 Meerelementar- oder Regnanpirat-Token. |
-  | 71 |  | [Bucht-Fraktion-Truhe](/ItemsDE/con_1278/){: .btn .btn--era4} | Gift | Gewährt zufällig 1 Meerelementar- oder Regnanpirat-Token. |
+  | 70 | ![Bucht-Fraktion-Auswahltruhe](/images/t/i_904010.png) | [Bucht-Fraktion-Auswahltruhe](/ItemsDE/con_1948/){: .btn .btn--era4} | Gift | Gewährt 1 Meerelementar- oder Regnanpirat-Token. |
+  | 71 | ![Bucht-Fraktion-Truhe](/images/t/i_904010.png) | [Bucht-Fraktion-Truhe](/ItemsDE/con_1278/){: .btn .btn--era4} | Gift | Gewährt zufällig 1 Meerelementar- oder Regnanpirat-Token. |
   | 72 | ![Bucht-Tagesangebot-Paket A](/images/t/i_907219.png) | [Bucht-Tagesangebot-Paket A](/ItemsDE/con_1944/){: .btn .btn--era4} | Gift | Gewährt 20 Diamanten und 2 Bucht-Fraktion-Truhen. |
   | 73 | ![Bucht-Tagesangebot-Paket B](/images/t/i_907220.png) | [Bucht-Tagesangebot-Paket B](/ItemsDE/con_1945/){: .btn .btn--era4} | Gift | Gewährt 60 Diamanten, 10 Bucht-Fraktion-Truhen und 50.000 Gold. |
   | 74 | ![Bucht-Tagesangebot-Paket C](/images/t/i_907221.png) | [Bucht-Tagesangebot-Paket C](/ItemsDE/con_1946/){: .btn .btn--era4} | Gift | Gewährt 300 Diamanten, 1 Goldschlüssel, 20 Bucht-Fraktion-Truhen und 2 große Energietränke. |
@@ -90,7 +90,7 @@ classes: wide
   | 76 | ![Bucht-Truhe](/images/t/i_690021.png) | [Bucht-Truhe](/ItemsDE/con_1093/){: .btn .btn--era5} | Gift | Eine Truhe aus dem Ereignis „Bucht-Angriff“. Enthält zufällige wertvolle Ressourcen. |
   | 77 | ![Burg-Fraktion-Auswahltruhe](/images/t/i_907258.png) | [Burg-Fraktion-Auswahltruhe](/ItemsDE/con_1642/){: .btn .btn--era4} | Gift | Gewährt wahlweise 1 Token: Goblin, Wolfsreiter, Ork, Oger, Roc oder Zyklop. |
   | 78 | ![Chronicles-Truhe](/images/t/i_907245.png) | [Chronicles-Truhe](/ItemsDE/con_1071/){: .btn .btn--era5} | Gift | Wähle nach dem Öffnen einen der SR+-Seelensteine. |
-  | 79 |  | [Ciele-Sonderangebot-Paket](/ItemsDE/con_1514/){: .btn .btn--era4} | Gift | Gewährt Diamant ×6.480, Ciele-Token ×55, Zauberspruchrolle ×288 und Tempelrolle ×10. |
+  | 79 | ![Ciele-Sonderangebot-Paket](/images/t/i_907128.png) | [Ciele-Sonderangebot-Paket](/ItemsDE/con_1514/){: .btn .btn--era4} | Gift | Gewährt Diamant ×6.480, Ciele-Token ×55, Zauberspruchrolle ×288 und Tempelrolle ×10. |
   | 80 | ![Dankbarkeit-Bonuspaket](/images/t/i_906011.png) | [Dankbarkeit-Bonuspaket](/ItemsDE/con_2113/){: .btn .btn--era4} | Gift | Danke, dass du Heroes of Might and Magic unterstützt! |
   | 81 | ![Der Truthahn](/images/t/i_907143.png) | [Der Truthahn](/ItemsDE/con_1529/){: .btn .btn--era4} | Gift | Köstlicher goldener Truthahn, dessen Verzehr in der Schlacht neue Kräfte schöpfen lässt. |
   | 82 | ![Diamantpaket](/images/t/i_907064.png) | [Diamantpaket](/ItemsDE/con_1951/){: .btn .btn--era4} | Gift | Gewährt zufällig eine bestimmte Anzahl an Diamanten. |
@@ -112,7 +112,7 @@ classes: wide
   | 98 | ![Dämonenwappen-​Geschenkbox](/images/e/equip_emowenzhang.png) | [Dämonenwappen-​Geschenkbox](/ItemsDE/con_763/){: .btn .btn--era5} | Gift | Gewährt die legendäre Maschinenkomponente des Angriffstyps, Dämonenwappen. |
   | 99 | ![Edensplitter-Komponententruhe](/images/t/i_907487.png) | [Edensplitter-Komponententruhe](/ItemsDE/con_1864/){: .btn .btn--era5} | Gift | Eine Komponententruhe des Edenapfels. Nutze sie, um 1 der Komponenten des Edenapfel-Artefaktes auszuwählen. |
   | 100 | ![Einfache Kaderkiste](/images/t/i_tujianhezi1.png) | [Einfache Kaderkiste](/ItemsDE/con_774/){: .btn .btn--era2} | Gift | Eine Truhe, die man überall in Drachenschätzen findet. Gewährt eine zufällige Kaderrune. |
-  | 101 |  | [Einheiten-Ausbildungspaket](/ItemsDE/con_510/){: .btn .btn--era4} | Gift | Gewährt Orangen Kristall-Runenstein ×5, Lila Kristall-Runenstein ×10, Magie-Talenttrank ×700. |
+  | 101 | ![Einheiten-Ausbildungspaket](/images/t/i_907128.png) | [Einheiten-Ausbildungspaket](/ItemsDE/con_510/){: .btn .btn--era4} | Gift | Gewährt Orangen Kristall-Runenstein ×5, Lila Kristall-Runenstein ×10, Magie-Talenttrank ×700. |
   | 102 | ![Einheiten-Fähigkeitsaufwertungspaket](/images/t/i_907541.png) | [Einheiten-Fähigkeitsaufwertungspaket](/ItemsDE/con_1918/){: .btn .btn--era4} | Gift | Gewährt 100 blaue Kristalle (Runenstein), 5 Riesige ERF-Tränke, 10 Vampir-Tokens und 680 Diamanten. |
   | 103 | ![Einheiten-Talentaufwertungspaket](/images/t/i_907542.png) | [Einheiten-Talentaufwertungspaket](/ItemsDE/con_1919/){: .btn .btn--era4} | Gift | Gewährt 200 Ansturm-Talenttränke, 10 Vampir-Tokens, 30.000 Münzen, 1 Skelettkrone und 500 Diamanten. |
   | 104 | ![Einheitentruhe (Burg)](/images/t/i_904004.png) | [Einheitentruhe (Burg)](/ItemsDE/con_1272/){: .btn .btn--era4} | Gift | Gewährt ein zufälliges Einheiten-Token der Burg-Fraktion. |
@@ -228,7 +228,7 @@ classes: wide
   | 214 | ![Halloween-Sonderangebot-Paket](/images/t/i_907033.png) | [Halloween-Sonderangebot-Paket](/ItemsDE/con_1419/){: .btn .btn--era4} | Gift | Enthält Diamant ×980, Zucker-Hexe-Skin ×1 und Skelett-Seelenstein ×20. |
   | 215 | ![Heiligtumanführer-Truhe](/images/t/i_907068.png) | [Heiligtumanführer-Truhe](/ItemsDE/con_1534/){: .btn .btn--era5} | Gift | Eine von allen Göttern gesegnete Schatztruhe, die nur Lords im Besitz eines Paladins öffnen können. |
   | 216 | ![Heilquelle](/images/t/i_906010.png) | [Heilquelle](/ItemsDE/con_1333/){: .btn .btn--era4} | Gift | Geheimnisvolles Quellwasser aus einer Wüstenoase. Stellt 100 Aktionspunkte wieder her. |
-  | 217 |  | [Helden-Ausbildungspaket](/ItemsDE/con_505/){: .btn .btn--era4} | Gift | Gewährt Universal-Helden-Token ×20, Tempelrolle ×10, Zauberspruchrolle ×600. |
+  | 217 | ![Helden-Ausbildungspaket](/images/t/i_907128.png) | [Helden-Ausbildungspaket](/ItemsDE/con_505/){: .btn .btn--era4} | Gift | Gewährt Universal-Helden-Token ×20, Tempelrolle ×10, Zauberspruchrolle ×600. |
   | 218 | ![Helden-Thanksgiving-Paket](/images/t/i_907038.png) | [Helden-Thanksgiving-Paket](/ItemsDE/con_1424/){: .btn .btn--era4} | Gift | Gewährt eines der folgenden zur Auswahl: Token ×1 für Crag Hack, Vidomina, Adelaide, Solmyr, Zydar, Monere oder Kendal. |
   | 219 | ![Heldenanführer-Paket](/images/t/i_907288.png) | [Heldenanführer-Paket](/ItemsDE/con_1689/){: .btn .btn--era5} | Gift | Gewährt einen der folgenden Helden zur Rekrutierung: Roland, Sandro oder Kilgor. Wenn du einen Helden auswählst, den du bereits besitzt, erhältst du für diesen Helden 30 Tokens. |
   | 220 | ![Heldenausbildung-​Sonderangebot](/images/t/i_907346.png) | [Heldenausbildung-​Sonderangebot](/ItemsDE/con_1730/){: .btn .btn--era4} | Gift | Gewährt 5 Universal-Tokens, 10 Uralte Tempelrollen und 200 Zauberspruchrollen. |
@@ -295,7 +295,7 @@ classes: wide
   | 281 | ![Mehrfachwahl-Elite-Sonderangebot](/images/t/i_907066.png) | [Mehrfachwahl-Elite-Sonderangebot](/ItemsDE/con_1452/){: .btn .btn--era4} | Gift | Gewährt eines der folgenden zur Auswahl: Lich, Mumie, Dschinn, Betrachter, Medusa und Steinelementar ×1. |
   | 282 | ![Mithril-Sonderangebot-Paket](/images/t/i_907583.png) | [Mithril-Sonderangebot-Paket](/ItemsDE/con_1958/){: .btn .btn--era5} | Gift | Kaufen, um eine Woche lang täglich folgende Gegenstände zu erhalten: 5x Leeremithril, 5x allgemeine exklusive Token-Truhen und 30 Veredelungssteine. |
   | 283 | ![Nachtmahr-Sonderangebot-Paket](/images/t/i_907095.png) | [Nachtmahr-Sonderangebot-Paket](/ItemsDE/con_1481/){: .btn .btn--era4} | Gift | Gewährt 3-Sterne-Nachtmahr ×1, Angriffstalent-Trank ×288, Infernokader-Runen ×30 und Diamant ×3.280. |
-  | 284 |  | [Nagaschwert-Truhe](/ItemsDE/con_1520/){: .btn .btn--era5} | Gift | Gewährt zufälliges Nagaschwert-Waffen-Token ×1 oder ×2. |
+  | 284 | ![Nagaschwert-Truhe](/images/t/i_907134.png) | [Nagaschwert-Truhe](/ItemsDE/con_1520/){: .btn .btn--era5} | Gift | Gewährt zufälliges Nagaschwert-Waffen-Token ×1 oder ×2. |
   | 285 | ![Nekropolis-Elite-Paket](/images/t/i_907066.png) | [Nekropolis-Elite-Paket](/ItemsDE/con_1471/){: .btn .btn--era4} | Gift | Gewährt eines der folgenden zur Auswahl: Lich-Token ×40 oder Mumie-Token ×40. |
   | 286 | ![Nekropolis-Fraktion-Auswahltruhe](/images/t/i_907282.png) | [Nekropolis-Fraktion-Auswahltruhe](/ItemsDE/con_1683/){: .btn .btn--era4} | Gift | Gewährt 1 Token: Skelett, Wandelnde Tote, Geist oder Vampir. |
   | 287 | ![Nekropoliswoche Sonderangebot-Paket A](/images/t/i_907219.png) | [Nekropoliswoche Sonderangebot-Paket A](/ItemsDE/con_1679/){: .btn .btn--era4} | Gift | Gewährt 2 Nekropolis-Fraktion-Truhen und 20 Diamanten. |
@@ -519,7 +519,7 @@ classes: wide
   | 505 | ![Vorratsartefakt-Auswahltruhe](/images/t/i_907066.png) | [Vorratsartefakt-Auswahltruhe](/ItemsDE/con_1084/){: .btn .btn--era5} | Gift | Eine wertvolle Belohnung aus dem Armeevorrat, die während des Ereignisses „Rolands Gefangennahme“ erlangt wird. Wähle eines der Folgenden: „Rüstung der Verdammten“-Komponenten-Auswahltruhe, „Axt der Wildheit“-Komponenten-Auswahltruhe, Meisterschützenbogen-Komponenten-Auswahltruhe, „Umhang des untoten Königs“-Komponenten-Auswahltruhe. |
   | 506 | ![Vorregistrierungsbelohnung](/images/t/i_907182.png) | [Vorregistrierungsbelohnung](/ItemsDE/con_1384/){: .btn .btn--era5} | Gift | Hier ist deine Belohnung für die Vorregistrierung. |
   | 507 | ![Wachstumskarte](/images/t/i_907318.png) | [Wachstumskarte](/ItemsDE/con_1911/){: .btn .btn--era5} | Gift | Gewährt für die nächsten 7 Tage nach dem Kauf täglich folgende Gegenstände: 300 Drachenstahl, 300 Schattenstahl, 300 Sternsilber und 60 Diamanten. |
-  | 508 |  | [Waffen-Token-Truhe](/ItemsDE/con_1367/){: .btn .btn--era4} | Gift | Gewährt ein Universal-Waffe-Token zur Auswahl. |
+  | 508 | ![Waffen-Token-Truhe](/images/t/i_906044.png) | [Waffen-Token-Truhe](/ItemsDE/con_1367/){: .btn .btn--era4} | Gift | Gewährt ein Universal-Waffe-Token zur Auswahl. |
   | 509 | ![Weihnachtslied-Paket](/images/t/i_907060.png) | [Weihnachtslied-Paket](/ItemsDE/con_1446/){: .btn .btn--era4} | Gift | Gewährt Diamant ×980, „Weihnachtslied: Crag Hack“ ×1 und den „Frohe Weihnachten“-Avatarrahmen ×1. |
   | 510 | ![Weiße Materialtruhe](/images/t/i_304002.png) | [Weiße Materialtruhe](/ItemsDE/con_1254/){: .btn .btn--era1} | Gift | Gewährt einen zufälligen Ausrüstungsaufwertungsgegenstand (Weiß). |
   | 511 | ![Weltexpedition](/images/a/avatarFrame_201.png) | [Weltexpedition](/ItemsDE/con_1094/){: .btn .btn--era5} | Gift | Gewährt den Weltexpedition-Avatarrahmen. |
@@ -598,7 +598,7 @@ classes: wide
   | 584 | ![„Freude der Sphinx“-Paket](/images/t/i_907003.png) | [„Freude der Sphinx“-Paket](/ItemsDE/con_1128/){: .btn .btn--era5} | Gift | Die von der Sphinx erhaltene Schatztruhe. Darin könnte sich ein wertvoller Schatz befinden, aber wahrscheinlich kein lila Schatz. |
   | 585 | ![„Frühlingsfest-Feierlichkeiten – Xeron“-Angebot](/images/t/i_907559.png) | [„Frühlingsfest-Feierlichkeiten – Xeron“-Angebot](/ItemsDE/con_1936/){: .btn .btn--era5} | Gift | Gewährt 6.480 Diamanten, die Skin „Frühlingsfest-Feierlichkeiten – Xeron“, 40 Xeron-Tokens, 5 Universal-(Helden-)Tokens und 15 Uralte Tempelrollen. |
   | 586 | ![„Furchtlose Vorhut“-Paket](/images/t/i_907026.png) | [„Furchtlose Vorhut“-Paket](/ItemsDE/con_1412/){: .btn .btn--era4} | Gift | Gewährt die Chance auf „Schwarzer Ritter“- oder Kavallerist-Tokens. |
-  | 587 |  | [„Gieriges Herz“-Truhe](/ItemsDE/con_1519/){: .btn .btn--era5} | Gift | Eine durch Kräfte der Flut verfluchte Schatztruhe, die nur Lords im Besitz einer Regnanbogenschützin öffnen können. |
+  | 587 | ![„Gieriges Herz“-Truhe](/images/t/i_907133.png) | [„Gieriges Herz“-Truhe](/ItemsDE/con_1519/){: .btn .btn--era5} | Gift | Eine durch Kräfte der Flut verfluchte Schatztruhe, die nur Lords im Besitz einer Regnanbogenschützin öffnen können. |
   | 588 | ![„Heiliges Emblem“-Auswahlpaket](/images/t/i_907089.png) | [„Heiliges Emblem“-Auswahlpaket](/ItemsDE/con_1799/){: .btn .btn--era5} | Gift | Nutze es, um eines von vielen Heiligen Emblemen auszuwählen. |
   | 589 | ![„Heiliges Emblem“-Coupon-Sonderangebot](/images/t/i_906047.png) | [„Heiliges Emblem“-Coupon-Sonderangebot](/ItemsDE/con_1370/){: .btn .btn--era5} | Gift | Gewährt Diamant ×300 und „Heiliges Emblem“-Einlöseticket ×30. |
   | 590 | ![„Heiliges Emblem“-Glückspaket 1](/images/t/i_907411.png) | [„Heiliges Emblem“-Glückspaket 1](/ItemsDE/con_1789/){: .btn .btn--era4} | Gift | Gewährt 1 zufälliges oranges „Heiliges Emblem“-Paket und 3 Mehrfachwahl-Formstein-Pakete. |
@@ -625,7 +625,7 @@ classes: wide
   | 611 | ![„Macht des Drachenvaters“-Komponententruhe](/images/t/i_906025.png) | [„Macht des Drachenvaters“-Komponententruhe](/ItemsDE/con_1345/){: .btn .btn--era5} | Gift | Eine Komponententruhe der Macht des Drachenvaters. Gewährt eine Komponente aus zwei „Macht des Drachenvaters“-Komponententruhen. |
   | 612 | ![„Macht des Drachenvaters“-Sonderangebot](/images/t/i_907373.png) | [„Macht des Drachenvaters“-Sonderangebot](/ItemsDE/con_1757/){: .btn .btn--era5} | Gift | Gewährt 1 Drachenkönig-Komponententruhe und 6.480 Diamanten. |
   | 613 | ![„Magier: Astral“-Angebot](/images/t/i_907547.png) | [„Magier: Astral“-Angebot](/ItemsDE/con_1924/){: .btn .btn--era5} | Gift | Gewährt 6.480 Diamanten, 1 „Magier: Astral“-Skin, 40 Astral-Tokens, 5 Universal-(Helden-)Tokens und 15 Uralte Tempelrollen. |
-  | 614 |  | [„Magische Bestie“-Truhe](/ItemsDE/con_1521/){: .btn .btn--era6} | Gift | Die Schatztruhe eines Formmeisters, die nur Lords mit einem Drachengolem öffnen können. |
+  | 614 | ![„Magische Bestie“-Truhe](/images/t/i_907135.png) | [„Magische Bestie“-Truhe](/ItemsDE/con_1521/){: .btn .btn--era6} | Gift | Die Schatztruhe eines Formmeisters, die nur Lords mit einem Drachengolem öffnen können. |
   | 615 | ![„Mondeinladung: Gem“-Angebot](/images/t/i_907477.png) | [„Mondeinladung: Gem“-Angebot](/ItemsDE/con_1854/){: .btn .btn--era4} | Gift | Gewährt 6.480 Diamanten, 1 „Mondeinladung: Gem“-Skin, 40 Gem-Tokens, 5 Universal-(Helden-)Tokens und 15 Uralte Tempelrollen. |
   | 616 | ![„Nacht der Ernte: Roland“-Angebot](/images/t/i_907475.png) | [„Nacht der Ernte: Roland“-Angebot](/ItemsDE/con_1852/){: .btn .btn--era4} | Gift | Gewährt 6.480 Diamanten, 1 „Nacht der Ernte: Roland“-Skin, 40 Roland-Tokens, 5 Universal-(Helden-)Tokens und 15 Uralte Tempelrollen. |
   | 617 | ![„Orange +1“-Materialtruhe](/images/t/i_304002.png) | [„Orange +1“-Materialtruhe](/ItemsDE/con_1264/){: .btn .btn--era5} | Gift | Gewährt einen zufälligen Ausrüstungsaufwertungsgegenstand (Orange +1). |
@@ -636,7 +636,7 @@ classes: wide
   | 622 | ![„Orange Zauber-Token“-Auswahltruhe](/images/t/i_7012.png) | [„Orange Zauber-Token“-Auswahltruhe](/ItemsDE/con_1914/){: .btn .btn--era5} | Gift | Gewährt 1 der Folgenden: 1 Infernoflamme-Token, 1 Frostring-Token, 1 Schneesturm-Token, 1 Gebet-Token, 1 Sturm-Token, 1 Eiltaktik-Token, 1 Mystikdomäne-Token, 1 Versteinerung-Token, 1 „Kleine Todeswelle“-Token, 1 Mana-Unterdrückung-Token oder 1 „Aufgefrischte Magie“-Token. |
   | 623 | ![„Oranges Heiliges Emblem“-Auswahlpaket](/images/t/i_907416.png) | [„Oranges Heiliges Emblem“-Auswahlpaket](/ItemsDE/con_1943/){: .btn .btn--era5} | Gift | Gewährt 1 oranges Heiliges Emblem zur Auswahl. |
   | 624 | ![„Oranges Premiumartefakt“-Komponentenauswahl-Geschenkbox](/images/t/i_906054.png) | [„Oranges Premiumartefakt“-Komponentenauswahl-Geschenkbox](/ItemsDE/con_1315/){: .btn .btn--era5} | Gift | Gewährt eines der folgenden Komponenten-Auswahlpakete zur Auswahl: Macht des Drachenvaters, Schwert des Frostes, Armageddonklinge, Engelsbund oder Goldener Apfel. |
-  | 625 |  | [„Rechtschaffene Gerechtigkeit“-Truhe](/ItemsDE/con_1517/){: .btn .btn--era6} | Gift | Eine durch heilige Kraft versiegelte Truhe, die nur Lords im Besitz einer Richterin öffnen können. |
+  | 625 | ![„Rechtschaffene Gerechtigkeit“-Truhe](/images/t/i_907131.png) | [„Rechtschaffene Gerechtigkeit“-Truhe](/ItemsDE/con_1517/){: .btn .btn--era6} | Gift | Eine durch heilige Kraft versiegelte Truhe, die nur Lords im Besitz einer Richterin öffnen können. |
   | 626 | ![„Revelations: Ezio“-Sonderangebot](/images/t/i_907438.png) | [„Revelations: Ezio“-Sonderangebot](/ItemsDE/con_1816/){: .btn .btn--era4} | Gift | Gewährt 680 Diamanten, 1 „Revelations: Ezio“-Skin und 10 Uralte Tempelrollen. |
   | 627 |  | [„Richter des Heiligen Lichts“-Paket](/ItemsDE/con_1484/){: .btn .btn--era5} | Gift | Gewährt eines der folgenden zur Auswahl: „Richter des Heiligen Lichts“-Avatarrahmen ×1 oder Paladin-Token ×5. |
   | 628 | ![„Rüst. der Verdammten“-Angebot](/images/t/i_907167.png) | [„Rüst. der Verdammten“-Angebot](/ItemsDE/con_1554/){: .btn .btn--era4} | Gift | Gewährt Schwert der Schwarzen Magie ×1, Schreckgespenstschild ×1, Knochenbrustpanzer ×1, Skelettkrone ×1. Aktiviert das Artefakt „Verfluchte Rüstung“. |
@@ -659,7 +659,7 @@ classes: wide
   | 645 | ![„Urgestein der Tiefsee“-Paket](/images/t/i_907120.png) | [„Urgestein der Tiefsee“-Paket](/ItemsDE/con_1506/){: .btn .btn--era5} | Gift | Eine durch Tiefseekräfte versiegelte Truhe, die nur Lords im Besitz einer Drachenschildkröte öffnen können. |
   | 646 | ![„Ursprung des Chaos“-Truhe](/images/t/i_907041.png) | [„Ursprung des Chaos“-Truhe](/ItemsDE/con_1482/){: .btn .btn--era5} | Gift | Eine durch ursprüngliches Chaos versiegelte Truhe, die nur Lords im Besitz eines Teufels öffnen können. |
   | 647 | ![„Verzauberte Rune“-Schatztruhe](/images/t/i_907023.png) | [„Verzauberte Rune“-Schatztruhe](/ItemsDE/con_1409/){: .btn .btn--era5} | Gift | Eine mit verzauberter, tobender Energie versiegelte Schatztruhe, die nur ein Lord der Naga öffnen kann. |
-  | 648 |  | [„Verzauberter Drache“-Skin-Sonderangebot](/ItemsDE/con_1518/){: .btn .btn--era4} | Gift | Gewährt „Verzauberter Drache“-Skin ×1 und Diamant ×1.980. |
+  | 648 | ![„Verzauberter Drache“-Skin-Sonderangebot](/images/t/i_907132.png) | [„Verzauberter Drache“-Skin-Sonderangebot](/ItemsDE/con_1518/){: .btn .btn--era4} | Gift | Gewährt „Verzauberter Drache“-Skin ×1 und Diamant ×1.980. |
   | 649 | ![„Vorherrschaft der Dunkelheit“-Paket](/images/t/i_907084.png) | [„Vorherrschaft der Dunkelheit“-Paket](/ItemsDE/con_1470/){: .btn .btn--era5} | Gift | Gewährt eines der folgenden zur Auswahl: „Herrschaft der Finsternis“-Avatarrahmen ×1 oder Knochendrache-Token ×5. |
   | 650 | ![„Vorhut des Todes“-Paket](/images/t/i_907011.png) | [„Vorhut des Todes“-Paket](/ItemsDE/con_1425/){: .btn .btn--era5} | Gift | Eine exklusive Ressource für die Pioniertruppen des Schwarzen Ritters. Gewährt eines der folgenden zur Auswahl: „Schwarzer Ritter“-Token ×1 oder Schattenritter ×1. |
   | 651 | ![„Waldwächter“-Paket](/images/t/i_907009.png) | [„Waldwächter“-Paket](/ItemsDE/con_1395/){: .btn .btn--era4} | Gift | Ein Paket mit der Essenz von Mutter Natur. Gewährt Dendroidenwache-Tokens oder Ryland-Seelensplitter. |

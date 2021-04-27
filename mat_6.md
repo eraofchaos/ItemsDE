@@ -2,7 +2,7 @@
 title: "Item - Materials - Normales Erz"
 permalink: /mat_6/
 excerpt: "Era of Chaos  Normales Erz"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "mat_6.md"
 toc: false

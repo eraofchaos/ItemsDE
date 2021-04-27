@@ -2,7 +2,7 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Unit Awakening.md"
 toc: false
@@ -84,6 +84,6 @@ classes: wide
   | 70 | ![Tool_949904](/images/u/tia_yurenyongshi.jpg) | [Tool_949904](/ItemsDE/unt_352/){: .btn .btn--era5} | Awakening Soul |  |
   | 71 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/ItemsDE/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
   | 72 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/ItemsDE/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
-  | 73 | ![Tool_949908](/images/u/tia_haiguai.jpg) | [Tool_949908](/ItemsDE/unt_355/){: .btn .btn--era5} | Awakening Soul |  |
+  | 73 | ![Tool_949908](/images/u/tia_haiguai.jpg) | [Tool_949908](/ItemsDE/unt_355/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Uralten Seemonsters. |
   | 74 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/ItemsDE/unt_356/){: .btn .btn--era5} | Awakening Soul |  |
   | 75 | ![„Zorn des Donners“-Seelenstein](/images/u/tia_leiyuansu.jpg) | [„Zorn des Donners“-Seelenstein](/ItemsDE/unt_344/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe von „Zorn des Donners“. |

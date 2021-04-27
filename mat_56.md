@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendäres Quecksilber +3"
 permalink: /mat_56/
 excerpt: "Era of Chaos  Legendäres Quecksilber +3"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "mat_56.md"
 toc: false

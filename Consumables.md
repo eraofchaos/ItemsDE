@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "Consumables.md"
 toc: false
@@ -354,3 +354,4 @@ classes: wide
   | 340 | ![„Weg der Wikinger: Berserker“-Skin](/images/u/ti_kuangzhanshipifu.jpg) | [„Weg der Wikinger: Berserker“-Skin](/ItemsDE/con_1988/){: .btn .btn--era5} | Unit Skin | Gewährt die „Weg der Wikinger: Berserker“-Skin. |
   | 341 | ![„Weihnachtslied: Adelaide“-Skin (2 Tage)](/images/h/h_Adelaide6.jpg) | [„Weihnachtslied: Adelaide“-Skin (2 Tage)](/ItemsDE/con_1018/){: .btn .btn--era5} | Experience Card | Gewährt 2 Tage lang Zugriff auf die „Weihnachtslied: Adelaide“-Skin. |
   | 342 | ![„Weihnachtslied: Adelaide“-Skin-Avatar (2 Tage)](/images/h/h_Adelaide5.jpg) | [„Weihnachtslied: Adelaide“-Skin-Avatar (2 Tage)](/ItemsDE/con_1016/){: .btn .btn--era5} | Experience Card | Gewährt 2 Tage lang Zugriff auf den „Weihnachtslied: Adelaide“-Skin-Avatar. |
+  | 343 |  | [„Weltexpedition: Regnanbogenschützin“-Skin](/de/Items/con_2149/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Weltexpedition: Regnanbogenschützin“. |

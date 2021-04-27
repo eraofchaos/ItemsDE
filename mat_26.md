@@ -2,7 +2,7 @@
 title: "Item - Materials - Wertvolles Erz +2"
 permalink: /mat_26/
 excerpt: "Era of Chaos  Wertvolles Erz +2"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "mat_26.md"
 toc: false

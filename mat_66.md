@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythischer Kristall"
 permalink: /mat_66/
 excerpt: "Era of Chaos  Mythischer Kristall"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: de
 ref: "mat_66.md"
 toc: false

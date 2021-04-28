@@ -83,20 +83,20 @@ classes: wide
   | 69 | ![Tool_21024](/images/t/i_907003.png) | [Tool_21024](/ItemsDE/con_625/){: .btn .btn--era5} | Avatar frame |  |
   | 70 | ![Tool_21027](/images/t/i_907003.png) | [Tool_21027](/ItemsDE/con_628/){: .btn .btn--era5} | Avatar frame |  |
   | 71 | ![Tool_21035](/images/t/i_907003.png) | [Tool_21035](/ItemsDE/con_632/){: .btn .btn--era5} | Avatar frame |  |
-  | 72 | ![Tool_31026](/images/h/h_Catherine9.jpg) | [Tool_31026](/ItemsDE/con_847/){: .btn .btn--era5} | Hero Avatar |  |
-  | 73 | ![Top-Kommentierer-Paket](/images/t/i_907003.png) | [Top-Kommentierer-Paket](/ItemsDE/con_615/){: .btn .btn--era5} | Avatar frame | Belohnungen für das Top-Kommentierer-Ereignis. Gewährt einen Avatarrahmen. Wenn der Avatarrahmen bereits freigeschaltet wurde, erhältst du stattdessen 30 Diamanten. |
-  | 74 | ![Troll-Avatar](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [Troll-Avatar](/ItemsDE/con_598/){: .btn .btn--era5} | Hero Avatar | Gewährt den Troll-Avatar. |
-  | 75 | ![Weihnachtself](/images/h/h_MutareDrake5.jpg) | [Weihnachtself](/ItemsDE/con_591/){: .btn .btn--era5} | Hero Avatar | Mit Schneeflocken spielender Weihnachtself |
-  | 76 | ![Wystan-Avatar](/images/h/h_Wystan1.jpg) | [Wystan-Avatar](/ItemsDE/con_582/){: .btn .btn--era5} | Hero Avatar | Gewährt den Wystan-Avatar. |
-  | 77 | ![Yog-Avatar](/images/h/h_Yog1.jpg) | [Yog-Avatar](/ItemsDE/con_574/){: .btn .btn--era5} | Hero Avatar | Gewährt den Yog-Avatar. |
-  | 78 | ![Zucker-Hexe-Avatar](/images/h/h_Vidomina5.jpg) | [Zucker-Hexe-Avatar](/ItemsDE/con_583/){: .btn .btn--era5} | Hero Avatar | „Zucker-Hexe: Vidomina“-Avatar |
-  | 79 | ![„Anhängerin“-Richterin-Avatar](/images/u/ti_shenpanguanpifu.jpg) | [„Anhängerin“-Richterin-Avatar](/ItemsDE/con_584/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Anhängerin“-Richterin-Avatar. |
-  | 80 | ![„Böse Zauberin“-Avatar](/images/u/ti_xiemonvyuanhuatouxiang.jpg) | [„Böse Zauberin“-Avatar](/ItemsDE/con_599/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Böse Zauberin“-Avatar. |
-  | 81 | ![„Drachenflug – Cassanbel“-Avatar](/images/h/h_Cassanbel3.jpg) | [„Drachenflug – Cassanbel“-Avatar](/ItemsDE/con_870/){: .btn .btn--era5} | Hero Avatar |  |
-  | 82 | ![„Drachenflug, Löwensprung“-Avatar](/images/h/h_Gem4.jpg) | [„Drachenflug, Löwensprung“-Avatar](/ItemsDE/con_873/){: .btn .btn--era5} | Hero Avatar |  |
-  | 83 | ![„König der Piraten“-Konzeptgrafik-Avatar](/images/u/ti_haidao1.jpg) | [„König der Piraten“-Konzeptgrafik-Avatar](/ItemsDE/con_1101/){: .btn .btn--era5} | Hero Avatar | Gewährt den „König der Piraten“-Spezialeffekt-Avatar. |
-  | 84 | ![„Löwensprung – Gem“-Avatar](/images/h/h_Gem5.jpg) | [„Löwensprung – Gem“-Avatar](/ItemsDE/con_874/){: .btn .btn--era5} | Hero Avatar |  |
-  | 85 | ![„Mensch Sandro“-Avatar](/images/h/h_HumanSandro1.jpg) | [„Mensch Sandro“-Avatar](/ItemsDE/con_579/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Mensch Sandro“-Avatar. |
+  | 72 | ![Top-Kommentierer-Paket](/images/t/i_907003.png) | [Top-Kommentierer-Paket](/ItemsDE/con_615/){: .btn .btn--era5} | Avatar frame | Belohnungen für das Top-Kommentierer-Ereignis. Gewährt einen Avatarrahmen. Wenn der Avatarrahmen bereits freigeschaltet wurde, erhältst du stattdessen 30 Diamanten. |
+  | 73 | ![Troll-Avatar](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [Troll-Avatar](/ItemsDE/con_598/){: .btn .btn--era5} | Hero Avatar | Gewährt den Troll-Avatar. |
+  | 74 | ![Weihnachtself](/images/h/h_MutareDrake5.jpg) | [Weihnachtself](/ItemsDE/con_591/){: .btn .btn--era5} | Hero Avatar | Mit Schneeflocken spielender Weihnachtself |
+  | 75 | ![Wystan-Avatar](/images/h/h_Wystan1.jpg) | [Wystan-Avatar](/ItemsDE/con_582/){: .btn .btn--era5} | Hero Avatar | Gewährt den Wystan-Avatar. |
+  | 76 | ![Yog-Avatar](/images/h/h_Yog1.jpg) | [Yog-Avatar](/ItemsDE/con_574/){: .btn .btn--era5} | Hero Avatar | Gewährt den Yog-Avatar. |
+  | 77 | ![Zucker-Hexe-Avatar](/images/h/h_Vidomina5.jpg) | [Zucker-Hexe-Avatar](/ItemsDE/con_583/){: .btn .btn--era5} | Hero Avatar | „Zucker-Hexe: Vidomina“-Avatar |
+  | 78 | ![„Anhängerin“-Richterin-Avatar](/images/u/ti_shenpanguanpifu.jpg) | [„Anhängerin“-Richterin-Avatar](/ItemsDE/con_584/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Anhängerin“-Richterin-Avatar. |
+  | 79 | ![„Böse Zauberin“-Avatar](/images/u/ti_xiemonvyuanhuatouxiang.jpg) | [„Böse Zauberin“-Avatar](/ItemsDE/con_599/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Böse Zauberin“-Avatar. |
+  | 80 | ![„Drachenflug – Cassanbel“-Avatar](/images/h/h_Cassanbel3.jpg) | [„Drachenflug – Cassanbel“-Avatar](/ItemsDE/con_870/){: .btn .btn--era5} | Hero Avatar |  |
+  | 81 | ![„Drachenflug, Löwensprung“-Avatar](/images/h/h_Gem4.jpg) | [„Drachenflug, Löwensprung“-Avatar](/ItemsDE/con_873/){: .btn .btn--era5} | Hero Avatar |  |
+  | 82 | ![„König der Piraten“-Konzeptgrafik-Avatar](/images/u/ti_haidao1.jpg) | [„König der Piraten“-Konzeptgrafik-Avatar](/ItemsDE/con_1101/){: .btn .btn--era5} | Hero Avatar | Gewährt den „König der Piraten“-Spezialeffekt-Avatar. |
+  | 83 | ![„Löwensprung – Gem“-Avatar](/images/h/h_Gem5.jpg) | [„Löwensprung – Gem“-Avatar](/ItemsDE/con_874/){: .btn .btn--era5} | Hero Avatar |  |
+  | 84 | ![„Mensch Sandro“-Avatar](/images/h/h_HumanSandro1.jpg) | [„Mensch Sandro“-Avatar](/ItemsDE/con_579/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Mensch Sandro“-Avatar. |
+  | 85 | ![„Schwingen des Triumphes: Catherine“-Avatar](/images/h/h_Catherine9.jpg) | [„Schwingen des Triumphes: Catherine“-Avatar](/ItemsDE/con_847/){: .btn .btn--era5} | Hero Avatar |  |
   | 86 | ![„Sohn des Waldes“-Avatar](/images/h/h_Ryland3.jpg) | [„Sohn des Waldes“-Avatar](/ItemsDE/con_567/){: .btn .btn--era5} | Hero Avatar | Gewährt Rylands „Sohn des Waldes“-Skin und -Avatar. |
   | 87 | ![„Uraltes Seemonster“-Konzeptgrafik-Avatar](/images/u/ti_haiguai1.jpg) | [„Uraltes Seemonster“-Konzeptgrafik-Avatar](/ItemsDE/con_1103/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Uraltes Seemonster“-Spezialeffekt-Avatar. |
   | 88 | ![„Wogende Aura – Mantis“-Avatar](/images/u/ti_tanglangpifu.jpg) | [„Wogende Aura – Mantis“-Avatar](/ItemsDE/con_593/){: .btn .btn--era5} | Hero Avatar |  |

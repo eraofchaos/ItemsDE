@@ -2,7 +2,7 @@
 title: "Item - Materials - Überlegenes Holz +1"
 permalink: /mat_20/
 excerpt: "Era of Chaos  Überlegenes Holz +1"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: de
 ref: "mat_20.md"
 toc: false

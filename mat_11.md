@@ -2,7 +2,7 @@
 title: "Item - Materials - Normaler Kristall"
 permalink: /mat_11/
 excerpt: "Era of Chaos  Normaler Kristall"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "mat_11.md"
 toc: false

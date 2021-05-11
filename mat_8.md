@@ -2,7 +2,7 @@
 title: "Item - Materials - Normales Quecksilber"
 permalink: /mat_8/
 excerpt: "Era of Chaos  Normales Quecksilber"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "mat_8.md"
 toc: false

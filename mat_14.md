@@ -2,7 +2,7 @@
 title: "Item - Materials - Gutes Quecksilber"
 permalink: /mat_14/
 excerpt: "Era of Chaos  Gutes Quecksilber"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "mat_14.md"
 toc: false

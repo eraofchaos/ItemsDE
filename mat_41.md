@@ -2,7 +2,7 @@
 title: "Item - Materials - Seltenes Holz +1"
 permalink: /mat_41/
 excerpt: "Era of Chaos  Seltenes Holz +1"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "mat_41.md"
 toc: false

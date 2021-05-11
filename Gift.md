@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: de
 ref: "Gift.md"
 toc: false
@@ -654,22 +654,25 @@ classes: wide
   | 640 | ![„Schwarze Drachenschuppe“-Truhe](/images/t/i_907149.png) | [„Schwarze Drachenschuppe“-Truhe](/ItemsDE/con_1535/){: .btn .btn--era5} | Gift | Gewährt eines der folgenden zur Auswahl: „Schwarze Drachenschuppe“-Waffen-Token ×1 oder ×2. |
   | 641 | ![„Schwert des Frostes“-Angebot](/images/t/i_907374.png) | [„Schwert des Frostes“-Angebot](/ItemsDE/con_1758/){: .btn .btn--era5} | Gift | Gewährt 1 Frost-Komponententruhe und 3.880 Diamanten. |
   | 642 | ![„Schwert des Frostes“-Sonderangebot](/images/t/i_907375.png) | [„Schwert des Frostes“-Sonderangebot](/ItemsDE/con_1759/){: .btn .btn--era5} | Gift | Gewährt 1 Frost-Komponententruhe und 6.480 Diamanten. |
-  | 643 | ![„Tanz der Klingen“-Paket](/images/t/i_907067.png) | [„Tanz der Klingen“-Paket](/ItemsDE/con_1453/){: .btn .btn--era5} | Gift | Gewährt eines der folgenden zur Auswahl: „Tanz der Klingen“-Avatarrahmen ×1 oder Naga-Token ×5. |
-  | 644 | ![„Tägliche Aufladung-“Paket](/images/t/i_907056.png) | [„Tägliche Aufladung-“Paket](/ItemsDE/con_1798/){: .btn .btn--era4} | Gift | Gewährt eines der folgenden zur Auswahl: 1 Phantom-Komponententruhe, 1 „Untoter König“-Komponententruhe oder 1 Schatzkomponententruhe. |
-  | 645 | ![„Ultimativer Kämpe“-Truhe](/images/t/i_907027.png) | [„Ultimativer Kämpe“-Truhe](/ItemsDE/con_1463/){: .btn .btn--era5} | Gift | Eine durch den Willen einer uralten Bestie versiegelte Truhe, die nur jemand im Besitz eines Behemoth öffnen kann. |
-  | 646 | ![„Umhang des untoten Königs“-Set-Paket](/images/t/i_907543.png) | [„Umhang des untoten Königs“-Set-Paket](/ItemsDE/con_1920/){: .btn .btn--era4} | Gift | Gewährt 1 Amulett der Totengräber, 1 Vampirkutte, 1 Paar Totenstiefel und 880 Diamanten. |
-  | 647 |  | [„Uraltes Seemonster“-Seelenstein-Sonderangebot A](/ItemsDE/con_2133/){: .btn .btn--era4} | Gift | Gewährt 20 „Uraltes Seemonster“-Seelensteine und 980 Diamanten. |
-  | 648 |  | [„Uraltes Seemonster“-Seelenstein-Sonderangebot B](/ItemsDE/con_2134/){: .btn .btn--era4} | Gift | Gewährt 50 „Uraltes Seemonster“-Seelensteine und 2.180 Diamanten. |
-  | 649 |  | [„Uraltes Seemonster“-Seelenstein-Sonderangebot C](/ItemsDE/con_2135/){: .btn .btn--era4} | Gift | Gewährt 100 „Uraltes Seemonster“-Seelensteine und 3.480 Diamanten. |
-  | 650 | ![„Urgestein der Tiefsee“-Paket](/images/t/i_907120.png) | [„Urgestein der Tiefsee“-Paket](/ItemsDE/con_1506/){: .btn .btn--era5} | Gift | Eine durch Tiefseekräfte versiegelte Truhe, die nur Lords im Besitz einer Drachenschildkröte öffnen können. |
-  | 651 | ![„Ursprung des Chaos“-Truhe](/images/t/i_907041.png) | [„Ursprung des Chaos“-Truhe](/ItemsDE/con_1482/){: .btn .btn--era5} | Gift | Eine durch ursprüngliches Chaos versiegelte Truhe, die nur Lords im Besitz eines Teufels öffnen können. |
-  | 652 | ![„Verzauberte Rune“-Schatztruhe](/images/t/i_907023.png) | [„Verzauberte Rune“-Schatztruhe](/ItemsDE/con_1409/){: .btn .btn--era5} | Gift | Eine mit verzauberter, tobender Energie versiegelte Schatztruhe, die nur ein Lord der Naga öffnen kann. |
-  | 653 | ![„Verzauberter Drache“-Skin-Sonderangebot](/images/t/i_907132.png) | [„Verzauberter Drache“-Skin-Sonderangebot](/ItemsDE/con_1518/){: .btn .btn--era4} | Gift | Gewährt „Verzauberter Drache“-Skin ×1 und Diamant ×1.980. |
-  | 654 | ![„Vorherrschaft der Dunkelheit“-Paket](/images/t/i_907084.png) | [„Vorherrschaft der Dunkelheit“-Paket](/ItemsDE/con_1470/){: .btn .btn--era5} | Gift | Gewährt eines der folgenden zur Auswahl: „Herrschaft der Finsternis“-Avatarrahmen ×1 oder Knochendrache-Token ×5. |
-  | 655 | ![„Vorhut des Todes“-Paket](/images/t/i_907011.png) | [„Vorhut des Todes“-Paket](/ItemsDE/con_1425/){: .btn .btn--era5} | Gift | Eine exklusive Ressource für die Pioniertruppen des Schwarzen Ritters. Gewährt eines der folgenden zur Auswahl: „Schwarzer Ritter“-Token ×1 oder Schattenritter ×1. |
-  | 656 | ![„Waldwächter“-Paket](/images/t/i_907009.png) | [„Waldwächter“-Paket](/ItemsDE/con_1395/){: .btn .btn--era4} | Gift | Ein Paket mit der Essenz von Mutter Natur. Gewährt Dendroidenwache-Tokens oder Ryland-Seelensplitter. |
-  | 657 | ![„Weihnachtself – Drache Mutare“-Angebot](/images/t/i_907154.png) | [„Weihnachtself – Drache Mutare“-Angebot](/ItemsDE/con_1889/){: .btn .btn--era5} | Gift | Gewährt 6.480 Diamanten, 1 „Weihnachtself – Drache Mutare“-Skin, 40 „Drache Mutare“-Tokens, 5 Universal-(Helden-)Tokens und 15 Uralte Tempelrollen. |
-  | 658 | ![„Wut des Berserkers“-Truhe](/images/t/i_907124.png) | [„Wut des Berserkers“-Truhe](/ItemsDE/con_1537/){: .btn .btn--era5} | Gift | Eine durch Blut versiegelte Truhe, die nur Lords im Besitz eines Berserkers öffnen können. |
-  | 659 | ![„Zorn der Wildnis“-Paket](/images/t/i_907042.png) | [„Zorn der Wildnis“-Paket](/ItemsDE/con_1428/){: .btn .btn--era5} | Gift | Gewährt eines der folgenden zur Auswahl: „Zorn der Wildnis“-Avatarrahmen ×1 oder Behemoth-Token ×5. |
-  | 660 | ![„Zorn des Donners“-Paket](/images/t/i_907126.png) | [„Zorn des Donners“-Paket](/ItemsDE/con_1512/){: .btn .btn--era5} | Gift | Gewährt eines der folgenden zur Auswahl: „Zorn des Donners“-Avatarrahmen ×1 oder Gigant-Token ×5. |
-  | 661 | ![„Zorn des Donners“-Truhe](/images/t/i_907082.png) | [„Zorn des Donners“-Truhe](/ItemsDE/con_1549/){: .btn .btn--era5} | Gift | Eine Schatztruhe mit uralten Kräften, die nur Lords im Besitz eines Giganten öffnen können. |
+  | 643 |  | [„Seelenstein des Meisterdschinns“-Sonderangebot A](/de/Items/con_2149/){: .btn .btn--era4} | Gift | Gewährt 20 Seelensteine des Meisterdschinns und 980 Diamanten. |
+  | 644 |  | [„Seelenstein des Meisterdschinns“-Sonderangebot B](/de/Items/con_2150/){: .btn .btn--era4} | Gift | Gewährt 50 Seelensteine des Meisterdschinns und 2.180 Diamanten. |
+  | 645 |  | [„Seelenstein des Meisterdschinns“-Sonderangebot C](/de/Items/con_2151/){: .btn .btn--era4} | Gift | Gewährt 100 Seelensteine des Meisterdschinns und 3.480 Diamanten. |
+  | 646 | ![„Tanz der Klingen“-Paket](/images/t/i_907067.png) | [„Tanz der Klingen“-Paket](/ItemsDE/con_1453/){: .btn .btn--era5} | Gift | Gewährt eines der folgenden zur Auswahl: „Tanz der Klingen“-Avatarrahmen ×1 oder Naga-Token ×5. |
+  | 647 | ![„Tägliche Aufladung-“Paket](/images/t/i_907056.png) | [„Tägliche Aufladung-“Paket](/ItemsDE/con_1798/){: .btn .btn--era4} | Gift | Gewährt eines der folgenden zur Auswahl: 1 Phantom-Komponententruhe, 1 „Untoter König“-Komponententruhe oder 1 Schatzkomponententruhe. |
+  | 648 | ![„Ultimativer Kämpe“-Truhe](/images/t/i_907027.png) | [„Ultimativer Kämpe“-Truhe](/ItemsDE/con_1463/){: .btn .btn--era5} | Gift | Eine durch den Willen einer uralten Bestie versiegelte Truhe, die nur jemand im Besitz eines Behemoth öffnen kann. |
+  | 649 | ![„Umhang des untoten Königs“-Set-Paket](/images/t/i_907543.png) | [„Umhang des untoten Königs“-Set-Paket](/ItemsDE/con_1920/){: .btn .btn--era4} | Gift | Gewährt 1 Amulett der Totengräber, 1 Vampirkutte, 1 Paar Totenstiefel und 880 Diamanten. |
+  | 650 |  | [„Uraltes Seemonster“-Seelenstein-Sonderangebot A](/ItemsDE/con_2133/){: .btn .btn--era4} | Gift | Gewährt 20 „Uraltes Seemonster“-Seelensteine und 980 Diamanten. |
+  | 651 |  | [„Uraltes Seemonster“-Seelenstein-Sonderangebot B](/ItemsDE/con_2134/){: .btn .btn--era4} | Gift | Gewährt 50 „Uraltes Seemonster“-Seelensteine und 2.180 Diamanten. |
+  | 652 |  | [„Uraltes Seemonster“-Seelenstein-Sonderangebot C](/ItemsDE/con_2135/){: .btn .btn--era4} | Gift | Gewährt 100 „Uraltes Seemonster“-Seelensteine und 3.480 Diamanten. |
+  | 653 | ![„Urgestein der Tiefsee“-Paket](/images/t/i_907120.png) | [„Urgestein der Tiefsee“-Paket](/ItemsDE/con_1506/){: .btn .btn--era5} | Gift | Eine durch Tiefseekräfte versiegelte Truhe, die nur Lords im Besitz einer Drachenschildkröte öffnen können. |
+  | 654 | ![„Ursprung des Chaos“-Truhe](/images/t/i_907041.png) | [„Ursprung des Chaos“-Truhe](/ItemsDE/con_1482/){: .btn .btn--era5} | Gift | Eine durch ursprüngliches Chaos versiegelte Truhe, die nur Lords im Besitz eines Teufels öffnen können. |
+  | 655 | ![„Verzauberte Rune“-Schatztruhe](/images/t/i_907023.png) | [„Verzauberte Rune“-Schatztruhe](/ItemsDE/con_1409/){: .btn .btn--era5} | Gift | Eine mit verzauberter, tobender Energie versiegelte Schatztruhe, die nur ein Lord der Naga öffnen kann. |
+  | 656 | ![„Verzauberter Drache“-Skin-Sonderangebot](/images/t/i_907132.png) | [„Verzauberter Drache“-Skin-Sonderangebot](/ItemsDE/con_1518/){: .btn .btn--era4} | Gift | Gewährt „Verzauberter Drache“-Skin ×1 und Diamant ×1.980. |
+  | 657 | ![„Vorherrschaft der Dunkelheit“-Paket](/images/t/i_907084.png) | [„Vorherrschaft der Dunkelheit“-Paket](/ItemsDE/con_1470/){: .btn .btn--era5} | Gift | Gewährt eines der folgenden zur Auswahl: „Herrschaft der Finsternis“-Avatarrahmen ×1 oder Knochendrache-Token ×5. |
+  | 658 | ![„Vorhut des Todes“-Paket](/images/t/i_907011.png) | [„Vorhut des Todes“-Paket](/ItemsDE/con_1425/){: .btn .btn--era5} | Gift | Eine exklusive Ressource für die Pioniertruppen des Schwarzen Ritters. Gewährt eines der folgenden zur Auswahl: „Schwarzer Ritter“-Token ×1 oder Schattenritter ×1. |
+  | 659 | ![„Waldwächter“-Paket](/images/t/i_907009.png) | [„Waldwächter“-Paket](/ItemsDE/con_1395/){: .btn .btn--era4} | Gift | Ein Paket mit der Essenz von Mutter Natur. Gewährt Dendroidenwache-Tokens oder Ryland-Seelensplitter. |
+  | 660 | ![„Weihnachtself – Drache Mutare“-Angebot](/images/t/i_907154.png) | [„Weihnachtself – Drache Mutare“-Angebot](/ItemsDE/con_1889/){: .btn .btn--era5} | Gift | Gewährt 6.480 Diamanten, 1 „Weihnachtself – Drache Mutare“-Skin, 40 „Drache Mutare“-Tokens, 5 Universal-(Helden-)Tokens und 15 Uralte Tempelrollen. |
+  | 661 | ![„Wut des Berserkers“-Truhe](/images/t/i_907124.png) | [„Wut des Berserkers“-Truhe](/ItemsDE/con_1537/){: .btn .btn--era5} | Gift | Eine durch Blut versiegelte Truhe, die nur Lords im Besitz eines Berserkers öffnen können. |
+  | 662 | ![„Zorn der Wildnis“-Paket](/images/t/i_907042.png) | [„Zorn der Wildnis“-Paket](/ItemsDE/con_1428/){: .btn .btn--era5} | Gift | Gewährt eines der folgenden zur Auswahl: „Zorn der Wildnis“-Avatarrahmen ×1 oder Behemoth-Token ×5. |
+  | 663 | ![„Zorn des Donners“-Paket](/images/t/i_907126.png) | [„Zorn des Donners“-Paket](/ItemsDE/con_1512/){: .btn .btn--era5} | Gift | Gewährt eines der folgenden zur Auswahl: „Zorn des Donners“-Avatarrahmen ×1 oder Gigant-Token ×5. |
+  | 664 | ![„Zorn des Donners“-Truhe](/images/t/i_907082.png) | [„Zorn des Donners“-Truhe](/ItemsDE/con_1549/){: .btn .btn--era5} | Gift | Eine Schatztruhe mit uralten Kräften, die nur Lords im Besitz eines Giganten öffnen können. |

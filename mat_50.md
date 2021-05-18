@@ -2,7 +2,7 @@
 title: "Item - Materials - Epischer Schwefel +2"
 permalink: /mat_50/
 excerpt: "Era of Chaos  Epischer Schwefel +2"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "mat_50.md"
 toc: false

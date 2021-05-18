@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythischer Schwefel"
 permalink: /mat_64/
 excerpt: "Era of Chaos  Mythischer Schwefel"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: de
 ref: "mat_64.md"
 toc: false

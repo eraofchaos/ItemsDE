@@ -2,7 +2,7 @@
 title: "Item - Event related"
 permalink: /Events/
 excerpt: "Event related in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Event related.md"
 toc: false
@@ -251,5 +251,6 @@ classes: wide
   | 237 | ![Über Holzkohle geschmorte Lammbrust nach Guangdong-Art](/images/t/i_81511121.png) | [Über Holzkohle geschmorte Lammbrust nach Guangdong-Art](/ItemsDE/con_1169/){: .btn .btn--era3} | Event related | Das Gericht ähnelt zwar dem Feuertopf aus Guangdong, doch durch Verwendung eines Tontopfs und Holzkohleofens muss die Lammbrust nicht so heiß gekocht werden. Dadurch bleibt sie bissfester und die Soße erhält ein starkes Aroma, wobei das Essen in diesem Topf jedoch noch ziemlich roh zu sein scheint. |
   | 238 | ![„Dunkler Troglodyt“-Seele](/images/t/juexing_701.jpg) | [„Dunkler Troglodyt“-Seele](/ItemsDE/con_2058/){: .btn .btn--era5} | Event related | Eine uralte, unsterbliche, heroische Seele für das Erwecken des Troglodyten. |
   | 239 | ![„Heiliges Emblem“-Einlöseticket](/images/t/i_10003.png) | [„Heiliges Emblem“-Einlöseticket](/ItemsDE/con_513/){: .btn .btn--era5} | Event related | Kann während entsprechender Ereignisse gegen seltene Heilige Embleme eingetauscht werden! |
-  | 240 | ![„Schere, Stein, Papier“-Karte](/images/t/i_10033.png) | [„Schere, Stein, Papier“-Karte](/ItemsDE/con_547/){: .btn .btn--era4} | Event related | Wird zum Spielen von Schere, Stein, Papier bei der „Schere, Stein, Papier“-Feier verwendet. Kann durch Abschließen von Fröhlichen Missionen verdient werden. |
-  | 241 | ![„Uraltes Seemonster“-Seele](/images/t/juexing_9908.png) | [„Uraltes Seemonster“-Seele](/ItemsDE/con_2085/){: .btn .btn--era5} | Event related | Eine uralte, unsterbliche, heroische Seele für das Erwecken von Revyaratan. |
+  | 240 |  | [„Höchste Gnade“-Tokens](/de/Items/con_2153/){: .btn .btn--era5} | Event related | Sammle 100, um 1 der Folgenden auszuwählen: 80 SSR-Einheitenseelen, 80 SSR-Seelenstein-Auswahltruhen, 1 Premium-Artefakt-Komponententruhe, 100 „Heiliges Emblem“-Einlösetickets oder 200x Leeremithril. |
+  | 241 | ![„Schere, Stein, Papier“-Karte](/images/t/i_10033.png) | [„Schere, Stein, Papier“-Karte](/ItemsDE/con_547/){: .btn .btn--era4} | Event related | Wird zum Spielen von Schere, Stein, Papier bei der „Schere, Stein, Papier“-Feier verwendet. Kann durch Abschließen von Fröhlichen Missionen verdient werden. |
+  | 242 | ![„Uraltes Seemonster“-Seele](/images/t/juexing_9908.png) | [„Uraltes Seemonster“-Seele](/ItemsDE/con_2085/){: .btn .btn--era5} | Event related | Eine uralte, unsterbliche, heroische Seele für das Erwecken von Revyaratan. |

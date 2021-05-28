@@ -2,7 +2,7 @@
 title: "Item - Materials - Episches Holz +2"
 permalink: /mat_48/
 excerpt: "Era of Chaos  Episches Holz +2"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "mat_48.md"
 toc: false

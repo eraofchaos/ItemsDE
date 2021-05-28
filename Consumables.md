@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "Consumables.md"
 toc: false
@@ -207,71 +207,71 @@ classes: wide
   | 193 | ![Schekel](/images/t/i_40045.png) | [Schekel](/ItemsDE/con_950/){: .btn .btn--era4} | Other | Ein Meeres-Token, das im Bucht-Angriff erbeutet werden kann. Kann im Ereignisladen gegen wertvolle Belohnungen eingelöst werden. |
   | 194 | ![Schlachtenkommandantin: Mephala](/images/h/h_Mephala3.jpg) | [Schlachtenkommandantin: Mephala](/ItemsDE/con_1041/){: .btn .btn--era5} | Special Skin | Damit erhältst du Mephalas Schlachtenkommandantin-Skin. |
   | 195 | ![Schlüssel der Büchse der Pandora](/images/t/i_40052.png) | [Schlüssel der Büchse der Pandora](/ItemsDE/con_957/){: .btn .btn--era4} | Other | Ein geheimnisvoller Schlüssel. Benutze ihn, um die Büchse der Pandora zu öffnen. |
-  | 196 |  | [Schwert-Token](/ItemsDE/con_912/){: .btn .btn--era4} | Exclusive piece | Ein exklusives Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial der Offensiv-Einheit erweckt wird – Schwert. |
-  | 197 | ![Schwingen des Triumphes: Catherine](/images/h/h_Catherine10.jpg) | [Schwingen des Triumphes: Catherine](/ItemsDE/con_1032/){: .btn .btn--era5} | Special Skin | Damit erhältst du Catherines „Schwingen des Triumphes“-Skin. |
-  | 198 | ![Schwingen des Triumphes: Gelu](/images/h/h_Gelu9.jpg) | [Schwingen des Triumphes: Gelu](/ItemsDE/con_1040/){: .btn .btn--era5} | Special Skin | Damit erhältst du Schwingen des Triumphes: Gelu-Skin. |
-  | 199 | ![Seelenstein ](/images/t/i_40011.png) | [Seelenstein ](/ItemsDE/con_923/){: .btn .btn--era4} | Other | Seelensteine erhält man, indem man Heilige Embleme zerlegt. Man erhält dafür Gegenstände im Emblemladen. |
-  | 200 | ![Seltene Materialtruhe](/images/t/i_304001.png) | [Seltene Materialtruhe](/ItemsDE/con_757/){: .btn .btn--era4} | Material Chest | Gewährt seltene Ausrüstungs- aufwertungsgegenstände je nach Stufe des Spielers. |
-  | 201 | ![Silber](/images/t/i_4003401.png) | [Silber](/ItemsDE/con_942/){: .btn .btn--era5} | VIP related |  |
-  | 202 | ![Skelettessenz-Truhe](/images/t/i_906004.png) | [Skelettessenz-Truhe](/ItemsDE/con_1327/){: .btn .btn--era4} | Unit Essence | Gibt mit 50 % Wahrscheinlichkeit ein Vidomina-Token! |
-  | 203 | ![Skin: Donner-Gorgone – Gorgone](/images/u/ti_manniupifu.jpg) | [Skin: Donner-Gorgone – Gorgone](/ItemsDE/con_1998/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Donner-Gorgone – Gorgone“. |
-  | 204 |  | [Skorpionschwanz-Spezialskin](/ItemsDE/con_660/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald Skorpionschwanz erweckt wird. |
-  | 205 |  | [Skorpionschwanz-Token](/ItemsDE/con_992/){: .btn .btn--era4} | Exclusive piece | Ein Skorpionschwanz-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Mantikor erweckt wird – Skorpionschwanz. |
-  | 206 | ![Sohn des Waldes: Ryland](/images/h/h_Ryland3.jpg) | [Sohn des Waldes: Ryland](/ItemsDE/con_1044/){: .btn .btn--era5} | Special Skin | Damit erhältst du Rylands „Sohn des Waldes: Ryland“-Skin. |
-  | 207 | ![Spieler-ERF](/images/t/i_101.png) | [Spieler-ERF](/ItemsDE/con_897/){: .btn .btn--era4} | VIP related | Jeder bekommt gern mehr Erfahrung! |
-  | 208 | ![Spieler-ERF-Tränke](/images/t/i_501.png) | [Spieler-ERF-Tränke](/ItemsDE/con_676/){: .btn .btn--era2} | EXP | Wird benötigt, um den Rang von Feuervögeln zu erhöhen, einer Einheit mit Macht SR. |
-  | 209 | ![Spitzentalentpunkt](/images/t/i_40022.png) | [Spitzentalentpunkt](/ItemsDE/con_934/){: .btn .btn--era5} | Other | Spitzentalentpunkte, mit denen man Spitzenattribute verbessert. Erhält man, indem man die Spitzenstufe aufwertet. |
-  | 210 | ![Staubige Schatzkarte](/images/t/i_810102.png) | [Staubige Schatzkarte](/ItemsDE/con_1156/){: .btn .btn--era5} | GUILD_MAP_TREASURE | Eine eintausend Jahre alte, empfindliche Karte. Der Legende sagt enthüllt sie ein unglaubliches Geheimnis. Zum Entdecken von Schätzen auf der Gildenkarte. |
-  | 211 | ![Sternerz](/images/t/i_40051.png) | [Sternerz](/ItemsDE/con_956/){: .btn .btn--era4} | Other | Museum-ERF. Sammle eine bestimmte Menge, um die Museumsstufe zu erhöhen. |
-  | 212 | ![Sternseele](/images/t/i_40014.png) | [Sternseele](/ItemsDE/con_926/){: .btn .btn--era5} | VIP related | Ein Material, mit dem man Sterne aktiviert. Erhält man, indem man Helden-Tokens umwandelt. Jeder Held braucht seine ganz eigene Sternseele. |
-  | 213 | ![Sternsigille](/images/t/i_69.png) | [Sternsigille](/ItemsDE/con_876/){: .btn .btn--era5} | Other | Die Macht eines Sternes, die in Enroth verteilt und in Bernstein eingeschlossen wurde. Kann die Macht von Artefakten zerstören. |
-  | 214 | ![Sternsilber](/images/t/i_113.png) | [Sternsilber](/ItemsDE/con_882/){: .btn .btn--era3} | Other | Ein Vorrat an Sternsilber (Ressource der Stufe 1). Zum Verbessern der Kaserne. |
-  | 215 |  | [Tagesgezeiten-Spezialskin](/ItemsDE/con_671/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald „Tagesgezeiten“ erweckt wird. |
-  | 216 |  | [Tagesgezeiten-Token](/ItemsDE/con_1003/){: .btn .btn--era4} | Exclusive piece | Ein Tagesgezeiten-Token einer uralten Kampagne, mit der das exklusive Potenzial der Regnanschlange erweckt wird: „Wunder“. |
-  | 217 | ![Tarotwelt](/images/h/h_HumanSandro3.jpg) | [Tarotwelt](/ItemsDE/con_1054/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Mensch Sandro in der Tarotwelt“. |
-  | 218 | ![Tasche voll Diamanten](/images/t/i_508.png) | [Tasche voll Diamanten](/ItemsDE/con_709/){: .btn .btn--era3} | EXP | Ein Paket mit 68 Diamanten! |
-  | 219 | ![Tasche voll Gold](/images/t/i_511.png) | [Tasche voll Gold](/ItemsDE/con_713/){: .btn .btn--era3} | EXP | Ein Paket mit 30.000 Gold. |
-  | 220 |  | [Tausend-Tonnen-Spezialskin](/ItemsDE/con_656/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald „Tausend Tonnen“ erweckt wird. |
-  | 221 |  | [Tausend-Tonnen-Token](/ItemsDE/con_988/){: .btn .btn--era5} | Exclusive piece | Ein Tausend-Tonnen-Token einer uralten Kampagne, mit der das exklusive Potenzial des Giganten erweckt wird: „Tausend Tonnen“. |
-  | 222 |  | [Teleportation](/ItemsDE/con_944/){: .btn .btn--era4} | Other | Schaltet Teleportation im „Heilendes Meer“-Ereignis frei. |
-  | 223 | ![Tempo-Token](/images/t/i_jiasujuanzhou.png) | [Tempo-Token](/ItemsDE/con_906/){: .btn .btn--era4} | Shipyard related | Beschleunigt die aktuelle Schiffswerft-Aufgabe um 30 Minuten. |
-  | 224 |  | [Teufelssense-Spezialskin](/ItemsDE/con_652/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald Teufelssense erweckt wird. |
-  | 225 |  | [Teufelssense-Token](/ItemsDE/con_984/){: .btn .btn--era5} | Exclusive piece | Ein Teufelssense-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Teufels erweckt wird – Teufelssense. |
-  | 226 |  | [Todestribut-Spezialskin](/ItemsDE/con_646/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald Todestribut erweckt wird. |
-  | 227 |  | [Todestribut-Token](/ItemsDE/con_978/){: .btn .btn--era4} | Exclusive piece | Ein Todestribut-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Lich erweckt wird – Todestribut. |
-  | 228 |  | [Tool_210909](/ItemsDE/con_643/){: .btn .btn--era6} | Special Skin |  |
-  | 229 |  | [Tool_250809](/ItemsDE/con_653/){: .btn .btn--era4} | Special Skin |  |
-  | 230 |  | [Tool_2990309](/ItemsDE/con_670/){: .btn .btn--era4} | Special Skin |  |
-  | 231 |  | [Tool_2990709](/ItemsDE/con_674/){: .btn .btn--era6} | Special Skin |  |
-  | 232 | ![Tool_31022](/images/t/i_red_1.png) | [Tool_31022](/ItemsDE/con_843/){: .btn .btn--era5} | Guild member gift |  |
-  | 233 | ![Tool_31023](/images/t/i_red_1.png) | [Tool_31023](/ItemsDE/con_844/){: .btn .btn--era5} | Guild member gift |  |
-  | 234 | ![Tool_31024](/images/t/i_red_2.png) | [Tool_31024](/ItemsDE/con_845/){: .btn .btn--era5} | Guild member gift |  |
-  | 235 | ![Tool_31025](/images/t/i_red_2.png) | [Tool_31025](/ItemsDE/con_846/){: .btn .btn--era5} | Guild member gift |  |
-  | 236 | ![Tool_31027](/images/t/i_red_2.png) | [Tool_31027](/ItemsDE/con_848/){: .btn .btn--era5} | Guild member gift |  |
-  | 237 | ![Tool_31028](/images/t/i_red_2.png) | [Tool_31028](/ItemsDE/con_849/){: .btn .btn--era5} | Guild member gift |  |
-  | 238 | ![Tool_31029](/images/t/i_red_2.png) | [Tool_31029](/ItemsDE/con_850/){: .btn .btn--era5} | Guild member gift |  |
-  | 239 | ![Tool_31030](/images/t/i_red_3.png) | [Tool_31030](/ItemsDE/con_851/){: .btn .btn--era5} | Guild member gift |  |
-  | 240 | ![Tool_31031](/images/t/i_red_3.png) | [Tool_31031](/ItemsDE/con_852/){: .btn .btn--era5} | Guild member gift |  |
-  | 241 | ![Tool_31032](/images/t/i_red_3.png) | [Tool_31032](/ItemsDE/con_853/){: .btn .btn--era5} | Guild member gift |  |
-  | 242 | ![Tool_31033](/images/t/i_red_3.png) | [Tool_31033](/ItemsDE/con_854/){: .btn .btn--era5} | Guild member gift |  |
-  | 243 | ![Tool_31034](/images/t/i_red_2.png) | [Tool_31034](/ItemsDE/con_855/){: .btn .btn--era5} | Guild member gift |  |
-  | 244 | ![Tool_31035](/images/t/i_red_2.png) | [Tool_31035](/ItemsDE/con_856/){: .btn .btn--era5} | Guild member gift |  |
-  | 245 | ![Tool_31036](/images/t/i_red_2.png) | [Tool_31036](/ItemsDE/con_857/){: .btn .btn--era5} | Guild member gift |  |
-  | 246 | ![Tool_31037](/images/t/i_red_2.png) | [Tool_31037](/ItemsDE/con_858/){: .btn .btn--era5} | Guild member gift |  |
-  | 247 |  | [Tool_40013](/ItemsDE/con_925/){: .btn .btn--era4} | Other |  |
-  | 248 | ![Tool_40024](/images/t/i_40024.png) | [Tool_40024](/ItemsDE/con_936/){: .btn .btn--era5} | Other |  |
-  | 249 | ![Tool_40025](/images/t/i_40025.png) | [Tool_40025](/ItemsDE/con_937/){: .btn .btn--era5} | Other |  |
-  | 250 | ![Tool_40026](/images/t/i_40026.png) | [Tool_40026](/ItemsDE/con_938/){: .btn .btn--era5} | Other |  |
-  | 251 | ![Tool_40027](/images/t/i_40027.png) | [Tool_40027](/ItemsDE/con_939/){: .btn .btn--era5} | Other |  |
-  | 252 | ![Tool_40028](/images/t/i_40028.png) | [Tool_40028](/ItemsDE/con_940/){: .btn .btn--era5} | Other |  |
-  | 253 |  | [Tool_499035](/ItemsDE/con_1002/){: .btn .btn--era4} | Exclusive piece |  |
-  | 254 | ![Tool_6030403](/images/h/h_Gem5.jpg) | [Tool_6030403](/ItemsDE/con_1047/){: .btn .btn--era5} | Special Skin |  |
-  | 255 | ![Tool_6070503](/images/h/h_Ciele5.jpg) | [Tool_6070503](/ItemsDE/con_1062/){: .btn .btn--era5} | Special Skin |  |
-  | 256 | ![Tool_6170102](/images/h/h_Cassanbel3.jpg) | [Tool_6170102](/ItemsDE/con_1079/){: .btn .btn--era5} | Special Skin |  |
-  | 257 | ![Tool_9210101](/images/h/h_Xeron3.jpg) | [Tool_9210101](/ItemsDE/con_1971/){: .btn .btn--era5} | Unit Skin |  |
-  | 258 | ![Tool_9210903](/images/u/ti_shenpanguan.jpg) | [Tool_9210903](/ItemsDE/con_1977/){: .btn .btn--era5} | Unit Skin |  |
-  | 259 | ![Tool_9220902](/images/u/ti_tanglangpifu.jpg) | [Tool_9220902](/ItemsDE/con_1981/){: .btn .btn--era5} | Unit Skin |  |
-  | 260 | ![Tool_9230903](/images/u/ti_sishendiancangpifu.jpg) | [Tool_9230903](/ItemsDE/con_1986/){: .btn .btn--era5} | Unit Skin |  |
+  | 196 |  | [Schwarzes Segel](/de/Items/con_2154/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Schwarzes Segel: Hai-Ausbilder“. |
+  | 197 |  | [Schwert-Token](/ItemsDE/con_912/){: .btn .btn--era4} | Exclusive piece | Ein exklusives Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial der Offensiv-Einheit erweckt wird – Schwert. |
+  | 198 | ![Schwingen des Triumphes: Catherine](/images/h/h_Catherine10.jpg) | [Schwingen des Triumphes: Catherine](/ItemsDE/con_1032/){: .btn .btn--era5} | Special Skin | Damit erhältst du Catherines „Schwingen des Triumphes“-Skin. |
+  | 199 | ![Schwingen des Triumphes: Gelu](/images/h/h_Gelu9.jpg) | [Schwingen des Triumphes: Gelu](/ItemsDE/con_1040/){: .btn .btn--era5} | Special Skin | Damit erhältst du Schwingen des Triumphes: Gelu-Skin. |
+  | 200 | ![Seelenstein ](/images/t/i_40011.png) | [Seelenstein ](/ItemsDE/con_923/){: .btn .btn--era4} | Other | Seelensteine erhält man, indem man Heilige Embleme zerlegt. Man erhält dafür Gegenstände im Emblemladen. |
+  | 201 | ![Seltene Materialtruhe](/images/t/i_304001.png) | [Seltene Materialtruhe](/ItemsDE/con_757/){: .btn .btn--era4} | Material Chest | Gewährt seltene Ausrüstungs- aufwertungsgegenstände je nach Stufe des Spielers. |
+  | 202 | ![Silber](/images/t/i_4003401.png) | [Silber](/ItemsDE/con_942/){: .btn .btn--era5} | VIP related |  |
+  | 203 | ![Skelettessenz-Truhe](/images/t/i_906004.png) | [Skelettessenz-Truhe](/ItemsDE/con_1327/){: .btn .btn--era4} | Unit Essence | Gibt mit 50 % Wahrscheinlichkeit ein Vidomina-Token! |
+  | 204 | ![Skin: Donner-Gorgone – Gorgone](/images/u/ti_manniupifu.jpg) | [Skin: Donner-Gorgone – Gorgone](/ItemsDE/con_1998/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Donner-Gorgone – Gorgone“. |
+  | 205 |  | [Skorpionschwanz-Spezialskin](/ItemsDE/con_660/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald Skorpionschwanz erweckt wird. |
+  | 206 |  | [Skorpionschwanz-Token](/ItemsDE/con_992/){: .btn .btn--era4} | Exclusive piece | Ein Skorpionschwanz-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Mantikor erweckt wird – Skorpionschwanz. |
+  | 207 | ![Sohn des Waldes: Ryland](/images/h/h_Ryland3.jpg) | [Sohn des Waldes: Ryland](/ItemsDE/con_1044/){: .btn .btn--era5} | Special Skin | Damit erhältst du Rylands „Sohn des Waldes: Ryland“-Skin. |
+  | 208 | ![Spieler-ERF](/images/t/i_101.png) | [Spieler-ERF](/ItemsDE/con_897/){: .btn .btn--era4} | VIP related | Jeder bekommt gern mehr Erfahrung! |
+  | 209 | ![Spieler-ERF-Tränke](/images/t/i_501.png) | [Spieler-ERF-Tränke](/ItemsDE/con_676/){: .btn .btn--era2} | EXP | Wird benötigt, um den Rang von Feuervögeln zu erhöhen, einer Einheit mit Macht SR. |
+  | 210 | ![Spitzentalentpunkt](/images/t/i_40022.png) | [Spitzentalentpunkt](/ItemsDE/con_934/){: .btn .btn--era5} | Other | Spitzentalentpunkte, mit denen man Spitzenattribute verbessert. Erhält man, indem man die Spitzenstufe aufwertet. |
+  | 211 | ![Staubige Schatzkarte](/images/t/i_810102.png) | [Staubige Schatzkarte](/ItemsDE/con_1156/){: .btn .btn--era5} | GUILD_MAP_TREASURE | Eine eintausend Jahre alte, empfindliche Karte. Der Legende sagt enthüllt sie ein unglaubliches Geheimnis. Zum Entdecken von Schätzen auf der Gildenkarte. |
+  | 212 | ![Sternerz](/images/t/i_40051.png) | [Sternerz](/ItemsDE/con_956/){: .btn .btn--era4} | Other | Museum-ERF. Sammle eine bestimmte Menge, um die Museumsstufe zu erhöhen. |
+  | 213 | ![Sternseele](/images/t/i_40014.png) | [Sternseele](/ItemsDE/con_926/){: .btn .btn--era5} | VIP related | Ein Material, mit dem man Sterne aktiviert. Erhält man, indem man Helden-Tokens umwandelt. Jeder Held braucht seine ganz eigene Sternseele. |
+  | 214 | ![Sternsigille](/images/t/i_69.png) | [Sternsigille](/ItemsDE/con_876/){: .btn .btn--era5} | Other | Die Macht eines Sternes, die in Enroth verteilt und in Bernstein eingeschlossen wurde. Kann die Macht von Artefakten zerstören. |
+  | 215 | ![Sternsilber](/images/t/i_113.png) | [Sternsilber](/ItemsDE/con_882/){: .btn .btn--era3} | Other | Ein Vorrat an Sternsilber (Ressource der Stufe 1). Zum Verbessern der Kaserne. |
+  | 216 |  | [Tagesgezeiten-Spezialskin](/ItemsDE/con_671/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald „Tagesgezeiten“ erweckt wird. |
+  | 217 |  | [Tagesgezeiten-Token](/ItemsDE/con_1003/){: .btn .btn--era4} | Exclusive piece | Ein Tagesgezeiten-Token einer uralten Kampagne, mit der das exklusive Potenzial der Regnanschlange erweckt wird: „Wunder“. |
+  | 218 | ![Tarotwelt](/images/h/h_HumanSandro3.jpg) | [Tarotwelt](/ItemsDE/con_1054/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Mensch Sandro in der Tarotwelt“. |
+  | 219 | ![Tasche voll Diamanten](/images/t/i_508.png) | [Tasche voll Diamanten](/ItemsDE/con_709/){: .btn .btn--era3} | EXP | Ein Paket mit 68 Diamanten! |
+  | 220 | ![Tasche voll Gold](/images/t/i_511.png) | [Tasche voll Gold](/ItemsDE/con_713/){: .btn .btn--era3} | EXP | Ein Paket mit 30.000 Gold. |
+  | 221 |  | [Tausend-Tonnen-Spezialskin](/ItemsDE/con_656/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald „Tausend Tonnen“ erweckt wird. |
+  | 222 |  | [Tausend-Tonnen-Token](/ItemsDE/con_988/){: .btn .btn--era5} | Exclusive piece | Ein Tausend-Tonnen-Token einer uralten Kampagne, mit der das exklusive Potenzial des Giganten erweckt wird: „Tausend Tonnen“. |
+  | 223 |  | [Teleportation](/ItemsDE/con_944/){: .btn .btn--era4} | Other | Schaltet Teleportation im „Heilendes Meer“-Ereignis frei. |
+  | 224 | ![Tempo-Token](/images/t/i_jiasujuanzhou.png) | [Tempo-Token](/ItemsDE/con_906/){: .btn .btn--era4} | Shipyard related | Beschleunigt die aktuelle Schiffswerft-Aufgabe um 30 Minuten. |
+  | 225 |  | [Teufelssense-Spezialskin](/ItemsDE/con_652/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald Teufelssense erweckt wird. |
+  | 226 |  | [Teufelssense-Token](/ItemsDE/con_984/){: .btn .btn--era5} | Exclusive piece | Ein Teufelssense-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Teufels erweckt wird – Teufelssense. |
+  | 227 |  | [Todestribut-Spezialskin](/ItemsDE/con_646/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald Todestribut erweckt wird. |
+  | 228 |  | [Todestribut-Token](/ItemsDE/con_978/){: .btn .btn--era4} | Exclusive piece | Ein Todestribut-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Lich erweckt wird – Todestribut. |
+  | 229 |  | [Tool_210909](/ItemsDE/con_643/){: .btn .btn--era6} | Special Skin |  |
+  | 230 |  | [Tool_250809](/ItemsDE/con_653/){: .btn .btn--era4} | Special Skin |  |
+  | 231 |  | [Tool_2990309](/ItemsDE/con_670/){: .btn .btn--era4} | Special Skin |  |
+  | 232 |  | [Tool_2990709](/ItemsDE/con_674/){: .btn .btn--era6} | Special Skin |  |
+  | 233 | ![Tool_31022](/images/t/i_red_1.png) | [Tool_31022](/ItemsDE/con_843/){: .btn .btn--era5} | Guild member gift |  |
+  | 234 | ![Tool_31023](/images/t/i_red_1.png) | [Tool_31023](/ItemsDE/con_844/){: .btn .btn--era5} | Guild member gift |  |
+  | 235 | ![Tool_31024](/images/t/i_red_2.png) | [Tool_31024](/ItemsDE/con_845/){: .btn .btn--era5} | Guild member gift |  |
+  | 236 | ![Tool_31025](/images/t/i_red_2.png) | [Tool_31025](/ItemsDE/con_846/){: .btn .btn--era5} | Guild member gift |  |
+  | 237 | ![Tool_31027](/images/t/i_red_2.png) | [Tool_31027](/ItemsDE/con_848/){: .btn .btn--era5} | Guild member gift |  |
+  | 238 | ![Tool_31028](/images/t/i_red_2.png) | [Tool_31028](/ItemsDE/con_849/){: .btn .btn--era5} | Guild member gift |  |
+  | 239 | ![Tool_31029](/images/t/i_red_2.png) | [Tool_31029](/ItemsDE/con_850/){: .btn .btn--era5} | Guild member gift |  |
+  | 240 | ![Tool_31030](/images/t/i_red_3.png) | [Tool_31030](/ItemsDE/con_851/){: .btn .btn--era5} | Guild member gift |  |
+  | 241 | ![Tool_31031](/images/t/i_red_3.png) | [Tool_31031](/ItemsDE/con_852/){: .btn .btn--era5} | Guild member gift |  |
+  | 242 | ![Tool_31032](/images/t/i_red_3.png) | [Tool_31032](/ItemsDE/con_853/){: .btn .btn--era5} | Guild member gift |  |
+  | 243 | ![Tool_31033](/images/t/i_red_3.png) | [Tool_31033](/ItemsDE/con_854/){: .btn .btn--era5} | Guild member gift |  |
+  | 244 | ![Tool_31034](/images/t/i_red_2.png) | [Tool_31034](/ItemsDE/con_855/){: .btn .btn--era5} | Guild member gift |  |
+  | 245 | ![Tool_31035](/images/t/i_red_2.png) | [Tool_31035](/ItemsDE/con_856/){: .btn .btn--era5} | Guild member gift |  |
+  | 246 | ![Tool_31036](/images/t/i_red_2.png) | [Tool_31036](/ItemsDE/con_857/){: .btn .btn--era5} | Guild member gift |  |
+  | 247 | ![Tool_31037](/images/t/i_red_2.png) | [Tool_31037](/ItemsDE/con_858/){: .btn .btn--era5} | Guild member gift |  |
+  | 248 |  | [Tool_40013](/ItemsDE/con_925/){: .btn .btn--era4} | Other |  |
+  | 249 | ![Tool_40024](/images/t/i_40024.png) | [Tool_40024](/ItemsDE/con_936/){: .btn .btn--era5} | Other |  |
+  | 250 | ![Tool_40025](/images/t/i_40025.png) | [Tool_40025](/ItemsDE/con_937/){: .btn .btn--era5} | Other |  |
+  | 251 | ![Tool_40026](/images/t/i_40026.png) | [Tool_40026](/ItemsDE/con_938/){: .btn .btn--era5} | Other |  |
+  | 252 | ![Tool_40027](/images/t/i_40027.png) | [Tool_40027](/ItemsDE/con_939/){: .btn .btn--era5} | Other |  |
+  | 253 | ![Tool_40028](/images/t/i_40028.png) | [Tool_40028](/ItemsDE/con_940/){: .btn .btn--era5} | Other |  |
+  | 254 |  | [Tool_499035](/ItemsDE/con_1002/){: .btn .btn--era4} | Exclusive piece |  |
+  | 255 | ![Tool_6030403](/images/h/h_Gem5.jpg) | [Tool_6030403](/ItemsDE/con_1047/){: .btn .btn--era5} | Special Skin |  |
+  | 256 | ![Tool_6070503](/images/h/h_Ciele5.jpg) | [Tool_6070503](/ItemsDE/con_1062/){: .btn .btn--era5} | Special Skin |  |
+  | 257 | ![Tool_6170102](/images/h/h_Cassanbel3.jpg) | [Tool_6170102](/ItemsDE/con_1079/){: .btn .btn--era5} | Special Skin |  |
+  | 258 | ![Tool_9210101](/images/h/h_Xeron3.jpg) | [Tool_9210101](/ItemsDE/con_1971/){: .btn .btn--era5} | Unit Skin |  |
+  | 259 | ![Tool_9210903](/images/u/ti_shenpanguan.jpg) | [Tool_9210903](/ItemsDE/con_1977/){: .btn .btn--era5} | Unit Skin |  |
+  | 260 | ![Tool_9220902](/images/u/ti_tanglangpifu.jpg) | [Tool_9220902](/ItemsDE/con_1981/){: .btn .btn--era5} | Unit Skin |  |
   | 261 | ![Tool_9250902](/images/u/ti_yanmopifu.jpg) | [Tool_9250902](/ItemsDE/con_1991/){: .btn .btn--era5} | Unit Skin |  |
   | 262 | ![Tool_9250903](/images/u/ti_yanmodiancangpifu.jpg) | [Tool_9250903](/ItemsDE/con_1992/){: .btn .btn--era5} | Unit Skin |  |
   | 263 | ![Tool_9260903](/images/u/ti_kuileilongdiancangpifu.jpg) | [Tool_9260903](/ItemsDE/con_1995/){: .btn .btn--era5} | Unit Skin |  |
@@ -350,8 +350,9 @@ classes: wide
   | 336 |  | [„Stab des Nachwachsens“-Token](/ItemsDE/con_977/){: .btn .btn--era4} | Exclusive piece | Ein „Stab des Nachwachsens“-Token einer uralten Kampagne, mit der das exklusive Potenzial der Druidin erweckt wird: „Stab des Nachwachsens“. |
   | 337 |  | [„Stadt am Meer“-Bannerseele](/ItemsDE/con_1006/){: .btn .btn--era6} | Exclusive piece | Eine Bucht-Bannerseele einer uralten Kampagne, mit der das Potenzial des Banners der Regnanseherin erweckt wird: „Stadt am Meer“. |
   | 338 |  | [„Strahlkraft des Heiligtums“-Bannerseele](/ItemsDE/con_975/){: .btn .btn--era6} | Exclusive piece | Eine Schloss-Bannerseele einer uralten Kampagne, mit der das Potenzial der Richterin erweckt wird: „Strahlkraft des Heiligtums“. |
-  | 339 | ![„Verdichtung des Bösen – Böse Zauberin“-Skin](/images/u/ti_xiemonvpifu2.jpg) | [„Verdichtung des Bösen – Böse Zauberin“-Skin](/ItemsDE/con_1997/){: .btn .btn--era5} | Unit Skin | Nach Erhalt der Skin „Verdichtung des Bösen – Böse Zauberin“ freigeschaltet. |
-  | 340 | ![„Weg der Wikinger: Berserker“-Skin](/images/u/ti_kuangzhanshipifu.jpg) | [„Weg der Wikinger: Berserker“-Skin](/ItemsDE/con_1988/){: .btn .btn--era5} | Unit Skin | Gewährt die „Weg der Wikinger: Berserker“-Skin. |
-  | 341 | ![„Weihnachtslied: Adelaide“-Skin (2 Tage)](/images/h/h_Adelaide6.jpg) | [„Weihnachtslied: Adelaide“-Skin (2 Tage)](/ItemsDE/con_1018/){: .btn .btn--era5} | Experience Card | Gewährt 2 Tage lang Zugriff auf die „Weihnachtslied: Adelaide“-Skin. |
-  | 342 | ![„Weihnachtslied: Adelaide“-Skin-Avatar (2 Tage)](/images/h/h_Adelaide5.jpg) | [„Weihnachtslied: Adelaide“-Skin-Avatar (2 Tage)](/ItemsDE/con_1016/){: .btn .btn--era5} | Experience Card | Gewährt 2 Tage lang Zugriff auf den „Weihnachtslied: Adelaide“-Skin-Avatar. |
-  | 343 |  | [„Weltexpedition: Regnanbogenschützin“-Skin](/de/Items/con_2149/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Weltexpedition: Regnanbogenschützin“. |
+  | 339 | ![„Unsterblicher Seuchendoktor: Dunkler Kämpe“-Skin](/images/u/ti_sishendiancangpifu.jpg) | [„Unsterblicher Seuchendoktor: Dunkler Kämpe“-Skin](/ItemsDE/con_1986/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Unsterblicher Seuchendoktor: Dunkler Kämpe“. |
+  | 340 | ![„Verdichtung des Bösen – Böse Zauberin“-Skin](/images/u/ti_xiemonvpifu2.jpg) | [„Verdichtung des Bösen – Böse Zauberin“-Skin](/ItemsDE/con_1997/){: .btn .btn--era5} | Unit Skin | Nach Erhalt der Skin „Verdichtung des Bösen – Böse Zauberin“ freigeschaltet. |
+  | 341 | ![„Weg der Wikinger: Berserker“-Skin](/images/u/ti_kuangzhanshipifu.jpg) | [„Weg der Wikinger: Berserker“-Skin](/ItemsDE/con_1988/){: .btn .btn--era5} | Unit Skin | Gewährt die „Weg der Wikinger: Berserker“-Skin. |
+  | 342 | ![„Weihnachtslied: Adelaide“-Skin (2 Tage)](/images/h/h_Adelaide6.jpg) | [„Weihnachtslied: Adelaide“-Skin (2 Tage)](/ItemsDE/con_1018/){: .btn .btn--era5} | Experience Card | Gewährt 2 Tage lang Zugriff auf die „Weihnachtslied: Adelaide“-Skin. |
+  | 343 | ![„Weihnachtslied: Adelaide“-Skin-Avatar (2 Tage)](/images/h/h_Adelaide5.jpg) | [„Weihnachtslied: Adelaide“-Skin-Avatar (2 Tage)](/ItemsDE/con_1016/){: .btn .btn--era5} | Experience Card | Gewährt 2 Tage lang Zugriff auf den „Weihnachtslied: Adelaide“-Skin-Avatar. |
+  | 344 |  | [„Weltexpedition: Regnanbogenschützin“-Skin](/de/Items/con_2149/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Weltexpedition: Regnanbogenschützin“. |

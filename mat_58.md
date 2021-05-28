@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendäre Edelsteine +3"
 permalink: /mat_58/
 excerpt: "Era of Chaos  Legendäre Edelsteine +3"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: de
 ref: "mat_58.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: de
 ref: "Consumables.md"
 toc: false
@@ -139,132 +139,132 @@ classes: wide
   | 125 | ![Inbrunst](/images/t/i_40049.png) | [Inbrunst](/ItemsDE/con_954/){: .btn .btn--era5} | Other | Ein Gegenstand, der zum Herausfordern von Bossen im Bucht-Angriff verwendet werden kann. |
   | 126 |  | [Irisschild-Token](/ItemsDE/con_913/){: .btn .btn--era4} | Exclusive piece | Ein exklusives Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial der Abwehr-Einheit erweckt wird – Irisschild. |
   | 127 | ![Kampfmagier: Yog](/images/h/h_Yog3.jpg) | [Kampfmagier: Yog](/ItemsDE/con_1059/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Kampfmagier: Yog“. |
-  | 128 | ![Kilgor – Schwert des Frostes](/images/h/h_Kilgor2.jpg) | [Kilgor – Schwert des Frostes](/ItemsDE/con_1055/){: .btn .btn--era5} | Special Skin | Gewährt die Kilgor-Skin „Schwert des Frostes“. |
-  | 129 | ![Kleine energiebindende Phiole](/images/t/i_520.png) | [Kleine energiebindende Phiole](/ItemsDE/con_724/){: .btn .btn--era4} | EXP | Eine Phiole mit ein wenig Artefaktessenz. Verleiht 10 Artefaktessenz. |
-  | 130 | ![Kleiner Arenaschatz](/images/t/i_502.png) | [Kleiner Arenaschatz](/ItemsDE/con_717/){: .btn .btn--era2} | EXP | Eine Schatztruhe mit 6 Arenamünzen! |
-  | 131 | ![Kleiner ERF-Trank](/images/t/i_501.png) | [Kleiner ERF-Trank](/ItemsDE/con_701/){: .btn .btn--era2} | EXP | Eine kleine Flasche mit milchigem ERF-Trank. Verleiht 300 Einheiten-ERF. |
-  | 132 | ![Kleiner Energietrank](/images/t/i_504.png) | [Kleiner Energietrank](/ItemsDE/con_704/){: .btn .btn--era2} | EXP | Eine kleine Flasche mit trübem Energietrank. Verleiht 6 Energie. |
-  | 133 | ![Kleiner Kampagnenschatz](/images/t/i_505.png) | [Kleiner Kampagnenschatz](/ItemsDE/con_721/){: .btn .btn--era2} | EXP | Eine Schatztruhe mit 6 Imperiumsorden! |
-  | 134 | ![Klingen-Lord – Naga-Skin](/images/u/ti_najia.jpg) | [Klingen-Lord – Naga-Skin](/ItemsDE/con_1993/){: .btn .btn--era5} | Unit Skin | Gewährt Klingen-Lord – Naga-Skin. |
-  | 135 | ![Kriegsvorräte](/images/t/i_40007.png) | [Kriegsvorräte](/ItemsDE/con_919/){: .btn .btn--era4} | Other | Kriegsvorräte, mit denen man Kriegsmaschinen verbessern kann. |
-  | 136 | ![Kämpfer-Champion: Mephala](/images/h/h_Mephala7.jpg) | [Kämpfer-Champion: Mephala](/ItemsDE/con_1043/){: .btn .btn--era5} | Special Skin | Damit erhältst du Mephalas Kämpfer-Champion-Skin. |
-  | 137 | ![Königliche Hochzeit: Catherine](/images/h/h_Catherine7.jpg) | [Königliche Hochzeit: Catherine](/ItemsDE/con_1030/){: .btn .btn--era5} | Special Skin | Damit erhältst du Catherines „Königliche Hochzeit“-Skin. |
-  | 138 | ![Königliche Hochzeit: Roland](/images/h/h_Roland7.jpg) | [Königliche Hochzeit: Roland](/ItemsDE/con_1035/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Königliche Hochzeit: Roland“. |
-  | 139 |  | [Langbogen-Token](/ItemsDE/con_914/){: .btn .btn--era4} | Exclusive piece | Ein exklusives Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial der Fernkampf-Einheit erweckt wird – Langbogen. |
-  | 140 | ![Legendärer Krieger (14 Tage)](/images/a/avatarFrame_61.png) | [Legendärer Krieger (14 Tage)](/ItemsDE/con_1019/){: .btn .btn--era5} | Experience Card | Erhältlich beim Erreichen von Platz 3 in der Cross-Server-„Schlacht der Götter“. |
-  | 141 | ![Lehrling der Ketzerei: Vidomina](/images/h/h_Vidomina3.jpg) | [Lehrling der Ketzerei: Vidomina](/ItemsDE/con_1052/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Lehrling der Ketzerei: Vidomina“. |
-  | 142 | ![Ligamünze](/images/t/i_112.png) | [Ligamünze](/ItemsDE/con_892/){: .btn .btn--era4} | VIP related | Ligamünzen sind im Meisterduell und als Saisonbelohnung erhältlich. |
-  | 143 |  | [Lila Kristall](/ItemsDE/con_720/){: .btn .btn--era4} | Material | Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten stark verbessern. Gibt beim Benutzen 450 Einheiten-ERF. |
-  | 144 | ![Lodermal](/images/t/i_40043.png) | [Lodermal](/ItemsDE/con_948/){: .btn .btn--era4} | Other | Ein Orden, der in Phasen des Ereignisses „Rolands Gefangennahme“ erbeutet werden kann. Kann im Ereignisladen gegen wertvolle Belohnungen eingelöst werden. |
-  | 145 | ![Lord des Frostes](/images/h/h_MutareDrake7.jpg) | [Lord des Frostes](/ItemsDE/con_1075/){: .btn .btn--era5} | Special Skin | Gewährt Drache Mutares Skin „Lord des Frostes“. |
-  | 146 |  | [Lyra-Spezialskin](/ItemsDE/con_654/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald „Lyra“ erweckt wird. |
-  | 147 |  | [Lyra-Token](/ItemsDE/con_986/){: .btn .btn--era4} | Exclusive piece | Ein Lyra-Token einer uralten Kampagne, mit der das exklusive Potenzial des Dschinns erweckt wird: „Lyra“. |
-  | 148 | ![Macht des Drachenvaters](/images/h/h_Astral4.jpg) | [Macht des Drachenvaters](/ItemsDE/con_1068/){: .btn .btn--era5} | Special Skin | Damit erhältst du Astrals „Macht des Drachenvaters“-Skin. |
-  | 149 |  | [Magiekristall](/ItemsDE/con_895/){: .btn .btn--era4} | VIP related | Zum Verbessern von Zaubern in der Magiergilde. Belohnung für den Abschluss von Stufen. |
-  | 150 | ![Magier: Astral](/images/h/h_Astral3.jpg) | [Magier: Astral](/ItemsDE/con_1067/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Magier: Astral“. |
-  | 151 | ![Meeresträne](/images/t/i_40050.png) | [Meeresträne](/ItemsDE/con_955/){: .btn .btn--era5} | Other | Wenn du einen Boss im Bucht-Angriff mit der Meeresträne beschwörst, steigt deine Chance darauf, einen seltenen Boss zu beschwören, was zu wesentlich mehr Belohnungen führt. |
-  | 152 | ![Militärvorratsmünze](/images/t/i_40009.png) | [Militärvorratsmünze](/ItemsDE/con_921/){: .btn .btn--era4} | Other | Mit Militärvorratsmünzen kann man Komponenten herstellen. |
-  | 153 | ![Missionspunkte](/images/t/i_40044.png) | [Missionspunkte](/ItemsDE/con_949/){: .btn .btn--era4} | Other | Schließe Missionen ab, um Punkte zu verdienen, mit denen Spezialgegenstände freigeschaltet werden können. |
-  | 154 | ![Mittlere energiebindende Phiole](/images/t/i_521.png) | [Mittlere energiebindende Phiole](/ItemsDE/con_725/){: .btn .btn--era4} | EXP | Eine Phiole mit Artefaktessenz. Verleiht 20 Artefaktessenz. |
-  | 155 | ![Mittlerer Arenaschatz](/images/t/i_503.png) | [Mittlerer Arenaschatz](/ItemsDE/con_718/){: .btn .btn--era3} | EXP | Eine Schatztruhe mit 30 Arenamünzen! |
-  | 156 | ![Mittlerer Energietrank](/images/t/i_505.png) | [Mittlerer Energietrank](/ItemsDE/con_705/){: .btn .btn--era3} | EXP | Eine Flasche mit reinem Energietrank. Verleiht 30 Energie. |
-  | 157 | ![Mittlerer Kampagnenschatz](/images/t/i_506.png) | [Mittlerer Kampagnenschatz](/ItemsDE/con_722/){: .btn .btn--era3} | EXP | Eine Schatztruhe mit 30 Imperiumsorden! |
-  | 158 | ![Mondlicht-Einladung – Gem](/images/h/h_Gem7.jpg) | [Mondlicht-Einladung – Gem](/ItemsDE/con_1048/){: .btn .btn--era5} | Special Skin | Damit erhältst du Gems „Mondlicht-Einladung“-Skin. |
-  | 159 | ![Münz-Belohnungspaket](/images/t/i_10042_redpacket.png) | [Münz-Belohnungspaket](/ItemsDE/con_556/){: .btn .btn--era4} | Event related | Ein Belohnungspaket voller Münzen. Öffne es und versuche dein Glück! (Dieser Gegenstand wird bei Ereignisende entfernt.) |
-  | 160 | ![Nacht der Ernte: Roland](/images/h/h_Roland5.jpg) | [Nacht der Ernte: Roland](/ItemsDE/con_1034/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Nacht der Ernte: Roland“. |
-  | 161 |  | [Nachtgezeiten-Spezialskin](/ItemsDE/con_672/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald „Nachtgezeiten“ erweckt wird. |
-  | 162 |  | [Nachtgezeiten-Token](/ItemsDE/con_1004/){: .btn .btn--era4} | Exclusive piece | Ein Nachtgezeiten-Token einer uralten Kampagne, mit der das exklusive Potenzial der Meerjungfrau erweckt wird: „Nachtgezeiten“. |
-  | 163 |  | [Nachtmahrauge-Token](/ItemsDE/con_985/){: .btn .btn--era4} | Exclusive piece | Ein Nachtmahrauge-Token einer uralten Kampagne, mit der das exklusive Potenzial des Nachtmahrs erweckt wird: „Nachtmahrauge“. |
-  | 164 |  | [Nagaschwert-Spezialskin](/ItemsDE/con_655/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald Nagaschwert erweckt wird. |
-  | 165 |  | [Nagaschwert-Token](/ItemsDE/con_987/){: .btn .btn--era5} | Exclusive piece | Ein Nagaschwert-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial der Naga erweckt wird – Nagaschwert. |
-  | 166 | ![Neutraler Formstein](/images/t/i_8003.png) | [Neutraler Formstein](/ItemsDE/con_1125/){: .btn .btn--era5} | Holy Emblems Cast Stone | Ein neutraler Formstein, den man zum Formen von neutralen Heiligen Emblemen benötigt. |
-  | 167 |  | [Niederlagen](/ItemsDE/con_893/){: .btn .btn--era4} | VIP related | Steht für den erlittenen Schaden in Gildenkriegen. Erreicht der Wert 0, ist eine Wiederbelebung nötig. |
-  | 168 |  | [Oranger Kristall](/ItemsDE/con_730/){: .btn .btn--era5} | Material | Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten erheblich verbessern. Gibt beim Benutzen 1.000 Einheiten-ERF. |
-  | 169 | ![Pfeil](/images/t/i_arrow.png) | [Pfeil](/ItemsDE/con_890/){: .btn .btn--era4} | VIP related | Ein Pfeil, wie ihn Waldelfen häufig nutzen. |
-  | 170 |  | [Polaris-Spezialskin](/ItemsDE/con_657/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald „Polaris“ erweckt wird. |
-  | 171 |  | [Polaris-Token](/ItemsDE/con_989/){: .btn .btn--era4} | Exclusive piece | Ein Polaris-Token einer uralten Kampagne, mit der das exklusive Potenzial des Magischen Luftschiffs erweckt wird: „Polaris“. |
-  | 172 | ![Premiumkarten-ERF](/images/t/i_40035.png) | [Premiumkarten-ERF](/ItemsDE/con_943/){: .btn .btn--era5} | Other | Premiumkarten-ERF erhöht die Stufe der aktuell aktiven Premiumkarte. |
-  | 173 | ![Privilegpunkt](/images/t/i_310001.png) | [Privilegpunkt](/ItemsDE/con_820/){: .btn .btn--era4} | Other | Hiermit kann man Privilegpunkte freischalten oder generieren. Erhält man aus der Tagesmission-Aktivitätstruhe. |
-  | 174 |  | [Prächtiger-Drachenflügel-Spezialskin](/ItemsDE/con_644/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald „Prächtiger Drachenflügel“ erweckt wird. |
-  | 175 |  | [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/){: .btn .btn--era5} | Exclusive piece | Ein Prächtiger-Drachenflügel-Token einer uralten Kampagne, mit der das exklusive Potenzial des Grünen Drachens erweckt wird: „Prächtiger Drachenflügel“. |
-  | 176 | ![Präzisionsteil](/images/t/i_40008.png) | [Präzisionsteil](/ItemsDE/con_920/){: .btn .btn--era4} | Other | Ein Präzisionsteil, mit dem man Komponenten verbessern kann. Erhält man, indem man Komponenten zerlegt. |
-  | 177 |  | [Rabattcoupon](/ItemsDE/con_945/){: .btn .btn--era4} | Other | Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann. |
-  | 178 | ![Rechtschaffener Formstein](/images/t/i_8001.png) | [Rechtschaffener Formstein](/ItemsDE/con_1123/){: .btn .btn--era5} | Holy Emblems Cast Stone | Ein rechtschaffener Formstein, den man zum Formen von rechtschaffenen Heiligen Emblemen benötigt. |
-  | 179 | ![Regnan-Goldmünze](/images/t/i_40046.png) | [Regnan-Goldmünze](/ItemsDE/con_951/){: .btn .btn--era5} | Other | Ein Gegenstand, der im Bucht-Angriff erbeutet werden kann. Verwende ihn, um einen Boss zu beschwören und herauszufordern. |
-  | 180 | ![Regnan-Kupfermünze](/images/t/i_40048.png) | [Regnan-Kupfermünze](/ItemsDE/con_953/){: .btn .btn--era5} | Other | Ein Gegenstand, der im Bucht-Angriff erbeutet werden kann. Verwende ihn, um einen Boss zu beschwören und herauszufordern. |
-  | 181 | ![Regnan-Silbermünze](/images/t/i_40047.png) | [Regnan-Silbermünze](/ItemsDE/con_952/){: .btn .btn--era5} | Other | Ein Gegenstand, der im Bucht-Angriff erbeutet werden kann. Verwende ihn, um einen Boss zu beschwören und herauszufordern. |
-  | 182 | ![Regnanseherin-Skin „Ozeanide“](/images/u/ti_haihoupifu2.jpg) | [Regnanseherin-Skin „Ozeanide“](/ItemsDE/con_2005/){: .btn .btn--era5} | Unit Skin | Nach dem Öffnen erhältst du die Regnanseherin-Skin „Ozeanide“. |
-  | 183 | ![Revelations: Ezio](/images/h/h_Ezio1.jpg) | [Revelations: Ezio](/ItemsDE/con_1081/){: .btn .btn--era5} | Special Skin | Gewährt die Skin „Revelations: Ezio“. |
-  | 184 | ![Richterin-Skin „Anhänger“](/images/u/ti_shenpanguanpifu2.jpg) | [Richterin-Skin „Anhänger“](/ItemsDE/con_1976/){: .btn .btn--era5} | Unit Skin | Nach dem Öffnen erhältst du die Richterin-Skin „Anhängerin“. |
-  | 185 | ![Riesiger ERF-Trank](/images/t/i_503.png) | [Riesiger ERF-Trank](/ItemsDE/con_703/){: .btn .btn--era4} | EXP | Eine Flasche mit hochgradig reinem ERF-Trank. Verleiht 7.500 Einheiten-ERF. |
-  | 186 |  | [Ritterpike-Token](/ItemsDE/con_916/){: .btn .btn--era4} | Exclusive piece | Ein exklusives Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial der Ansturm-Einheit erweckt wird: „Ritterpike“. |
-  | 187 | ![Ruhmesmünze](/images/t/i_40010.png) | [Ruhmesmünze](/ItemsDE/con_922/){: .btn .btn--era4} | Other | Gewirkt vom glorreichen Licht des Königreichs. Kann man nur erhalten, wenn man in Königreicheroberung-Schlachten kämpft. |
-  | 188 | ![Ruhmeszertifikat](/images/t/i_40021.png) | [Ruhmeszertifikat](/ItemsDE/con_933/){: .btn .btn--era5} | Other | Ein Ruhmeszertifikat, das man als Aktivitätsbelohnung und Tagesbelohnung in der Ruhmesarena erhält. |
-  | 189 | ![Sack voll Diamanten](/images/t/i_509.png) | [Sack voll Diamanten](/ItemsDE/con_710/){: .btn .btn--era4} | EXP | Ein Paket mit 128 Diamanten! |
-  | 190 | ![Sack voll Gold](/images/t/i_512.png) | [Sack voll Gold](/ItemsDE/con_714/){: .btn .btn--era4} | EXP | Ein Paket mit 60.000 Gold. |
-  | 191 | ![Schattenstahl](/images/t/i_114.png) | [Schattenstahl](/ItemsDE/con_881/){: .btn .btn--era4} | Other | Ein Vorrat an Schattenstahl (Ressource der Stufe 2). Zum Verbessern der Kaserne. |
-  | 192 | ![Schattenstahlpaket](/images/t/i_30281.png) | [Schattenstahlpaket](/ItemsDE/con_740/){: .btn .btn--era4} | EXP | Ein Paket mit Drachenstahl. Gewährt 300 Drachenstahl. |
-  | 193 | ![Schekel](/images/t/i_40045.png) | [Schekel](/ItemsDE/con_950/){: .btn .btn--era4} | Other | Ein Meeres-Token, das im Bucht-Angriff erbeutet werden kann. Kann im Ereignisladen gegen wertvolle Belohnungen eingelöst werden. |
-  | 194 | ![Schlachtenkommandantin: Mephala](/images/h/h_Mephala3.jpg) | [Schlachtenkommandantin: Mephala](/ItemsDE/con_1041/){: .btn .btn--era5} | Special Skin | Damit erhältst du Mephalas Schlachtenkommandantin-Skin. |
-  | 195 | ![Schlüssel der Büchse der Pandora](/images/t/i_40052.png) | [Schlüssel der Büchse der Pandora](/ItemsDE/con_957/){: .btn .btn--era4} | Other | Ein geheimnisvoller Schlüssel. Benutze ihn, um die Büchse der Pandora zu öffnen. |
-  | 196 |  | [Schwarzes Segel](/de/Items/con_2154/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Schwarzes Segel: Hai-Ausbilder“. |
-  | 197 |  | [Schwert-Token](/ItemsDE/con_912/){: .btn .btn--era4} | Exclusive piece | Ein exklusives Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial der Offensiv-Einheit erweckt wird – Schwert. |
-  | 198 | ![Schwingen des Triumphes: Catherine](/images/h/h_Catherine10.jpg) | [Schwingen des Triumphes: Catherine](/ItemsDE/con_1032/){: .btn .btn--era5} | Special Skin | Damit erhältst du Catherines „Schwingen des Triumphes“-Skin. |
-  | 199 | ![Schwingen des Triumphes: Gelu](/images/h/h_Gelu9.jpg) | [Schwingen des Triumphes: Gelu](/ItemsDE/con_1040/){: .btn .btn--era5} | Special Skin | Damit erhältst du Schwingen des Triumphes: Gelu-Skin. |
-  | 200 | ![Seelenstein ](/images/t/i_40011.png) | [Seelenstein ](/ItemsDE/con_923/){: .btn .btn--era4} | Other | Seelensteine erhält man, indem man Heilige Embleme zerlegt. Man erhält dafür Gegenstände im Emblemladen. |
-  | 201 | ![Seltene Materialtruhe](/images/t/i_304001.png) | [Seltene Materialtruhe](/ItemsDE/con_757/){: .btn .btn--era4} | Material Chest | Gewährt seltene Ausrüstungs- aufwertungsgegenstände je nach Stufe des Spielers. |
-  | 202 | ![Silber](/images/t/i_4003401.png) | [Silber](/ItemsDE/con_942/){: .btn .btn--era5} | VIP related |  |
-  | 203 | ![Skelettessenz-Truhe](/images/t/i_906004.png) | [Skelettessenz-Truhe](/ItemsDE/con_1327/){: .btn .btn--era4} | Unit Essence | Gibt mit 50 % Wahrscheinlichkeit ein Vidomina-Token! |
-  | 204 | ![Skin: Donner-Gorgone – Gorgone](/images/u/ti_manniupifu.jpg) | [Skin: Donner-Gorgone – Gorgone](/ItemsDE/con_1998/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Donner-Gorgone – Gorgone“. |
-  | 205 |  | [Skorpionschwanz-Spezialskin](/ItemsDE/con_660/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald Skorpionschwanz erweckt wird. |
-  | 206 |  | [Skorpionschwanz-Token](/ItemsDE/con_992/){: .btn .btn--era4} | Exclusive piece | Ein Skorpionschwanz-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Mantikor erweckt wird – Skorpionschwanz. |
-  | 207 | ![Sohn des Waldes: Ryland](/images/h/h_Ryland3.jpg) | [Sohn des Waldes: Ryland](/ItemsDE/con_1044/){: .btn .btn--era5} | Special Skin | Damit erhältst du Rylands „Sohn des Waldes: Ryland“-Skin. |
-  | 208 | ![Spieler-ERF](/images/t/i_101.png) | [Spieler-ERF](/ItemsDE/con_897/){: .btn .btn--era4} | VIP related | Jeder bekommt gern mehr Erfahrung! |
-  | 209 | ![Spieler-ERF-Tränke](/images/t/i_501.png) | [Spieler-ERF-Tränke](/ItemsDE/con_676/){: .btn .btn--era2} | EXP | Wird benötigt, um den Rang von Feuervögeln zu erhöhen, einer Einheit mit Macht SR. |
-  | 210 | ![Spitzentalentpunkt](/images/t/i_40022.png) | [Spitzentalentpunkt](/ItemsDE/con_934/){: .btn .btn--era5} | Other | Spitzentalentpunkte, mit denen man Spitzenattribute verbessert. Erhält man, indem man die Spitzenstufe aufwertet. |
-  | 211 | ![Staubige Schatzkarte](/images/t/i_810102.png) | [Staubige Schatzkarte](/ItemsDE/con_1156/){: .btn .btn--era5} | GUILD_MAP_TREASURE | Eine eintausend Jahre alte, empfindliche Karte. Der Legende sagt enthüllt sie ein unglaubliches Geheimnis. Zum Entdecken von Schätzen auf der Gildenkarte. |
-  | 212 | ![Sternerz](/images/t/i_40051.png) | [Sternerz](/ItemsDE/con_956/){: .btn .btn--era4} | Other | Museum-ERF. Sammle eine bestimmte Menge, um die Museumsstufe zu erhöhen. |
-  | 213 | ![Sternseele](/images/t/i_40014.png) | [Sternseele](/ItemsDE/con_926/){: .btn .btn--era5} | VIP related | Ein Material, mit dem man Sterne aktiviert. Erhält man, indem man Helden-Tokens umwandelt. Jeder Held braucht seine ganz eigene Sternseele. |
-  | 214 | ![Sternsigille](/images/t/i_69.png) | [Sternsigille](/ItemsDE/con_876/){: .btn .btn--era5} | Other | Die Macht eines Sternes, die in Enroth verteilt und in Bernstein eingeschlossen wurde. Kann die Macht von Artefakten zerstören. |
-  | 215 | ![Sternsilber](/images/t/i_113.png) | [Sternsilber](/ItemsDE/con_882/){: .btn .btn--era3} | Other | Ein Vorrat an Sternsilber (Ressource der Stufe 1). Zum Verbessern der Kaserne. |
-  | 216 |  | [Tagesgezeiten-Spezialskin](/ItemsDE/con_671/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald „Tagesgezeiten“ erweckt wird. |
-  | 217 |  | [Tagesgezeiten-Token](/ItemsDE/con_1003/){: .btn .btn--era4} | Exclusive piece | Ein Tagesgezeiten-Token einer uralten Kampagne, mit der das exklusive Potenzial der Regnanschlange erweckt wird: „Wunder“. |
-  | 218 | ![Tarotwelt](/images/h/h_HumanSandro3.jpg) | [Tarotwelt](/ItemsDE/con_1054/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Mensch Sandro in der Tarotwelt“. |
-  | 219 | ![Tasche voll Diamanten](/images/t/i_508.png) | [Tasche voll Diamanten](/ItemsDE/con_709/){: .btn .btn--era3} | EXP | Ein Paket mit 68 Diamanten! |
-  | 220 | ![Tasche voll Gold](/images/t/i_511.png) | [Tasche voll Gold](/ItemsDE/con_713/){: .btn .btn--era3} | EXP | Ein Paket mit 30.000 Gold. |
-  | 221 |  | [Tausend-Tonnen-Spezialskin](/ItemsDE/con_656/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald „Tausend Tonnen“ erweckt wird. |
-  | 222 |  | [Tausend-Tonnen-Token](/ItemsDE/con_988/){: .btn .btn--era5} | Exclusive piece | Ein Tausend-Tonnen-Token einer uralten Kampagne, mit der das exklusive Potenzial des Giganten erweckt wird: „Tausend Tonnen“. |
-  | 223 |  | [Teleportation](/ItemsDE/con_944/){: .btn .btn--era4} | Other | Schaltet Teleportation im „Heilendes Meer“-Ereignis frei. |
-  | 224 | ![Tempo-Token](/images/t/i_jiasujuanzhou.png) | [Tempo-Token](/ItemsDE/con_906/){: .btn .btn--era4} | Shipyard related | Beschleunigt die aktuelle Schiffswerft-Aufgabe um 30 Minuten. |
-  | 225 |  | [Teufelssense-Spezialskin](/ItemsDE/con_652/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald Teufelssense erweckt wird. |
-  | 226 |  | [Teufelssense-Token](/ItemsDE/con_984/){: .btn .btn--era5} | Exclusive piece | Ein Teufelssense-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Teufels erweckt wird – Teufelssense. |
-  | 227 |  | [Todestribut-Spezialskin](/ItemsDE/con_646/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald Todestribut erweckt wird. |
-  | 228 |  | [Todestribut-Token](/ItemsDE/con_978/){: .btn .btn--era4} | Exclusive piece | Ein Todestribut-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Lich erweckt wird – Todestribut. |
-  | 229 |  | [Tool_210909](/ItemsDE/con_643/){: .btn .btn--era6} | Special Skin |  |
-  | 230 |  | [Tool_250809](/ItemsDE/con_653/){: .btn .btn--era4} | Special Skin |  |
-  | 231 |  | [Tool_2990309](/ItemsDE/con_670/){: .btn .btn--era4} | Special Skin |  |
-  | 232 |  | [Tool_2990709](/ItemsDE/con_674/){: .btn .btn--era6} | Special Skin |  |
-  | 233 | ![Tool_31022](/images/t/i_red_1.png) | [Tool_31022](/ItemsDE/con_843/){: .btn .btn--era5} | Guild member gift |  |
-  | 234 | ![Tool_31023](/images/t/i_red_1.png) | [Tool_31023](/ItemsDE/con_844/){: .btn .btn--era5} | Guild member gift |  |
-  | 235 | ![Tool_31024](/images/t/i_red_2.png) | [Tool_31024](/ItemsDE/con_845/){: .btn .btn--era5} | Guild member gift |  |
-  | 236 | ![Tool_31025](/images/t/i_red_2.png) | [Tool_31025](/ItemsDE/con_846/){: .btn .btn--era5} | Guild member gift |  |
-  | 237 | ![Tool_31027](/images/t/i_red_2.png) | [Tool_31027](/ItemsDE/con_848/){: .btn .btn--era5} | Guild member gift |  |
-  | 238 | ![Tool_31028](/images/t/i_red_2.png) | [Tool_31028](/ItemsDE/con_849/){: .btn .btn--era5} | Guild member gift |  |
-  | 239 | ![Tool_31029](/images/t/i_red_2.png) | [Tool_31029](/ItemsDE/con_850/){: .btn .btn--era5} | Guild member gift |  |
-  | 240 | ![Tool_31030](/images/t/i_red_3.png) | [Tool_31030](/ItemsDE/con_851/){: .btn .btn--era5} | Guild member gift |  |
-  | 241 | ![Tool_31031](/images/t/i_red_3.png) | [Tool_31031](/ItemsDE/con_852/){: .btn .btn--era5} | Guild member gift |  |
-  | 242 | ![Tool_31032](/images/t/i_red_3.png) | [Tool_31032](/ItemsDE/con_853/){: .btn .btn--era5} | Guild member gift |  |
-  | 243 | ![Tool_31033](/images/t/i_red_3.png) | [Tool_31033](/ItemsDE/con_854/){: .btn .btn--era5} | Guild member gift |  |
-  | 244 | ![Tool_31034](/images/t/i_red_2.png) | [Tool_31034](/ItemsDE/con_855/){: .btn .btn--era5} | Guild member gift |  |
-  | 245 | ![Tool_31035](/images/t/i_red_2.png) | [Tool_31035](/ItemsDE/con_856/){: .btn .btn--era5} | Guild member gift |  |
-  | 246 | ![Tool_31036](/images/t/i_red_2.png) | [Tool_31036](/ItemsDE/con_857/){: .btn .btn--era5} | Guild member gift |  |
-  | 247 | ![Tool_31037](/images/t/i_red_2.png) | [Tool_31037](/ItemsDE/con_858/){: .btn .btn--era5} | Guild member gift |  |
-  | 248 |  | [Tool_40013](/ItemsDE/con_925/){: .btn .btn--era4} | Other |  |
-  | 249 | ![Tool_40024](/images/t/i_40024.png) | [Tool_40024](/ItemsDE/con_936/){: .btn .btn--era5} | Other |  |
-  | 250 | ![Tool_40025](/images/t/i_40025.png) | [Tool_40025](/ItemsDE/con_937/){: .btn .btn--era5} | Other |  |
-  | 251 | ![Tool_40026](/images/t/i_40026.png) | [Tool_40026](/ItemsDE/con_938/){: .btn .btn--era5} | Other |  |
-  | 252 | ![Tool_40027](/images/t/i_40027.png) | [Tool_40027](/ItemsDE/con_939/){: .btn .btn--era5} | Other |  |
-  | 253 | ![Tool_40028](/images/t/i_40028.png) | [Tool_40028](/ItemsDE/con_940/){: .btn .btn--era5} | Other |  |
+  | 128 | ![Kaputte Tür](/images/t/i_40027.png) | [Kaputte Tür](/ItemsDE/con_939/){: .btn .btn--era5} | Other | Eine kaputte Tür, die Energie erfordert, um aktiviert zu werden. Eine der vier Monolithkomponenten. |
+  | 129 | ![Kilgor – Schwert des Frostes](/images/h/h_Kilgor2.jpg) | [Kilgor – Schwert des Frostes](/ItemsDE/con_1055/){: .btn .btn--era5} | Special Skin | Gewährt die Kilgor-Skin „Schwert des Frostes“. |
+  | 130 | ![Kleine energiebindende Phiole](/images/t/i_520.png) | [Kleine energiebindende Phiole](/ItemsDE/con_724/){: .btn .btn--era4} | EXP | Eine Phiole mit ein wenig Artefaktessenz. Verleiht 10 Artefaktessenz. |
+  | 131 | ![Kleiner Arenaschatz](/images/t/i_502.png) | [Kleiner Arenaschatz](/ItemsDE/con_717/){: .btn .btn--era2} | EXP | Eine Schatztruhe mit 6 Arenamünzen! |
+  | 132 | ![Kleiner ERF-Trank](/images/t/i_501.png) | [Kleiner ERF-Trank](/ItemsDE/con_701/){: .btn .btn--era2} | EXP | Eine kleine Flasche mit milchigem ERF-Trank. Verleiht 300 Einheiten-ERF. |
+  | 133 | ![Kleiner Energietrank](/images/t/i_504.png) | [Kleiner Energietrank](/ItemsDE/con_704/){: .btn .btn--era2} | EXP | Eine kleine Flasche mit trübem Energietrank. Verleiht 6 Energie. |
+  | 134 | ![Kleiner Kampagnenschatz](/images/t/i_505.png) | [Kleiner Kampagnenschatz](/ItemsDE/con_721/){: .btn .btn--era2} | EXP | Eine Schatztruhe mit 6 Imperiumsorden! |
+  | 135 | ![Klingen-Lord – Naga-Skin](/images/u/ti_najia.jpg) | [Klingen-Lord – Naga-Skin](/ItemsDE/con_1993/){: .btn .btn--era5} | Unit Skin | Gewährt Klingen-Lord – Naga-Skin. |
+  | 136 | ![Kriegsvorräte](/images/t/i_40007.png) | [Kriegsvorräte](/ItemsDE/con_919/){: .btn .btn--era4} | Other | Kriegsvorräte, mit denen man Kriegsmaschinen verbessern kann. |
+  | 137 | ![Kämpfer-Champion: Mephala](/images/h/h_Mephala7.jpg) | [Kämpfer-Champion: Mephala](/ItemsDE/con_1043/){: .btn .btn--era5} | Special Skin | Damit erhältst du Mephalas Kämpfer-Champion-Skin. |
+  | 138 | ![Königliche Hochzeit: Catherine](/images/h/h_Catherine7.jpg) | [Königliche Hochzeit: Catherine](/ItemsDE/con_1030/){: .btn .btn--era5} | Special Skin | Damit erhältst du Catherines „Königliche Hochzeit“-Skin. |
+  | 139 | ![Königliche Hochzeit: Roland](/images/h/h_Roland7.jpg) | [Königliche Hochzeit: Roland](/ItemsDE/con_1035/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Königliche Hochzeit: Roland“. |
+  | 140 |  | [Langbogen-Token](/ItemsDE/con_914/){: .btn .btn--era4} | Exclusive piece | Ein exklusives Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial der Fernkampf-Einheit erweckt wird – Langbogen. |
+  | 141 | ![Legendärer Krieger (14 Tage)](/images/a/avatarFrame_61.png) | [Legendärer Krieger (14 Tage)](/ItemsDE/con_1019/){: .btn .btn--era5} | Experience Card | Erhältlich beim Erreichen von Platz 3 in der Cross-Server-„Schlacht der Götter“. |
+  | 142 | ![Lehrling der Ketzerei: Vidomina](/images/h/h_Vidomina3.jpg) | [Lehrling der Ketzerei: Vidomina](/ItemsDE/con_1052/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Lehrling der Ketzerei: Vidomina“. |
+  | 143 | ![Ligamünze](/images/t/i_112.png) | [Ligamünze](/ItemsDE/con_892/){: .btn .btn--era4} | VIP related | Ligamünzen sind im Meisterduell und als Saisonbelohnung erhältlich. |
+  | 144 |  | [Lila Kristall](/ItemsDE/con_720/){: .btn .btn--era4} | Material | Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten stark verbessern. Gibt beim Benutzen 450 Einheiten-ERF. |
+  | 145 | ![Lodermal](/images/t/i_40043.png) | [Lodermal](/ItemsDE/con_948/){: .btn .btn--era4} | Other | Ein Orden, der in Phasen des Ereignisses „Rolands Gefangennahme“ erbeutet werden kann. Kann im Ereignisladen gegen wertvolle Belohnungen eingelöst werden. |
+  | 146 | ![Lord des Frostes](/images/h/h_MutareDrake7.jpg) | [Lord des Frostes](/ItemsDE/con_1075/){: .btn .btn--era5} | Special Skin | Gewährt Drache Mutares Skin „Lord des Frostes“. |
+  | 147 |  | [Lyra-Spezialskin](/ItemsDE/con_654/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald „Lyra“ erweckt wird. |
+  | 148 |  | [Lyra-Token](/ItemsDE/con_986/){: .btn .btn--era4} | Exclusive piece | Ein Lyra-Token einer uralten Kampagne, mit der das exklusive Potenzial des Dschinns erweckt wird: „Lyra“. |
+  | 149 | ![Macht des Drachenvaters](/images/h/h_Astral4.jpg) | [Macht des Drachenvaters](/ItemsDE/con_1068/){: .btn .btn--era5} | Special Skin | Damit erhältst du Astrals „Macht des Drachenvaters“-Skin. |
+  | 150 | ![Magiekristall](/images/t/i_40025.png) | [Magiekristall](/ItemsDE/con_937/){: .btn .btn--era5} | Other | Ein Magiekristall, der dem Monolithen als Energiekern dient. Eine der vier Monolithkomponenten. |
+  | 151 | ![Magier: Astral](/images/h/h_Astral3.jpg) | [Magier: Astral](/ItemsDE/con_1067/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Magier: Astral“. |
+  | 152 | ![Meeresträne](/images/t/i_40050.png) | [Meeresträne](/ItemsDE/con_955/){: .btn .btn--era5} | Other | Wenn du einen Boss im Bucht-Angriff mit der Meeresträne beschwörst, steigt deine Chance darauf, einen seltenen Boss zu beschwören, was zu wesentlich mehr Belohnungen führt. |
+  | 153 | ![Militärvorratsmünze](/images/t/i_40009.png) | [Militärvorratsmünze](/ItemsDE/con_921/){: .btn .btn--era4} | Other | Mit Militärvorratsmünzen kann man Komponenten herstellen. |
+  | 154 | ![Missionspunkte](/images/t/i_40044.png) | [Missionspunkte](/ItemsDE/con_949/){: .btn .btn--era4} | Other | Schließe Missionen ab, um Punkte zu verdienen, mit denen Spezialgegenstände freigeschaltet werden können. |
+  | 155 | ![Mittlere energiebindende Phiole](/images/t/i_521.png) | [Mittlere energiebindende Phiole](/ItemsDE/con_725/){: .btn .btn--era4} | EXP | Eine Phiole mit Artefaktessenz. Verleiht 20 Artefaktessenz. |
+  | 156 | ![Mittlerer Arenaschatz](/images/t/i_503.png) | [Mittlerer Arenaschatz](/ItemsDE/con_718/){: .btn .btn--era3} | EXP | Eine Schatztruhe mit 30 Arenamünzen! |
+  | 157 | ![Mittlerer Energietrank](/images/t/i_505.png) | [Mittlerer Energietrank](/ItemsDE/con_705/){: .btn .btn--era3} | EXP | Eine Flasche mit reinem Energietrank. Verleiht 30 Energie. |
+  | 158 | ![Mittlerer Kampagnenschatz](/images/t/i_506.png) | [Mittlerer Kampagnenschatz](/ItemsDE/con_722/){: .btn .btn--era3} | EXP | Eine Schatztruhe mit 30 Imperiumsorden! |
+  | 159 | ![Mondlicht-Einladung – Gem](/images/h/h_Gem7.jpg) | [Mondlicht-Einladung – Gem](/ItemsDE/con_1048/){: .btn .btn--era5} | Special Skin | Damit erhältst du Gems „Mondlicht-Einladung“-Skin. |
+  | 160 | ![Münz-Belohnungspaket](/images/t/i_10042_redpacket.png) | [Münz-Belohnungspaket](/ItemsDE/con_556/){: .btn .btn--era4} | Event related | Ein Belohnungspaket voller Münzen. Öffne es und versuche dein Glück! (Dieser Gegenstand wird bei Ereignisende entfernt.) |
+  | 161 |  | [Münze der Heiligen Stadt](/de/Items/con_2161/){: .btn .btn--era5} | Other | Währung aus der Belagerung der Heiligen Stadt. Symbolisiert Kampfverdienste und Ehre. |
+  | 162 | ![Nacht der Ernte: Roland](/images/h/h_Roland5.jpg) | [Nacht der Ernte: Roland](/ItemsDE/con_1034/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Nacht der Ernte: Roland“. |
+  | 163 |  | [Nachtgezeiten-Spezialskin](/ItemsDE/con_672/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald „Nachtgezeiten“ erweckt wird. |
+  | 164 |  | [Nachtgezeiten-Token](/ItemsDE/con_1004/){: .btn .btn--era4} | Exclusive piece | Ein Nachtgezeiten-Token einer uralten Kampagne, mit der das exklusive Potenzial der Meerjungfrau erweckt wird: „Nachtgezeiten“. |
+  | 165 |  | [Nachtmahrauge-Token](/ItemsDE/con_985/){: .btn .btn--era4} | Exclusive piece | Ein Nachtmahrauge-Token einer uralten Kampagne, mit der das exklusive Potenzial des Nachtmahrs erweckt wird: „Nachtmahrauge“. |
+  | 166 |  | [Nagaschwert-Spezialskin](/ItemsDE/con_655/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald Nagaschwert erweckt wird. |
+  | 167 |  | [Nagaschwert-Token](/ItemsDE/con_987/){: .btn .btn--era5} | Exclusive piece | Ein Nagaschwert-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial der Naga erweckt wird – Nagaschwert. |
+  | 168 | ![Neutraler Formstein](/images/t/i_8003.png) | [Neutraler Formstein](/ItemsDE/con_1125/){: .btn .btn--era5} | Holy Emblems Cast Stone | Ein neutraler Formstein, den man zum Formen von neutralen Heiligen Emblemen benötigt. |
+  | 169 |  | [Niederlagen](/ItemsDE/con_893/){: .btn .btn--era4} | VIP related | Steht für den erlittenen Schaden in Gildenkriegen. Erreicht der Wert 0, ist eine Wiederbelebung nötig. |
+  | 170 |  | [Oranger Kristall](/ItemsDE/con_730/){: .btn .btn--era5} | Material | Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten erheblich verbessern. Gibt beim Benutzen 1.000 Einheiten-ERF. |
+  | 171 | ![Pfeil](/images/t/i_arrow.png) | [Pfeil](/ItemsDE/con_890/){: .btn .btn--era4} | VIP related | Ein Pfeil, wie ihn Waldelfen häufig nutzen. |
+  | 172 |  | [Polaris-Spezialskin](/ItemsDE/con_657/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald „Polaris“ erweckt wird. |
+  | 173 |  | [Polaris-Token](/ItemsDE/con_989/){: .btn .btn--era4} | Exclusive piece | Ein Polaris-Token einer uralten Kampagne, mit der das exklusive Potenzial des Magischen Luftschiffs erweckt wird: „Polaris“. |
+  | 174 | ![Premiumkarten-ERF](/images/t/i_40035.png) | [Premiumkarten-ERF](/ItemsDE/con_943/){: .btn .btn--era5} | Other | Premiumkarten-ERF erhöht die Stufe der aktuell aktiven Premiumkarte. |
+  | 175 | ![Privilegpunkt](/images/t/i_310001.png) | [Privilegpunkt](/ItemsDE/con_820/){: .btn .btn--era4} | Other | Hiermit kann man Privilegpunkte freischalten oder generieren. Erhält man aus der Tagesmission-Aktivitätstruhe. |
+  | 176 |  | [Prächtiger-Drachenflügel-Spezialskin](/ItemsDE/con_644/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald „Prächtiger Drachenflügel“ erweckt wird. |
+  | 177 |  | [Prächtiger-Drachenflügel-Token](/ItemsDE/con_976/){: .btn .btn--era5} | Exclusive piece | Ein Prächtiger-Drachenflügel-Token einer uralten Kampagne, mit der das exklusive Potenzial des Grünen Drachens erweckt wird: „Prächtiger Drachenflügel“. |
+  | 178 | ![Präzisionsteil](/images/t/i_40008.png) | [Präzisionsteil](/ItemsDE/con_920/){: .btn .btn--era4} | Other | Ein Präzisionsteil, mit dem man Komponenten verbessern kann. Erhält man, indem man Komponenten zerlegt. |
+  | 179 |  | [Rabattcoupon](/ItemsDE/con_945/){: .btn .btn--era4} | Other | Coupon, der beim „Heilendes Meer“-Ereignis eingelöst werden kann. |
+  | 180 | ![Raumzeit-Edelstein](/images/t/i_40024.png) | [Raumzeit-Edelstein](/ItemsDE/con_936/){: .btn .btn--era5} | Other | Ein Raumzeit-Edelstein, mit dem man um den Segen der Ahnen beten kann. Wird bei Verlassen einer Gilde entfernt. |
+  | 181 | ![Raumzeitkoordinaten](/images/t/i_40028.png) | [Raumzeitkoordinaten](/ItemsDE/con_940/){: .btn .btn--era5} | Other | Raumzeitkoordinaten, die den Raumzeittunnel auf der Karte des nächsten Kapitels aufdecken. Eine der vier Monolithkomponenten. |
+  | 182 | ![Raumzeitschlüssel](/images/t/i_40026.png) | [Raumzeitschlüssel](/ItemsDE/con_938/){: .btn .btn--era5} | Other | Ein Raumzeitschlüssel, der als Schlüssel zum Monolithen dient. Eine der vier Monolithkomponenten. |
+  | 183 | ![Rechtschaffener Formstein](/images/t/i_8001.png) | [Rechtschaffener Formstein](/ItemsDE/con_1123/){: .btn .btn--era5} | Holy Emblems Cast Stone | Ein rechtschaffener Formstein, den man zum Formen von rechtschaffenen Heiligen Emblemen benötigt. |
+  | 184 | ![Regnan-Goldmünze](/images/t/i_40046.png) | [Regnan-Goldmünze](/ItemsDE/con_951/){: .btn .btn--era5} | Other | Ein Gegenstand, der im Bucht-Angriff erbeutet werden kann. Verwende ihn, um einen Boss zu beschwören und herauszufordern. |
+  | 185 | ![Regnan-Kupfermünze](/images/t/i_40048.png) | [Regnan-Kupfermünze](/ItemsDE/con_953/){: .btn .btn--era5} | Other | Ein Gegenstand, der im Bucht-Angriff erbeutet werden kann. Verwende ihn, um einen Boss zu beschwören und herauszufordern. |
+  | 186 | ![Regnan-Silbermünze](/images/t/i_40047.png) | [Regnan-Silbermünze](/ItemsDE/con_952/){: .btn .btn--era5} | Other | Ein Gegenstand, der im Bucht-Angriff erbeutet werden kann. Verwende ihn, um einen Boss zu beschwören und herauszufordern. |
+  | 187 | ![Regnanseherin-Skin „Ozeanide“](/images/u/ti_haihoupifu2.jpg) | [Regnanseherin-Skin „Ozeanide“](/ItemsDE/con_2005/){: .btn .btn--era5} | Unit Skin | Nach dem Öffnen erhältst du die Regnanseherin-Skin „Ozeanide“. |
+  | 188 | ![Revelations: Ezio](/images/h/h_Ezio1.jpg) | [Revelations: Ezio](/ItemsDE/con_1081/){: .btn .btn--era5} | Special Skin | Gewährt die Skin „Revelations: Ezio“. |
+  | 189 | ![Richterin-Skin „Anhänger“](/images/u/ti_shenpanguanpifu2.jpg) | [Richterin-Skin „Anhänger“](/ItemsDE/con_1976/){: .btn .btn--era5} | Unit Skin | Nach dem Öffnen erhältst du die Richterin-Skin „Anhängerin“. |
+  | 190 | ![Riesiger ERF-Trank](/images/t/i_503.png) | [Riesiger ERF-Trank](/ItemsDE/con_703/){: .btn .btn--era4} | EXP | Eine Flasche mit hochgradig reinem ERF-Trank. Verleiht 7.500 Einheiten-ERF. |
+  | 191 |  | [Ritterpike-Token](/ItemsDE/con_916/){: .btn .btn--era4} | Exclusive piece | Ein exklusives Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial der Ansturm-Einheit erweckt wird: „Ritterpike“. |
+  | 192 | ![Ruhmesmünze](/images/t/i_40010.png) | [Ruhmesmünze](/ItemsDE/con_922/){: .btn .btn--era4} | Other | Gewirkt vom glorreichen Licht des Königreichs. Kann man nur erhalten, wenn man in Königreicheroberung-Schlachten kämpft. |
+  | 193 | ![Ruhmeszertifikat](/images/t/i_40021.png) | [Ruhmeszertifikat](/ItemsDE/con_933/){: .btn .btn--era5} | Other | Ein Ruhmeszertifikat, das man als Aktivitätsbelohnung und Tagesbelohnung in der Ruhmesarena erhält. |
+  | 194 | ![Sack voll Diamanten](/images/t/i_509.png) | [Sack voll Diamanten](/ItemsDE/con_710/){: .btn .btn--era4} | EXP | Ein Paket mit 128 Diamanten! |
+  | 195 | ![Sack voll Gold](/images/t/i_512.png) | [Sack voll Gold](/ItemsDE/con_714/){: .btn .btn--era4} | EXP | Ein Paket mit 60.000 Gold. |
+  | 196 | ![Schattenstahl](/images/t/i_114.png) | [Schattenstahl](/ItemsDE/con_881/){: .btn .btn--era4} | Other | Ein Vorrat an Schattenstahl (Ressource der Stufe 2). Zum Verbessern der Kaserne. |
+  | 197 | ![Schattenstahlpaket](/images/t/i_30281.png) | [Schattenstahlpaket](/ItemsDE/con_740/){: .btn .btn--era4} | EXP | Ein Paket mit Drachenstahl. Gewährt 300 Drachenstahl. |
+  | 198 | ![Schekel](/images/t/i_40045.png) | [Schekel](/ItemsDE/con_950/){: .btn .btn--era4} | Other | Ein Meeres-Token, das im Bucht-Angriff erbeutet werden kann. Kann im Ereignisladen gegen wertvolle Belohnungen eingelöst werden. |
+  | 199 | ![Schlachtenkommandantin: Mephala](/images/h/h_Mephala3.jpg) | [Schlachtenkommandantin: Mephala](/ItemsDE/con_1041/){: .btn .btn--era5} | Special Skin | Damit erhältst du Mephalas Schlachtenkommandantin-Skin. |
+  | 200 | ![Schlüssel der Büchse der Pandora](/images/t/i_40052.png) | [Schlüssel der Büchse der Pandora](/ItemsDE/con_957/){: .btn .btn--era4} | Other | Ein geheimnisvoller Schlüssel. Benutze ihn, um die Büchse der Pandora zu öffnen. |
+  | 201 |  | [Schwarzes Segel](/de/Items/con_2154/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Schwarzes Segel: Hai-Ausbilder“. |
+  | 202 |  | [Schwert-Token](/ItemsDE/con_912/){: .btn .btn--era4} | Exclusive piece | Ein exklusives Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial der Offensiv-Einheit erweckt wird – Schwert. |
+  | 203 | ![Schwingen des Triumphes: Catherine](/images/h/h_Catherine10.jpg) | [Schwingen des Triumphes: Catherine](/ItemsDE/con_1032/){: .btn .btn--era5} | Special Skin | Damit erhältst du Catherines „Schwingen des Triumphes“-Skin. |
+  | 204 | ![Schwingen des Triumphes: Gelu](/images/h/h_Gelu9.jpg) | [Schwingen des Triumphes: Gelu](/ItemsDE/con_1040/){: .btn .btn--era5} | Special Skin | Damit erhältst du Schwingen des Triumphes: Gelu-Skin. |
+  | 205 | ![Seelenstein ](/images/t/i_40011.png) | [Seelenstein ](/ItemsDE/con_923/){: .btn .btn--era4} | Other | Seelensteine erhält man, indem man Heilige Embleme zerlegt. Man erhält dafür Gegenstände im Emblemladen. |
+  | 206 | ![Seltene Materialtruhe](/images/t/i_304001.png) | [Seltene Materialtruhe](/ItemsDE/con_757/){: .btn .btn--era4} | Material Chest | Gewährt seltene Ausrüstungs- aufwertungsgegenstände je nach Stufe des Spielers. |
+  | 207 | ![Silber](/images/t/i_4003401.png) | [Silber](/ItemsDE/con_942/){: .btn .btn--era5} | VIP related |  |
+  | 208 | ![Skelettessenz-Truhe](/images/t/i_906004.png) | [Skelettessenz-Truhe](/ItemsDE/con_1327/){: .btn .btn--era4} | Unit Essence | Gibt mit 50 % Wahrscheinlichkeit ein Vidomina-Token! |
+  | 209 | ![Skin: Donner-Gorgone – Gorgone](/images/u/ti_manniupifu.jpg) | [Skin: Donner-Gorgone – Gorgone](/ItemsDE/con_1998/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Donner-Gorgone – Gorgone“. |
+  | 210 |  | [Skorpionschwanz-Spezialskin](/ItemsDE/con_660/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald Skorpionschwanz erweckt wird. |
+  | 211 |  | [Skorpionschwanz-Token](/ItemsDE/con_992/){: .btn .btn--era4} | Exclusive piece | Ein Skorpionschwanz-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Mantikor erweckt wird – Skorpionschwanz. |
+  | 212 | ![Sohn des Waldes: Ryland](/images/h/h_Ryland3.jpg) | [Sohn des Waldes: Ryland](/ItemsDE/con_1044/){: .btn .btn--era5} | Special Skin | Damit erhältst du Rylands „Sohn des Waldes: Ryland“-Skin. |
+  | 213 | ![Spieler-ERF](/images/t/i_101.png) | [Spieler-ERF](/ItemsDE/con_897/){: .btn .btn--era4} | VIP related | Jeder bekommt gern mehr Erfahrung! |
+  | 214 | ![Spieler-ERF-Tränke](/images/t/i_501.png) | [Spieler-ERF-Tränke](/ItemsDE/con_676/){: .btn .btn--era2} | EXP | Wird benötigt, um den Rang von Feuervögeln zu erhöhen, einer Einheit mit Macht SR. |
+  | 215 | ![Spitzentalentpunkt](/images/t/i_40022.png) | [Spitzentalentpunkt](/ItemsDE/con_934/){: .btn .btn--era5} | Other | Spitzentalentpunkte, mit denen man Spitzenattribute verbessert. Erhält man, indem man die Spitzenstufe aufwertet. |
+  | 216 | ![Staubige Schatzkarte](/images/t/i_810102.png) | [Staubige Schatzkarte](/ItemsDE/con_1156/){: .btn .btn--era5} | GUILD_MAP_TREASURE | Eine eintausend Jahre alte, empfindliche Karte. Der Legende sagt enthüllt sie ein unglaubliches Geheimnis. Zum Entdecken von Schätzen auf der Gildenkarte. |
+  | 217 | ![Sternerz](/images/t/i_40051.png) | [Sternerz](/ItemsDE/con_956/){: .btn .btn--era4} | Other | Museum-ERF. Sammle eine bestimmte Menge, um die Museumsstufe zu erhöhen. |
+  | 218 | ![Sternseele](/images/t/i_40014.png) | [Sternseele](/ItemsDE/con_926/){: .btn .btn--era5} | VIP related | Ein Material, mit dem man Sterne aktiviert. Erhält man, indem man Helden-Tokens umwandelt. Jeder Held braucht seine ganz eigene Sternseele. |
+  | 219 | ![Sternsigille](/images/t/i_69.png) | [Sternsigille](/ItemsDE/con_876/){: .btn .btn--era5} | Other | Die Macht eines Sternes, die in Enroth verteilt und in Bernstein eingeschlossen wurde. Kann die Macht von Artefakten zerstören. |
+  | 220 | ![Sternsilber](/images/t/i_113.png) | [Sternsilber](/ItemsDE/con_882/){: .btn .btn--era3} | Other | Ein Vorrat an Sternsilber (Ressource der Stufe 1). Zum Verbessern der Kaserne. |
+  | 221 |  | [Tagesgezeiten-Spezialskin](/ItemsDE/con_671/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald „Tagesgezeiten“ erweckt wird. |
+  | 222 |  | [Tagesgezeiten-Token](/ItemsDE/con_1003/){: .btn .btn--era4} | Exclusive piece | Ein Tagesgezeiten-Token einer uralten Kampagne, mit der das exklusive Potenzial der Regnanschlange erweckt wird: „Wunder“. |
+  | 223 | ![Tarotwelt](/images/h/h_HumanSandro3.jpg) | [Tarotwelt](/ItemsDE/con_1054/){: .btn .btn--era5} | Special Skin | Damit erhältst du die Skin „Mensch Sandro in der Tarotwelt“. |
+  | 224 | ![Tasche voll Diamanten](/images/t/i_508.png) | [Tasche voll Diamanten](/ItemsDE/con_709/){: .btn .btn--era3} | EXP | Ein Paket mit 68 Diamanten! |
+  | 225 | ![Tasche voll Gold](/images/t/i_511.png) | [Tasche voll Gold](/ItemsDE/con_713/){: .btn .btn--era3} | EXP | Ein Paket mit 30.000 Gold. |
+  | 226 |  | [Tausend-Tonnen-Spezialskin](/ItemsDE/con_656/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald „Tausend Tonnen“ erweckt wird. |
+  | 227 |  | [Tausend-Tonnen-Token](/ItemsDE/con_988/){: .btn .btn--era5} | Exclusive piece | Ein Tausend-Tonnen-Token einer uralten Kampagne, mit der das exklusive Potenzial des Giganten erweckt wird: „Tausend Tonnen“. |
+  | 228 |  | [Teleportation](/ItemsDE/con_944/){: .btn .btn--era4} | Other | Schaltet Teleportation im „Heilendes Meer“-Ereignis frei. |
+  | 229 | ![Tempo-Token](/images/t/i_jiasujuanzhou.png) | [Tempo-Token](/ItemsDE/con_906/){: .btn .btn--era4} | Shipyard related | Beschleunigt die aktuelle Schiffswerft-Aufgabe um 30 Minuten. |
+  | 230 |  | [Teufelssense-Spezialskin](/ItemsDE/con_652/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald Teufelssense erweckt wird. |
+  | 231 |  | [Teufelssense-Token](/ItemsDE/con_984/){: .btn .btn--era5} | Exclusive piece | Ein Teufelssense-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Teufels erweckt wird – Teufelssense. |
+  | 232 |  | [Todestribut-Spezialskin](/ItemsDE/con_646/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald Todestribut erweckt wird. |
+  | 233 |  | [Todestribut-Token](/ItemsDE/con_978/){: .btn .btn--era4} | Exclusive piece | Ein Todestribut-Token einer uralten Kampagne, mit der das allgemeine exklusive Potenzial des Lich erweckt wird – Todestribut. |
+  | 234 |  | [Tool_210909](/ItemsDE/con_643/){: .btn .btn--era6} | Special Skin |  |
+  | 235 |  | [Tool_250809](/ItemsDE/con_653/){: .btn .btn--era4} | Special Skin |  |
+  | 236 |  | [Tool_2990309](/ItemsDE/con_670/){: .btn .btn--era4} | Special Skin |  |
+  | 237 |  | [Tool_2990709](/ItemsDE/con_674/){: .btn .btn--era6} | Special Skin |  |
+  | 238 | ![Tool_31022](/images/t/i_red_1.png) | [Tool_31022](/ItemsDE/con_843/){: .btn .btn--era5} | Guild member gift |  |
+  | 239 | ![Tool_31023](/images/t/i_red_1.png) | [Tool_31023](/ItemsDE/con_844/){: .btn .btn--era5} | Guild member gift |  |
+  | 240 | ![Tool_31024](/images/t/i_red_2.png) | [Tool_31024](/ItemsDE/con_845/){: .btn .btn--era5} | Guild member gift |  |
+  | 241 | ![Tool_31025](/images/t/i_red_2.png) | [Tool_31025](/ItemsDE/con_846/){: .btn .btn--era5} | Guild member gift |  |
+  | 242 | ![Tool_31027](/images/t/i_red_2.png) | [Tool_31027](/ItemsDE/con_848/){: .btn .btn--era5} | Guild member gift |  |
+  | 243 | ![Tool_31028](/images/t/i_red_2.png) | [Tool_31028](/ItemsDE/con_849/){: .btn .btn--era5} | Guild member gift |  |
+  | 244 | ![Tool_31029](/images/t/i_red_2.png) | [Tool_31029](/ItemsDE/con_850/){: .btn .btn--era5} | Guild member gift |  |
+  | 245 | ![Tool_31030](/images/t/i_red_3.png) | [Tool_31030](/ItemsDE/con_851/){: .btn .btn--era5} | Guild member gift |  |
+  | 246 | ![Tool_31031](/images/t/i_red_3.png) | [Tool_31031](/ItemsDE/con_852/){: .btn .btn--era5} | Guild member gift |  |
+  | 247 | ![Tool_31032](/images/t/i_red_3.png) | [Tool_31032](/ItemsDE/con_853/){: .btn .btn--era5} | Guild member gift |  |
+  | 248 | ![Tool_31033](/images/t/i_red_3.png) | [Tool_31033](/ItemsDE/con_854/){: .btn .btn--era5} | Guild member gift |  |
+  | 249 | ![Tool_31034](/images/t/i_red_2.png) | [Tool_31034](/ItemsDE/con_855/){: .btn .btn--era5} | Guild member gift |  |
+  | 250 | ![Tool_31035](/images/t/i_red_2.png) | [Tool_31035](/ItemsDE/con_856/){: .btn .btn--era5} | Guild member gift |  |
+  | 251 | ![Tool_31036](/images/t/i_red_2.png) | [Tool_31036](/ItemsDE/con_857/){: .btn .btn--era5} | Guild member gift |  |
+  | 252 | ![Tool_31037](/images/t/i_red_2.png) | [Tool_31037](/ItemsDE/con_858/){: .btn .btn--era5} | Guild member gift |  |
+  | 253 |  | [Tool_40013](/ItemsDE/con_925/){: .btn .btn--era4} | Other |  |
   | 254 |  | [Tool_499035](/ItemsDE/con_1002/){: .btn .btn--era4} | Exclusive piece |  |
   | 255 | ![Tool_6030403](/images/h/h_Gem5.jpg) | [Tool_6030403](/ItemsDE/con_1047/){: .btn .btn--era5} | Special Skin |  |
   | 256 | ![Tool_6070503](/images/h/h_Ciele5.jpg) | [Tool_6070503](/ItemsDE/con_1062/){: .btn .btn--era5} | Special Skin |  |
@@ -319,7 +319,7 @@ classes: wide
   | 305 | ![„Asura – Troll“-Skin](/images/u/ti_suoerjurenpifu.jpg) | [„Asura – Troll“-Skin](/ItemsDE/con_1989/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Asura – Troll“. |
   | 306 | ![„Blutkristalldrache: Roter Drache“-Skin](/images/u/ti_honglongdiancang.jpg) | [„Blutkristalldrache: Roter Drache“-Skin](/ItemsDE/con_1996/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Blutkristalldrache: Roter Drache“. |
   | 307 | ![„Brillantes Nirwana: Feuervogel“-Skin](/images/u/ti_fenghuangpifu.jpg) | [„Brillantes Nirwana: Feuervogel“-Skin](/ItemsDE/con_2002/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Brillantes Nirwana: Feuervogel“. |
-  | 308 | ![„Dunkles Gefolge: Titan“-Skin](/images/u/ti_taitanpifu.jpg) | [„Dunkles Gefolge: Titan“-Skin](/ItemsDE/con_2131/){: .btn .btn--era5} | Unit Skin | Grants the Dark Retinue: Titan skin. |
+  | 308 | ![„Dunkles Gefolge: Titan“-Skin](/images/u/ti_taitanpifu.jpg) | [„Dunkles Gefolge: Titan“-Skin](/ItemsDE/con_2131/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Dunkles Gefolge: Titan“. |
   | 309 | ![„Endloses Inferno“-Avatarrahmen (7 Tage)](/images/a/avatarFrame_58.png) | [„Endloses Inferno“-Avatarrahmen (7 Tage)](/ItemsDE/con_1009/){: .btn .btn--era5} | Experience Card | Gewährt 7 Tage lang Zugriff auf den „Endloses Inferno“-Avatarrahmen. |
   | 310 |  | [„Energiekern“-Spezialskin](/ItemsDE/con_667/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald Energiekern erweckt wird. |
   | 311 |  | [„Ewige Flamme“-Spezialskin](/ItemsDE/con_669/){: .btn .btn--era4} | Special Skin | Die Skin wird freigeschaltet, sobald Ewige Flamme erweckt wird. |

@@ -2,7 +2,7 @@
 title: "Item - Materials - Guter Schwefel"
 permalink: /mat_15/
 excerpt: "Era of Chaos  Guter Schwefel"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "mat_15.md"
 toc: false

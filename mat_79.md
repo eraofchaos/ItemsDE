@@ -2,7 +2,7 @@
 title: "Item - Materials - Geheime Edelsteine +2"
 permalink: /mat_79/
 excerpt: "Era of Chaos  Geheime Edelsteine +2"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "mat_79.md"
 toc: false

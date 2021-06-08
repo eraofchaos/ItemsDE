@@ -2,7 +2,7 @@
 title: "Item - Materials - Geheimer Kristall +2"
 permalink: /mat_80/
 excerpt: "Era of Chaos  Geheimer Kristall +2"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "mat_80.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Sternschwefel +4"
 permalink: /mat_92/
 excerpt: "Era of Chaos  Sternschwefel +4"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "mat_92.md"
 toc: false

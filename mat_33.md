@@ -2,7 +2,7 @@
 title: "Item - Materials - Überragendes Erz"
 permalink: /mat_33/
 excerpt: "Era of Chaos  Überragendes Erz"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "mat_33.md"
 toc: false

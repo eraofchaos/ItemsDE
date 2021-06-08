@@ -2,7 +2,7 @@
 title: "Item - Materials - Strahlendes Holz +5"
 permalink: /mat_97/
 excerpt: "Era of Chaos  Strahlendes Holz +5"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "mat_97.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythisches Erz"
 permalink: /mat_61/
 excerpt: "Era of Chaos  Mythisches Erz"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: de
 ref: "mat_61.md"
 toc: false

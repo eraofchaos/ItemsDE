@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythisches Holz"
 permalink: /mat_62/
 excerpt: "Era of Chaos  Mythisches Holz"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "mat_62.md"
 toc: false

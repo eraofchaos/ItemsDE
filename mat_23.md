@@ -2,7 +2,7 @@
 title: "Item - Materials - Überlegene Edelsteine +1"
 permalink: /mat_23/
 excerpt: "Era of Chaos  Überlegene Edelsteine +1"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "mat_23.md"
 toc: false

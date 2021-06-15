@@ -2,7 +2,7 @@
 title: "Item - Materials - Schlechtes Quecksilber"
 permalink: /mat_2/
 excerpt: "Era of Chaos  Schlechtes Quecksilber"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "mat_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Ewiger Schwefel +1"
 permalink: /mat_71/
 excerpt: "Era of Chaos  Ewiger Schwefel +1"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "mat_71.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: de
 ref: "Unit Awakening.md"
 toc: false
@@ -73,15 +73,15 @@ classes: wide
   | 59 | ![Seelenstein des Zentaurenführers](/images/u/tia_banrenma.jpg) | [Seelenstein des Zentaurenführers](/ItemsDE/unt_290/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Zentaurenführers. |
   | 60 | ![Seelenstein des Zombies](/images/u/tia_jiangshi.jpg) | [Seelenstein des Zombies](/ItemsDE/unt_298/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Zombies. |
   | 61 | ![Seelenstein des Zyklopenkönigs](/images/u/tia_duyanjuren.jpg) | [Seelenstein des Zyklopenkönigs](/ItemsDE/unt_310/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Zyklopenkönigs. |
-  | 62 | ![Titan-Seelenstein](/images/u/tia_taitan.jpg) | [Titan-Seelenstein](/ItemsDE/unt_326/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Titanen. |
-  | 63 | ![Tool_94601](/images/u/tia_dayaojing.jpg) | [Tool_94601](/ItemsDE/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
-  | 64 | ![Tool_94602](/images/u/tia_shixianggui.jpg) | [Tool_94602](/ItemsDE/unt_321/){: .btn .btn--era5} | Awakening Soul |  |
-  | 65 | ![Tool_94608](/images/u/tia_reqiqiu.jpg) | [Tool_94608](/ItemsDE/unt_327/){: .btn .btn--era5} | Awakening Soul |  |
-  | 66 | ![Tool_94708](/images/u/tia_honglong.jpg) | [Tool_94708](/ItemsDE/unt_335/){: .btn .btn--era5} | Awakening Soul |  |
-  | 67 | ![Tool_94804](/images/u/tia_xiyi.jpg) | [Tool_94804](/ItemsDE/unt_338/){: .btn .btn--era5} | Awakening Soul |  |
-  | 68 | ![Tool_949901](/images/u/tia_haidao.jpg) | [Tool_949901](/ItemsDE/unt_350/){: .btn .btn--era5} | Awakening Soul |  |
-  | 69 | ![Tool_949902](/images/u/tia_baozang.jpg) | [Tool_949902](/ItemsDE/unt_351/){: .btn .btn--era5} | Awakening Soul |  |
-  | 70 | ![Tool_949904](/images/u/tia_yurenyongshi.jpg) | [Tool_949904](/ItemsDE/unt_352/){: .btn .btn--era5} | Awakening Soul |  |
+  | 62 | ![Seelensteine des Gezeitenwächters](/images/u/tia_yurenyongshi.jpg) | [Seelensteine des Gezeitenwächters](/ItemsDE/unt_352/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Gezeitenwächters. |
+  | 63 | ![Titan-Seelenstein](/images/u/tia_taitan.jpg) | [Titan-Seelenstein](/ItemsDE/unt_326/){: .btn .btn--era5} | Awakening Soul | Seelenstein für die Erhöhung der Erweckungsstufe des Titanen. |
+  | 64 | ![Tool_94601](/images/u/tia_dayaojing.jpg) | [Tool_94601](/ItemsDE/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
+  | 65 | ![Tool_94602](/images/u/tia_shixianggui.jpg) | [Tool_94602](/ItemsDE/unt_321/){: .btn .btn--era5} | Awakening Soul |  |
+  | 66 | ![Tool_94608](/images/u/tia_reqiqiu.jpg) | [Tool_94608](/ItemsDE/unt_327/){: .btn .btn--era5} | Awakening Soul |  |
+  | 67 | ![Tool_94708](/images/u/tia_honglong.jpg) | [Tool_94708](/ItemsDE/unt_335/){: .btn .btn--era5} | Awakening Soul |  |
+  | 68 | ![Tool_94804](/images/u/tia_xiyi.jpg) | [Tool_94804](/ItemsDE/unt_338/){: .btn .btn--era5} | Awakening Soul |  |
+  | 69 | ![Tool_949901](/images/u/tia_haidao.jpg) | [Tool_949901](/ItemsDE/unt_350/){: .btn .btn--era5} | Awakening Soul |  |
+  | 70 | ![Tool_949902](/images/u/tia_baozang.jpg) | [Tool_949902](/ItemsDE/unt_351/){: .btn .btn--era5} | Awakening Soul |  |
   | 71 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/ItemsDE/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
   | 72 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/ItemsDE/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
   | 73 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/ItemsDE/unt_356/){: .btn .btn--era5} | Awakening Soul |  |

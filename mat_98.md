@@ -2,7 +2,7 @@
 title: "Item - Materials - Strahlendes Quecksilber +5"
 permalink: /mat_98/
 excerpt: "Era of Chaos  Strahlendes Quecksilber +5"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "mat_98.md"
 toc: false

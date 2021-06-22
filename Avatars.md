@@ -2,7 +2,7 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Avatars.md"
 toc: false
@@ -94,10 +94,11 @@ classes: wide
   | 80 | ![„Böse Zauberin“-Avatar](/images/u/ti_xiemonvyuanhuatouxiang.jpg) | [„Böse Zauberin“-Avatar](/ItemsDE/con_599/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Böse Zauberin“-Avatar. |
   | 81 | ![„Drachenflug – Cassanbel“-Avatar](/images/h/h_Cassanbel3.jpg) | [„Drachenflug – Cassanbel“-Avatar](/ItemsDE/con_870/){: .btn .btn--era5} | Hero Avatar |  |
   | 82 | ![„Drachenflug, Löwensprung“-Avatar](/images/h/h_Gem4.jpg) | [„Drachenflug, Löwensprung“-Avatar](/ItemsDE/con_873/){: .btn .btn--era5} | Hero Avatar |  |
-  | 83 | ![„König der Piraten“-Konzeptgrafik-Avatar](/images/u/ti_haidao1.jpg) | [„König der Piraten“-Konzeptgrafik-Avatar](/ItemsDE/con_1101/){: .btn .btn--era5} | Hero Avatar | Gewährt den „König der Piraten“-Spezialeffekt-Avatar. |
-  | 84 | ![„Löwensprung – Gem“-Avatar](/images/h/h_Gem5.jpg) | [„Löwensprung – Gem“-Avatar](/ItemsDE/con_874/){: .btn .btn--era5} | Hero Avatar |  |
-  | 85 | ![„Mensch Sandro“-Avatar](/images/h/h_HumanSandro1.jpg) | [„Mensch Sandro“-Avatar](/ItemsDE/con_579/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Mensch Sandro“-Avatar. |
-  | 86 | ![„Schwingen des Triumphes: Catherine“-Avatar](/images/h/h_Catherine9.jpg) | [„Schwingen des Triumphes: Catherine“-Avatar](/ItemsDE/con_847/){: .btn .btn--era5} | Hero Avatar |  |
-  | 87 | ![„Sohn des Waldes“-Avatar](/images/h/h_Ryland3.jpg) | [„Sohn des Waldes“-Avatar](/ItemsDE/con_567/){: .btn .btn--era5} | Hero Avatar | Gewährt Rylands „Sohn des Waldes“-Skin und -Avatar. |
-  | 88 | ![„Uraltes Seemonster“-Konzeptgrafik-Avatar](/images/u/ti_haiguai1.jpg) | [„Uraltes Seemonster“-Konzeptgrafik-Avatar](/ItemsDE/con_1103/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Uraltes Seemonster“-Spezialeffekt-Avatar. |
-  | 89 | ![„Wogende Aura – Mantis“-Avatar](/images/u/ti_tanglangpifu.jpg) | [„Wogende Aura – Mantis“-Avatar](/ItemsDE/con_593/){: .btn .btn--era5} | Hero Avatar |  |
+  | 83 |  | [„Dunkler Kämpe“-Avatar](/de/Items/con_2188/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Dunkler Kämpe“-Avatar. |
+  | 84 | ![„König der Piraten“-Konzeptgrafik-Avatar](/images/u/ti_haidao1.jpg) | [„König der Piraten“-Konzeptgrafik-Avatar](/ItemsDE/con_1101/){: .btn .btn--era5} | Hero Avatar | Gewährt den „König der Piraten“-Spezialeffekt-Avatar. |
+  | 85 | ![„Löwensprung – Gem“-Avatar](/images/h/h_Gem5.jpg) | [„Löwensprung – Gem“-Avatar](/ItemsDE/con_874/){: .btn .btn--era5} | Hero Avatar |  |
+  | 86 | ![„Mensch Sandro“-Avatar](/images/h/h_HumanSandro1.jpg) | [„Mensch Sandro“-Avatar](/ItemsDE/con_579/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Mensch Sandro“-Avatar. |
+  | 87 | ![„Schwingen des Triumphes: Catherine“-Avatar](/images/h/h_Catherine9.jpg) | [„Schwingen des Triumphes: Catherine“-Avatar](/ItemsDE/con_847/){: .btn .btn--era5} | Hero Avatar |  |
+  | 88 | ![„Sohn des Waldes“-Avatar](/images/h/h_Ryland3.jpg) | [„Sohn des Waldes“-Avatar](/ItemsDE/con_567/){: .btn .btn--era5} | Hero Avatar | Gewährt Rylands „Sohn des Waldes“-Skin und -Avatar. |
+  | 89 | ![„Uraltes Seemonster“-Konzeptgrafik-Avatar](/images/u/ti_haiguai1.jpg) | [„Uraltes Seemonster“-Konzeptgrafik-Avatar](/ItemsDE/con_1103/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Uraltes Seemonster“-Spezialeffekt-Avatar. |
+  | 90 | ![„Wogende Aura – Mantis“-Avatar](/images/u/ti_tanglangpifu.jpg) | [„Wogende Aura – Mantis“-Avatar](/ItemsDE/con_593/){: .btn .btn--era5} | Hero Avatar |  |

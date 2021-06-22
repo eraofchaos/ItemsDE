@@ -2,7 +2,7 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "Unit Soul.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | 21 | ![Feuerelementar](/images/u/ti_liehuoyuansu.jpg) | [Feuerelementar](/ItemsDE/unt_265/){: .btn .btn--era4} | Unit Soul | Mit 30 Seelen-Tokens lässt sich ein Feuerelementar beschwören. Sein Rang kann mit Tokens aufgewertet werden. |
   | 22 | ![Feuervogel](/images/u/ti_fenghuang.jpg) | [Feuervogel](/ItemsDE/unt_268/){: .btn .btn--era4} | Unit Soul | Mit 80 Seelen-Tokens lässt sich ein Feuervogel beschwören. Sein Rang kann mit Tokens aufgewertet werden. |
   | 23 | ![Geist](/images/u/ti_youling.jpg) | [Geist](/ItemsDE/unt_210/){: .btn .btn--era4} | Unit Soul | Mit 30 Seelen-Tokens lässt sich ein Geist beschwören, eine Einheit mit Macht SR. |
-  | 24 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/ItemsDE/unt_234/){: .btn .btn--era6} | Unit Soul | Mit 80 Seelen-Tokens lässt sich ein Giftbrut beschwören, eine Kommandanten-Einheit. |
+  | 24 | ![Giftbrut](/images/u/ti_yanmo.jpg) | [Giftbrut](/ItemsDE/unt_234/){: .btn .btn--era6} | Unit Soul | Mit 80 Seelen-Tokens lässt sich eine Giftbrut beschwören. Ihr Rang kann mit Tokens aufgewertet werden. |
   | 25 | ![Gigant](/images/u/ti_taitan.jpg) | [Gigant](/ItemsDE/unt_241/){: .btn .btn--era5} | Unit Soul | Mit 80 Seelen-Tokens lässt sich ein Gigant beschwören. Sein Rang kann mit Tokens aufgewertet werden. |
   | 26 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/ItemsDE/unt_253/){: .btn .btn--era3} | Unit Soul | Mit 10 Seelen-Tokens lässt sich ein Gnoll beschwören. Sein Rang kann mit Tokens aufgewertet werden. |
   | 27 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/ItemsDE/unt_217/){: .btn .btn--era3} | Unit Soul | Mit 10 Seelen-Tokens lässt sich ein Goblin beschwören, eine Einheit mit Macht R. |

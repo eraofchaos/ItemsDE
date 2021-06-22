@@ -2,7 +2,7 @@
 title: "Item - Materials - Ewiger Kristall +1"
 permalink: /mat_73/
 excerpt: "Era of Chaos  Ewiger Kristall +1"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "mat_73.md"
 toc: false
@@ -23,8 +23,7 @@ classes: wide
 
 *    Gildenabenteuer 
 *    [Kapitel 21: Der Gral -> 21-6](/de/Main Story/Chapter 21_6/) 
-*    [Kapitel 21: Der Gral -> 21-12](/de/Main Story/Chapter 21_12/) 
-*    [Kapitel 21: Der Gral -> 21-15](/de/Main Story/Chapter 21_15/) 
+*    Gildenabenteuer 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Ewige Edelsteine +1"
 permalink: /mat_72/
 excerpt: "Era of Chaos  Ewige Edelsteine +1"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: de
 ref: "mat_72.md"
 toc: false

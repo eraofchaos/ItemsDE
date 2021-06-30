@@ -2,7 +2,7 @@
 title: "Item - Materials - Ewiges Erz +1"
 permalink: /mat_68/
 excerpt: "Era of Chaos  Ewiges Erz +1"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "mat_68.md"
 toc: false

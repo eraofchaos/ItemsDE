@@ -2,7 +2,7 @@
 title: "Item - Materials - Gutes Holz"
 permalink: /mat_13/
 excerpt: "Era of Chaos  Gutes Holz"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: de
 ref: "mat_13.md"
 toc: false

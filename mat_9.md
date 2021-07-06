@@ -2,7 +2,7 @@
 title: "Item - Materials - Normaler Schwefel"
 permalink: /mat_9/
 excerpt: "Era of Chaos  Normaler Schwefel"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "mat_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "Consumables.md"
 toc: false
@@ -355,7 +355,9 @@ classes: wide
   | 341 |  | [„Strahlkraft des Heiligtums“-Bannerseele](/ItemsDE/con_975/){: .btn .btn--era6} | Exclusive piece | Eine Schloss-Bannerseele einer uralten Kampagne, mit der das Potenzial der Richterin erweckt wird: „Strahlkraft des Heiligtums“. |
   | 342 | ![„Unsterblicher Seuchendoktor: Dunkler Kämpe“-Skin](/images/u/ti_sishendiancangpifu.jpg) | [„Unsterblicher Seuchendoktor: Dunkler Kämpe“-Skin](/ItemsDE/con_1986/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Unsterblicher Seuchendoktor: Dunkler Kämpe“. |
   | 343 | ![„Verdichtung des Bösen – Böse Zauberin“-Skin](/images/u/ti_xiemonvpifu2.jpg) | [„Verdichtung des Bösen – Böse Zauberin“-Skin](/ItemsDE/con_1997/){: .btn .btn--era5} | Unit Skin | Nach Erhalt der Skin „Verdichtung des Bösen – Böse Zauberin“ freigeschaltet. |
-  | 344 | ![„Weg der Wikinger: Berserker“-Skin](/images/u/ti_kuangzhanshipifu.jpg) | [„Weg der Wikinger: Berserker“-Skin](/ItemsDE/con_1988/){: .btn .btn--era5} | Unit Skin | Gewährt die „Weg der Wikinger: Berserker“-Skin. |
-  | 345 | ![„Weihnachtslied: Adelaide“-Skin (2 Tage)](/images/h/h_Adelaide6.jpg) | [„Weihnachtslied: Adelaide“-Skin (2 Tage)](/ItemsDE/con_1018/){: .btn .btn--era5} | Experience Card | Gewährt 2 Tage lang Zugriff auf die „Weihnachtslied: Adelaide“-Skin. |
-  | 346 | ![„Weihnachtslied: Adelaide“-Skin-Avatar (2 Tage)](/images/h/h_Adelaide5.jpg) | [„Weihnachtslied: Adelaide“-Skin-Avatar (2 Tage)](/ItemsDE/con_1016/){: .btn .btn--era5} | Experience Card | Gewährt 2 Tage lang Zugriff auf den „Weihnachtslied: Adelaide“-Skin-Avatar. |
-  | 347 |  | [„Weltexpedition: Regnanbogenschützin“-Skin](/de/Items/con_2149/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Weltexpedition: Regnanbogenschützin“. |
+  | 344 |  | [„Versteckte Klinge“-Spezialskin](/de/Items/con_2199/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald „Versteckte Klinge“ erweckt wird. |
+  | 345 |  | [„Versteckte Klinge“-Token](/de/Items/con_2200/){: .btn .btn--era5} | Exclusive piece | Ein „Versteckte Klinge“-Token einer uralten Kampagne, mit der das exklusive Potenzial des Assassinen erweckt wird: „Versteckte Klinge“. |
+  | 346 | ![„Weg der Wikinger: Berserker“-Skin](/images/u/ti_kuangzhanshipifu.jpg) | [„Weg der Wikinger: Berserker“-Skin](/ItemsDE/con_1988/){: .btn .btn--era5} | Unit Skin | Gewährt die „Weg der Wikinger: Berserker“-Skin. |
+  | 347 | ![„Weihnachtslied: Adelaide“-Skin (2 Tage)](/images/h/h_Adelaide6.jpg) | [„Weihnachtslied: Adelaide“-Skin (2 Tage)](/ItemsDE/con_1018/){: .btn .btn--era5} | Experience Card | Gewährt 2 Tage lang Zugriff auf die „Weihnachtslied: Adelaide“-Skin. |
+  | 348 | ![„Weihnachtslied: Adelaide“-Skin-Avatar (2 Tage)](/images/h/h_Adelaide5.jpg) | [„Weihnachtslied: Adelaide“-Skin-Avatar (2 Tage)](/ItemsDE/con_1016/){: .btn .btn--era5} | Experience Card | Gewährt 2 Tage lang Zugriff auf den „Weihnachtslied: Adelaide“-Skin-Avatar. |
+  | 349 |  | [„Weltexpedition: Regnanbogenschützin“-Skin](/de/Items/con_2149/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Weltexpedition: Regnanbogenschützin“. |

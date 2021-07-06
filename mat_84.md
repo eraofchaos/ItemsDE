@@ -2,7 +2,7 @@
 title: "Item - Materials - Seelenquecksilber +3"
 permalink: /mat_84/
 excerpt: "Era of Chaos  Seelenquecksilber +3"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: de
 ref: "mat_84.md"
 toc: false

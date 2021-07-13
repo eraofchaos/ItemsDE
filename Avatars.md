@@ -2,7 +2,7 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: de
 ref: "Avatars.md"
 toc: false
@@ -101,4 +101,5 @@ classes: wide
   | 87 | ![„Schwingen des Triumphes: Catherine“-Avatar](/images/h/h_Catherine9.jpg) | [„Schwingen des Triumphes: Catherine“-Avatar](/ItemsDE/con_847/){: .btn .btn--era5} | Hero Avatar |  |
   | 88 | ![„Sohn des Waldes“-Avatar](/images/h/h_Ryland3.jpg) | [„Sohn des Waldes“-Avatar](/ItemsDE/con_567/){: .btn .btn--era5} | Hero Avatar | Gewährt Rylands „Sohn des Waldes“-Skin und -Avatar. |
   | 89 | ![„Uraltes Seemonster“-Konzeptgrafik-Avatar](/images/u/ti_haiguai1.jpg) | [„Uraltes Seemonster“-Konzeptgrafik-Avatar](/ItemsDE/con_1103/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Uraltes Seemonster“-Spezialeffekt-Avatar. |
-  | 90 | ![„Wogende Aura – Mantis“-Avatar](/images/u/ti_tanglangpifu.jpg) | [„Wogende Aura – Mantis“-Avatar](/ItemsDE/con_593/){: .btn .btn--era5} | Hero Avatar |  |
+  | 90 |  | [„Weißer Tiger“-Avatar](/de/Items/con_2219/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Weißer Tiger“-Avatar. |
+  | 91 | ![„Wogende Aura – Mantis“-Avatar](/images/u/ti_tanglangpifu.jpg) | [„Wogende Aura – Mantis“-Avatar](/ItemsDE/con_593/){: .btn .btn--era5} | Hero Avatar |  |

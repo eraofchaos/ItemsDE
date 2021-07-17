@@ -2,7 +2,7 @@
 title: "Item - Materials - Schlechte Edelsteine"
 permalink: /mat_4/
 excerpt: "Era of Chaos  Schlechte Edelsteine"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "mat_4.md"
 toc: false

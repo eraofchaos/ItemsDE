@@ -2,7 +2,7 @@
 title: "Item - Materials - Strahlendes Erz +5"
 permalink: /mat_96/
 excerpt: "Era of Chaos  Strahlendes Erz +5"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "mat_96.md"
 toc: false

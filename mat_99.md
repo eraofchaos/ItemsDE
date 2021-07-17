@@ -2,7 +2,7 @@
 title: "Item - Materials - Strahlender Schwefel +5"
 permalink: /mat_99/
 excerpt: "Era of Chaos  Strahlender Schwefel +5"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: de
 ref: "mat_99.md"
 toc: false

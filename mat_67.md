@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendenzertifikat"
 permalink: /mat_67/
 excerpt: "Era of Chaos  Legendenzertifikat"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: de
 ref: "mat_67.md"
 toc: false

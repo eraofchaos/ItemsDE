@@ -2,7 +2,7 @@
 title: "Item - Materials - Normale Edelsteine"
 permalink: /mat_10/
 excerpt: "Era of Chaos  Normale Edelsteine"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "mat_10.md"
 toc: false

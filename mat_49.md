@@ -2,7 +2,7 @@
 title: "Item - Materials - Episches Quecksilber +2"
 permalink: /mat_49/
 excerpt: "Era of Chaos  Episches Quecksilber +2"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: de
 ref: "mat_49.md"
 toc: false

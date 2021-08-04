@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendärer Schwefel +3"
 permalink: /mat_57/
 excerpt: "Era of Chaos  Legendärer Schwefel +3"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "mat_57.md"
 toc: false

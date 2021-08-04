@@ -2,7 +2,7 @@
 title: "Item - Materials - Überragender Schwefel"
 permalink: /mat_36/
 excerpt: "Era of Chaos  Überragender Schwefel"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "mat_36.md"
 toc: false

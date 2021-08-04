@@ -2,7 +2,7 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Avatars.md"
 toc: false
@@ -61,45 +61,46 @@ classes: wide
   | 47 | ![Hauptmann-Avatar](/images/h/h_Catherine6.jpg) | [Hauptmann-Avatar](/ItemsDE/con_566/){: .btn .btn--era5} | Hero Avatar | Gewährt Catherines Hauptmann-Skin und -Avatar. |
   | 48 | ![Kämpe-Avatar](/images/h/h_Sephinroth2.jpg) | [Kämpe-Avatar](/ItemsDE/con_586/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Der Kämpe von Sephinroth“-Avatar. |
   | 49 | ![Luna-Avatar](/images/h/h_Luna1.jpg) | [Luna-Avatar](/ItemsDE/con_575/){: .btn .btn--era5} | Hero Avatar | Gewährt den Luna-Avatar. |
-  | 50 | ![Meister-Avatar](/images/h/h_Mephala7.jpg) | [Meister-Avatar](/ItemsDE/con_577/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Der Kämpe von Mephala“-Avatar. |
-  | 51 | ![Meisterschütze-Avatar (männlich)](/images/u/ti_huanyingsheshounan.jpg) | [Meisterschütze-Avatar (männlich)](/ItemsDE/con_564/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Meisterschütze (männlich)“-Avatar. |
-  | 52 | ![Meisterschütze-Avatar (weiblich)](/images/u/ti_huanyingsheshounv.jpg) | [Meisterschütze-Avatar (weiblich)](/ItemsDE/con_565/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Meisterschütze (weiblich)“-Avatar. |
-  | 53 | ![Mephala-Avatar](/images/h/h_Mephala1.jpg) | [Mephala-Avatar](/ItemsDE/con_563/){: .btn .btn--era5} | Hero Avatar | Gewährt den Mephala-Avatar. |
-  | 54 | ![Rashka-Avatar](/images/h/h_Rashka1.jpg) | [Rashka-Avatar](/ItemsDE/con_572/){: .btn .btn--era5} | Hero Avatar | Gewährt den Rashka-Avatar. |
-  | 55 | ![Regnanseherin-Avatar](/images/u/ti_haihouyuanhuatouxiang.jpg) | [Regnanseherin-Avatar](/ItemsDE/con_2117/){: .btn .btn--era5} | Hero Avatar | Gewährt den Regnanseherin-Avatar. |
-  | 56 | ![Richterin-Avatar](/images/u/ti_shenpanguanyuanhuatouxiang.jpg) | [Richterin-Avatar](/ItemsDE/con_597/){: .btn .btn--era5} | Hero Avatar | Gewährt den Richterin-Avatar. |
-  | 57 | ![Schwingen des Triumphes: Gelu](/images/h/h_Gelu8.jpg) | [Schwingen des Triumphes: Gelu](/ItemsDE/con_872/){: .btn .btn--era5} | Hero Avatar |  |
-  | 58 | ![Sephinroth-Avatar](/images/h/h_Sephinroth1.jpg) | [Sephinroth-Avatar](/ItemsDE/con_578/){: .btn .btn--era5} | Hero Avatar | Gewährt den Sephinroth-Avatar. |
-  | 59 | ![Shiva-Avatar](/images/h/h_Shiwa.jpg) | [Shiva-Avatar](/ItemsDE/con_1007/){: .btn .btn--era5} | Hero Avatar | Gewährt den Shiva-Avatar. |
-  | 60 | ![Tool_10130](/images/h/h_PeterLee.jpg) | [Tool_10130](/ItemsDE/con_589/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Peter Lee“-Avatar. |
-  | 61 | ![Tool_10131](/images/h/h_Ciele5.jpg) | [Tool_10131](/ItemsDE/con_590/){: .btn .btn--era5} | Hero Avatar |  |
-  | 62 | ![Tool_10133](/images/h/h_Roland9.jpg) | [Tool_10133](/ItemsDE/con_592/){: .btn .btn--era5} | Hero Avatar |  |
-  | 63 | ![Tool_10135](/images/h/h_Gem5.jpg) | [Tool_10135](/ItemsDE/con_594/){: .btn .btn--era5} | Hero Avatar |  |
-  | 64 | ![Tool_10136](/images/h/h_Cassanbel3.jpg) | [Tool_10136](/ItemsDE/con_595/){: .btn .btn--era5} | Hero Avatar |  |
-  | 65 | ![Tool_21007](/images/t/i_907003.png) | [Tool_21007](/ItemsDE/con_608/){: .btn .btn--era5} | Avatar frame |  |
-  | 66 | ![Tool_21008](/images/t/i_907003.png) | [Tool_21008](/ItemsDE/con_609/){: .btn .btn--era5} | Avatar frame |  |
-  | 67 | ![Tool_21015](/images/t/i_907003.png) | [Tool_21015](/ItemsDE/con_616/){: .btn .btn--era5} | Avatar frame |  |
-  | 68 | ![Tool_21016](/images/t/i_907003.png) | [Tool_21016](/ItemsDE/con_617/){: .btn .btn--era5} | Avatar frame |  |
-  | 69 | ![Tool_21022](/images/t/i_907003.png) | [Tool_21022](/ItemsDE/con_623/){: .btn .btn--era5} | Avatar frame |  |
-  | 70 | ![Tool_21024](/images/t/i_907003.png) | [Tool_21024](/ItemsDE/con_625/){: .btn .btn--era5} | Avatar frame |  |
-  | 71 | ![Tool_21027](/images/t/i_907003.png) | [Tool_21027](/ItemsDE/con_628/){: .btn .btn--era5} | Avatar frame |  |
-  | 72 | ![Tool_21035](/images/t/i_907003.png) | [Tool_21035](/ItemsDE/con_632/){: .btn .btn--era5} | Avatar frame |  |
-  | 73 | ![Top-Kommentierer-Paket](/images/t/i_907003.png) | [Top-Kommentierer-Paket](/ItemsDE/con_615/){: .btn .btn--era5} | Avatar frame | Belohnungen für das Top-Kommentierer-Ereignis. Gewährt einen Avatarrahmen. Wenn der Avatarrahmen bereits freigeschaltet wurde, erhältst du stattdessen 30 Diamanten. |
-  | 74 | ![Troll-Avatar](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [Troll-Avatar](/ItemsDE/con_598/){: .btn .btn--era5} | Hero Avatar | Gewährt den Troll-Avatar. |
-  | 75 | ![Weihnachtself](/images/h/h_MutareDrake5.jpg) | [Weihnachtself](/ItemsDE/con_591/){: .btn .btn--era5} | Hero Avatar | Mit Schneeflocken spielender Weihnachtself |
-  | 76 | ![Wystan-Avatar](/images/h/h_Wystan1.jpg) | [Wystan-Avatar](/ItemsDE/con_582/){: .btn .btn--era5} | Hero Avatar | Gewährt den Wystan-Avatar. |
-  | 77 | ![Yog-Avatar](/images/h/h_Yog1.jpg) | [Yog-Avatar](/ItemsDE/con_574/){: .btn .btn--era5} | Hero Avatar | Gewährt den Yog-Avatar. |
-  | 78 | ![Zucker-Hexe-Avatar](/images/h/h_Vidomina5.jpg) | [Zucker-Hexe-Avatar](/ItemsDE/con_583/){: .btn .btn--era5} | Hero Avatar | „Zucker-Hexe: Vidomina“-Avatar |
-  | 79 | ![„Anhängerin“-Richterin-Avatar](/images/u/ti_shenpanguanpifu.jpg) | [„Anhängerin“-Richterin-Avatar](/ItemsDE/con_584/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Anhängerin“-Richterin-Avatar. |
-  | 80 | ![„Böse Zauberin“-Avatar](/images/u/ti_xiemonvyuanhuatouxiang.jpg) | [„Böse Zauberin“-Avatar](/ItemsDE/con_599/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Böse Zauberin“-Avatar. |
-  | 81 | ![„Drachenflug – Cassanbel“-Avatar](/images/h/h_Cassanbel3.jpg) | [„Drachenflug – Cassanbel“-Avatar](/ItemsDE/con_870/){: .btn .btn--era5} | Hero Avatar |  |
-  | 82 | ![„Drachenflug, Löwensprung“-Avatar](/images/h/h_Gem4.jpg) | [„Drachenflug, Löwensprung“-Avatar](/ItemsDE/con_873/){: .btn .btn--era5} | Hero Avatar |  |
-  | 83 |  | [„Dunkler Kämpe“-Avatar](/de/Items/con_2188/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Dunkler Kämpe“-Avatar. |
-  | 84 | ![„König der Piraten“-Konzeptgrafik-Avatar](/images/u/ti_haidao1.jpg) | [„König der Piraten“-Konzeptgrafik-Avatar](/ItemsDE/con_1101/){: .btn .btn--era5} | Hero Avatar | Gewährt den „König der Piraten“-Spezialeffekt-Avatar. |
-  | 85 | ![„Löwensprung – Gem“-Avatar](/images/h/h_Gem5.jpg) | [„Löwensprung – Gem“-Avatar](/ItemsDE/con_874/){: .btn .btn--era5} | Hero Avatar |  |
-  | 86 | ![„Mensch Sandro“-Avatar](/images/h/h_HumanSandro1.jpg) | [„Mensch Sandro“-Avatar](/ItemsDE/con_579/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Mensch Sandro“-Avatar. |
-  | 87 | ![„Schwingen des Triumphes: Catherine“-Avatar](/images/h/h_Catherine9.jpg) | [„Schwingen des Triumphes: Catherine“-Avatar](/ItemsDE/con_847/){: .btn .btn--era5} | Hero Avatar |  |
-  | 88 | ![„Sohn des Waldes“-Avatar](/images/h/h_Ryland3.jpg) | [„Sohn des Waldes“-Avatar](/ItemsDE/con_567/){: .btn .btn--era5} | Hero Avatar | Gewährt Rylands „Sohn des Waldes“-Skin und -Avatar. |
-  | 89 | ![„Uraltes Seemonster“-Konzeptgrafik-Avatar](/images/u/ti_haiguai1.jpg) | [„Uraltes Seemonster“-Konzeptgrafik-Avatar](/ItemsDE/con_1103/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Uraltes Seemonster“-Spezialeffekt-Avatar. |
-  | 90 |  | [„Weißer Tiger“-Avatar](/de/Items/con_2219/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Weißer Tiger“-Avatar. |
-  | 91 | ![„Wogende Aura – Mantis“-Avatar](/images/u/ti_tanglangpifu.jpg) | [„Wogende Aura – Mantis“-Avatar](/ItemsDE/con_593/){: .btn .btn--era5} | Hero Avatar |  |
+  | 50 |  | [Mantis-Avatar](/de/Items/con_2237/){: .btn .btn--era5} | Hero Avatar | Gewährt den Mantis-Avatar. |
+  | 51 | ![Meister-Avatar](/images/h/h_Mephala7.jpg) | [Meister-Avatar](/ItemsDE/con_577/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Der Kämpe von Mephala“-Avatar. |
+  | 52 | ![Meisterschütze-Avatar (männlich)](/images/u/ti_huanyingsheshounan.jpg) | [Meisterschütze-Avatar (männlich)](/ItemsDE/con_564/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Meisterschütze (männlich)“-Avatar. |
+  | 53 | ![Meisterschütze-Avatar (weiblich)](/images/u/ti_huanyingsheshounv.jpg) | [Meisterschütze-Avatar (weiblich)](/ItemsDE/con_565/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Meisterschütze (weiblich)“-Avatar. |
+  | 54 | ![Mephala-Avatar](/images/h/h_Mephala1.jpg) | [Mephala-Avatar](/ItemsDE/con_563/){: .btn .btn--era5} | Hero Avatar | Gewährt den Mephala-Avatar. |
+  | 55 | ![Rashka-Avatar](/images/h/h_Rashka1.jpg) | [Rashka-Avatar](/ItemsDE/con_572/){: .btn .btn--era5} | Hero Avatar | Gewährt den Rashka-Avatar. |
+  | 56 | ![Regnanseherin-Avatar](/images/u/ti_haihouyuanhuatouxiang.jpg) | [Regnanseherin-Avatar](/ItemsDE/con_2117/){: .btn .btn--era5} | Hero Avatar | Gewährt den Regnanseherin-Avatar. |
+  | 57 | ![Richterin-Avatar](/images/u/ti_shenpanguanyuanhuatouxiang.jpg) | [Richterin-Avatar](/ItemsDE/con_597/){: .btn .btn--era5} | Hero Avatar | Gewährt den Richterin-Avatar. |
+  | 58 | ![Schwingen des Triumphes: Gelu](/images/h/h_Gelu8.jpg) | [Schwingen des Triumphes: Gelu](/ItemsDE/con_872/){: .btn .btn--era5} | Hero Avatar |  |
+  | 59 | ![Sephinroth-Avatar](/images/h/h_Sephinroth1.jpg) | [Sephinroth-Avatar](/ItemsDE/con_578/){: .btn .btn--era5} | Hero Avatar | Gewährt den Sephinroth-Avatar. |
+  | 60 | ![Shiva-Avatar](/images/h/h_Shiwa.jpg) | [Shiva-Avatar](/ItemsDE/con_1007/){: .btn .btn--era5} | Hero Avatar | Gewährt den Shiva-Avatar. |
+  | 61 | ![Tool_10130](/images/h/h_PeterLee.jpg) | [Tool_10130](/ItemsDE/con_589/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Peter Lee“-Avatar. |
+  | 62 | ![Tool_10131](/images/h/h_Ciele5.jpg) | [Tool_10131](/ItemsDE/con_590/){: .btn .btn--era5} | Hero Avatar |  |
+  | 63 | ![Tool_10133](/images/h/h_Roland9.jpg) | [Tool_10133](/ItemsDE/con_592/){: .btn .btn--era5} | Hero Avatar |  |
+  | 64 | ![Tool_10135](/images/h/h_Gem5.jpg) | [Tool_10135](/ItemsDE/con_594/){: .btn .btn--era5} | Hero Avatar |  |
+  | 65 | ![Tool_10136](/images/h/h_Cassanbel3.jpg) | [Tool_10136](/ItemsDE/con_595/){: .btn .btn--era5} | Hero Avatar |  |
+  | 66 | ![Tool_21007](/images/t/i_907003.png) | [Tool_21007](/ItemsDE/con_608/){: .btn .btn--era5} | Avatar frame |  |
+  | 67 | ![Tool_21008](/images/t/i_907003.png) | [Tool_21008](/ItemsDE/con_609/){: .btn .btn--era5} | Avatar frame |  |
+  | 68 | ![Tool_21015](/images/t/i_907003.png) | [Tool_21015](/ItemsDE/con_616/){: .btn .btn--era5} | Avatar frame |  |
+  | 69 | ![Tool_21016](/images/t/i_907003.png) | [Tool_21016](/ItemsDE/con_617/){: .btn .btn--era5} | Avatar frame |  |
+  | 70 | ![Tool_21022](/images/t/i_907003.png) | [Tool_21022](/ItemsDE/con_623/){: .btn .btn--era5} | Avatar frame |  |
+  | 71 | ![Tool_21024](/images/t/i_907003.png) | [Tool_21024](/ItemsDE/con_625/){: .btn .btn--era5} | Avatar frame |  |
+  | 72 | ![Tool_21027](/images/t/i_907003.png) | [Tool_21027](/ItemsDE/con_628/){: .btn .btn--era5} | Avatar frame |  |
+  | 73 | ![Tool_21035](/images/t/i_907003.png) | [Tool_21035](/ItemsDE/con_632/){: .btn .btn--era5} | Avatar frame |  |
+  | 74 | ![Top-Kommentierer-Paket](/images/t/i_907003.png) | [Top-Kommentierer-Paket](/ItemsDE/con_615/){: .btn .btn--era5} | Avatar frame | Belohnungen für das Top-Kommentierer-Ereignis. Gewährt einen Avatarrahmen. Wenn der Avatarrahmen bereits freigeschaltet wurde, erhältst du stattdessen 30 Diamanten. |
+  | 75 | ![Troll-Avatar](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [Troll-Avatar](/ItemsDE/con_598/){: .btn .btn--era5} | Hero Avatar | Gewährt den Troll-Avatar. |
+  | 76 | ![Weihnachtself](/images/h/h_MutareDrake5.jpg) | [Weihnachtself](/ItemsDE/con_591/){: .btn .btn--era5} | Hero Avatar | Mit Schneeflocken spielender Weihnachtself |
+  | 77 | ![Wystan-Avatar](/images/h/h_Wystan1.jpg) | [Wystan-Avatar](/ItemsDE/con_582/){: .btn .btn--era5} | Hero Avatar | Gewährt den Wystan-Avatar. |
+  | 78 | ![Yog-Avatar](/images/h/h_Yog1.jpg) | [Yog-Avatar](/ItemsDE/con_574/){: .btn .btn--era5} | Hero Avatar | Gewährt den Yog-Avatar. |
+  | 79 | ![Zucker-Hexe-Avatar](/images/h/h_Vidomina5.jpg) | [Zucker-Hexe-Avatar](/ItemsDE/con_583/){: .btn .btn--era5} | Hero Avatar | „Zucker-Hexe: Vidomina“-Avatar |
+  | 80 | ![„Anhängerin“-Richterin-Avatar](/images/u/ti_shenpanguanpifu.jpg) | [„Anhängerin“-Richterin-Avatar](/ItemsDE/con_584/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Anhängerin“-Richterin-Avatar. |
+  | 81 | ![„Böse Zauberin“-Avatar](/images/u/ti_xiemonvyuanhuatouxiang.jpg) | [„Böse Zauberin“-Avatar](/ItemsDE/con_599/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Böse Zauberin“-Avatar. |
+  | 82 | ![„Drachenflug – Cassanbel“-Avatar](/images/h/h_Cassanbel3.jpg) | [„Drachenflug – Cassanbel“-Avatar](/ItemsDE/con_870/){: .btn .btn--era5} | Hero Avatar |  |
+  | 83 | ![„Drachenflug, Löwensprung“-Avatar](/images/h/h_Gem4.jpg) | [„Drachenflug, Löwensprung“-Avatar](/ItemsDE/con_873/){: .btn .btn--era5} | Hero Avatar |  |
+  | 84 |  | [„Dunkler Kämpe“-Avatar](/de/Items/con_2188/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Dunkler Kämpe“-Avatar. |
+  | 85 | ![„König der Piraten“-Konzeptgrafik-Avatar](/images/u/ti_haidao1.jpg) | [„König der Piraten“-Konzeptgrafik-Avatar](/ItemsDE/con_1101/){: .btn .btn--era5} | Hero Avatar | Gewährt den „König der Piraten“-Spezialeffekt-Avatar. |
+  | 86 | ![„Löwensprung – Gem“-Avatar](/images/h/h_Gem5.jpg) | [„Löwensprung – Gem“-Avatar](/ItemsDE/con_874/){: .btn .btn--era5} | Hero Avatar |  |
+  | 87 | ![„Mensch Sandro“-Avatar](/images/h/h_HumanSandro1.jpg) | [„Mensch Sandro“-Avatar](/ItemsDE/con_579/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Mensch Sandro“-Avatar. |
+  | 88 | ![„Schwingen des Triumphes: Catherine“-Avatar](/images/h/h_Catherine9.jpg) | [„Schwingen des Triumphes: Catherine“-Avatar](/ItemsDE/con_847/){: .btn .btn--era5} | Hero Avatar |  |
+  | 89 | ![„Sohn des Waldes“-Avatar](/images/h/h_Ryland3.jpg) | [„Sohn des Waldes“-Avatar](/ItemsDE/con_567/){: .btn .btn--era5} | Hero Avatar | Gewährt Rylands „Sohn des Waldes“-Skin und -Avatar. |
+  | 90 | ![„Uraltes Seemonster“-Konzeptgrafik-Avatar](/images/u/ti_haiguai1.jpg) | [„Uraltes Seemonster“-Konzeptgrafik-Avatar](/ItemsDE/con_1103/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Uraltes Seemonster“-Spezialeffekt-Avatar. |
+  | 91 |  | [„Weißer Tiger“-Avatar](/de/Items/con_2219/){: .btn .btn--era5} | Hero Avatar | Gewährt den „Weißer Tiger“-Avatar. |
+  | 92 | ![„Wogende Aura – Mantis“-Avatar](/images/u/ti_tanglangpifu.jpg) | [„Wogende Aura – Mantis“-Avatar](/ItemsDE/con_593/){: .btn .btn--era5} | Hero Avatar |  |

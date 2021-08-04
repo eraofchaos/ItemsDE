@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: de
 ref: "Consumables.md"
 toc: false
@@ -32,7 +32,7 @@ classes: wide
   | 18 | ![Beutel voll Diamanten](/images/t/i_507.png) | [Beutel voll Diamanten](/ItemsDE/con_708/){: .btn .btn--era2} | EXP | Ein Paket mit 38 Diamanten! |
   | 19 | ![Beutel voll Gold](/images/t/i_510.png) | [Beutel voll Gold](/ItemsDE/con_712/){: .btn .btn--era2} | EXP | Ein Paket mit 10.000 Gold. |
   | 20 | ![Bewegung](/images/t/i_111.png) | [Bewegung](/ItemsDE/con_894/){: .btn .btn--era4} | VIP related | Auf ins Abenteuer! |
-  | 21 |  | [Blauer Drache](/de/Items/con_2236/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin Blauer Drache: Hydra. |
+  | 21 |  | [Blauer Drache](/de/Items/con_2236/){: .btn .btn--era5} | Unit Skin | Gewährt die Skin „Azurdrache: Hydra“. |
   | 22 |  | [Blauer Kristall](/ItemsDE/con_716/){: .btn .btn--era3} | Material | Ein geheimnisvoller Runenstein. Kann die Erkenntnis von Einheiten verbessern. Gibt beim Benutzen 150 Einheiten-ERF. |
   | 23 |  | [Blutrünstiger-Geist-Spezialskin](/ItemsDE/con_650/){: .btn .btn--era5} | Special Skin | Die Skin wird freigeschaltet, sobald „Blutrünstiger Geist“ erweckt wird. |
   | 24 |  | [Blutrünstiger-Geist-Token](/ItemsDE/con_982/){: .btn .btn--era5} | Exclusive piece | Ein Blutrünstiger-Geist-Token einer uralten Kampagne, mit der das exklusive Potenzial des Behemoths erweckt wird: „Blutrünstiger Geist“. |
